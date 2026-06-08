@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base type="string">
+  <tags>
+    <tag language="日本語" />
+  </tags>
+  <strings>
+    <string id="tor_chaos_title" text="混沌不分のチャンピオン" />
+    <string id="tor_chaos_rank1" text="破滅のイニシエイト" />
+    <string id="tor_chaos_rank2" text="暗黒神の寵愛" />
+    <string id="tor_chaos_rank3" text="パンテオンに選ばれし者" />
+    <string id="tor_chaos_desc" text="犠牲、闇の魔法、重鎧、そして四神の恩恵によって支配する歩く災難。" />
+    <string id="tor_chaos_rite_label" text="隆盛の儀式" />
+    <string id="tor_chaos_rite_desc" text="つかの間の昇天: 恐怖、スピード、抵抗、近接戦闘の激怒、そして闇の魔法がチャンピオンの周りに押し寄せます。" />
+    <string id="tor_chaos_cc_option_text" text="混沌不分のチャンピオン" />
+    <string id="tor_chaos_cc_effect_text" text="カオスキャリア" />
+    <string id="tor_chaos_cc_flavour_text" text="あなたは血と魔術と破滅の道を歩んできました。神々はあなたのかかとにささやきます、そして弱者はすぐにひざまずくことを学ぶでしょう。" />
+    <string id="tor_chaos_cc_origin_option_text" text="ウォーバンドの末裔" />
+    <string id="tor_chaos_cc_origin_effect_text" text="ウォーバンドの起源" />
+    <string id="tor_chaos_cc_origin_flavour_text" text="あなた方は鉄の旗と悲鳴を上げる空の下で育ち、慈悲とは弱さであり、生き残るのは慈悲を受け入れた者のものだということを幼い頃から教えられてきました。" />
+    <string id="tor_chaos_cc_growth_option_text" text="血まみれの志願者" />
+    <string id="tor_chaos_cc_growth_effect_text" text="血まみれの志願者" />
+    <string id="tor_chaos_cc_growth_flavour_text" text="あなたの青春時代は、襲撃、待ち伏せ、ピットファイトで自分自身を証明することに費やされ、あなたが神の注目に値する人物であることを示す傷を負いました。" />
+    <string id="tor_chaos_culture_name_text" text="混沌" />
+    <string id="tor_chaos_cc_culture_name_text" text="混沌" />
+    <string id="tor_chaos_cc_culture_short_text" text="混沌" />
+    <string id="tor_chaos_cc_culture_desc_text" text="カオス アンディバイデッドのチャンピオンは、破滅の力の恐れられるしもべとして始まり、犠牲、闇の魔法、ポータル、四神への献身によって強さを獲得します。" />
+    <string id="tor_chaos_gifts_name" text="混沌の賜物" />
+    <string id="tor_chaos_gifts_desc" text="カオスギフトは、犠牲、処刑、荒廃した集落、勝利を通じて獲得されます。献身、蜂起、ポータルの儀式にそれらを費やしてください。" />
+    <string id="tor_chaos_invasion_name" text="カオス・インベージョン" />
+    <string id="tor_chaos_invasion_desc" text="処刑、ポータル、犠牲、蜂起によって注目が集まりました。より高いステージではデーモンハンターを呼び出し、最終的にはカオスに対して領域を団結させます。" />
+    <string id="tor_chaos_enchant_title" text="破滅的な秘密を選択してください..." />
+    <string id="tor_chaos_enchant_desc" text="ポータルから学ぶ禁止されたエンチャントを選択します。" />
+    <string id="tor_chaos_cc_origin_fallen_noble_option_text" text="堕落した貴族" />
+    <string id="tor_chaos_cc_origin_fallen_noble_effect_text" text="恥ずべき血統" />
+    <string id="tor_chaos_cc_origin_fallen_noble_flavour_text" text="あなたは指揮を執るために生まれましたが、古い法律はあなたの野心には小さすぎることが判明しました。法廷での誓いが果たせなかった場合、北部はそれに答えた。" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_option_text" text="ダークアコライト" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_effect_text" text="禁断の勉強" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_flavour_text" text="あなたは舌を焦がすような言葉と、ベールの向こうから目を引く印章を学びました。" />
+    <string id="tor_chaos_cc_growth_cult_handler_option_text" text="カルトハンドラー" />
+    <string id="tor_chaos_cc_growth_cult_handler_effect_text" text="隠れたセル" />
+    <string id="tor_chaos_cc_growth_cult_handler_flavour_text" text="あなたは、通り全体があなたのサインを知るまで、地下室、神社、刑務所の荷車の間でささやき声を伝えました。" />
+    <string id="tor_chaos_cc_growth_raider_option_text" text="ノーザンレイダー" />
+    <string id="tor_chaos_cc_growth_raider_effect_text" text="襲撃による流血" />
+    <string id="tor_chaos_cc_growth_raider_flavour_text" text="あなたの最初の教訓は、あなたの名前を知るのが遅すぎた村から得た、火、泥、鉄でした。" />
+    <string id="tor_chaos_prisoner_only_text" text="犠牲にできるのは囚人だけです。" />
+    <string id="tor_chaos_no_prisoners_text" text="このタイプの囚人はいません。" />
+    <string id="tor_chaos_sacrifice_text" text="犠牲" />
+    <string id="tor_chaos_portal_learn_enchantments_text" text="エンチャントを学ぶ" />
+    <string id="tor_chaos_portal_open_enchanting_text" text="装備をエンチャントする" />
+    <string id="tor_chaos_portal_buy_gear_text" text="カオスギアを購入する" />
+    <string id="tor_chaos_portal_recruit_cultists_text" text="カオス・ウォーバンドを募集する" />
+    <string id="tor_chaos_portal_recruit_warriors_text" text="戦士を募集する" />
+    <string id="tor_chaos_portal_no_recruits_text" text="現在、ポータルではウォーバンドは提供されていません。" />
+    <string id="tor_chaos_portal_recruit_title_text" text="カオスポータル ウォーバンド" />
+    <string id="tor_chaos_portal_recruited_paid_text" text="Chaos warband が{GOLD}ゴールドで募集されました。" />
+    <string id="tor_chaos_portal_recruit_not_enough_gold_text" text="このウォーバンドを採用するには{GOLD}ゴールドが必要です。" />
+    <string id="tor_chaos_portal_recruiting_progress_text" text="ポータルの向こうから戦士を呼んでいます..." />
+    <string id="tor_chaos_portal_recruit_no_space_text" text="パーティーに十分なスペースがありません。" />
+    <string id="tor_chaos_portal_recruit_not_enough_gifts_text" text="カオスギフトが足りません。" />
+    <string id="tor_chaos_portal_recruit_result_text" text="あなたはポータルから{PORTAL_RECRUIT_RESULT_NUMBER}人の戦士を採用しました。" />
+    <string id="tor_chaos_portal_recruit_result_empty_text" text="現在、ポータルではウォーバンドは提供されていません。" />
+    <string id="tor_chaos_devotion_gifts_text" text="混沌の賜物" />
+    <string id="tor_chaos_devotion_stage_text" text="ステージ" />
+    <string id="tor_chaos_devotion_next_text" text="次" />
+    <string id="tor_chaos_devotion_complete_text" text="完了" />
+    <string id="tor_chaos_devotion_balance_locked_text" text="不分の均衡によりロック" />
+    <string id="tor_chaos_devotion_click_hint_text" text="利用可能な場合は、クリックしてギフトを提供します。" />
+    <string id="tor_chaos_devotion_map_only_text" text="キャンペーン マップで信心パネルを開きます。" />
+    <string id="tor_chaos_portal_devotion_temp_text" text="四神への献身" />
+    <string id="tor_chaos_devotion_overview_text" text="四神を学ぶ" />
+    <string id="tor_chaos_devotion_title_text" text="四神への献身" />
+    <string id="tor_chaos_devotion_invest_text" text="ギフトを提供する" />
+    <string id="tor_chaos_devotion_success_text" text="闇の神々はあなたの才能を認めます。" />
+    <string id="tor_chaos_devotion_failed_text" text="神々はあなたの捧げ物を拒否します。" />
+    <string id="tor_chaos_devotion_unlocked_text" text="ロック解除済み" />
+    <string id="tor_chaos_devotion_need_gifts_text" text="カオスギフトが足りません" />
+    <string id="tor_chaos_devotion_can_unlock_text" text="ロックを解除する準備ができました" />
+    <string id="tor_chaos_devotion_locked_text" text="ロックされています" />
+    <string id="tor_chaos_god_khorne_text" text="コーン" />
+    <string id="tor_chaos_god_nurgle_text" text="ナーグル" />
+    <string id="tor_chaos_god_tzeentch_text" text="ティーンチ" />
+    <string id="tor_chaos_god_slaanesh_text" text="スラーネッシュ" />
+    <string id="tor_chaos_devotion_reward_khorne_1_text" text="20未満のダメージではよろめかない。" />
+    <string id="tor_chaos_devotion_reward_khorne_2_text" text="矢が盾を貫通し、物理耐性+5%。" />
+    <string id="tor_chaos_devotion_reward_khorne_3_text" text="祈りを解除：コーンの不屈。" />
+    <string id="tor_chaos_devotion_reward_khorne_4_text" text="近接攻撃が盾に1000%のダメージを与える。" />
+    <string id="tor_chaos_devotion_reward_khorne_5_text" text="あなたに突撃して命中した馬は騎手ごと倒れる。" />
+    <string id="tor_chaos_devotion_reward_khorne_6_text" text="撃破ごとに振り速度+1、最大+20。" />
+    <string id="tor_chaos_devotion_reward_khorne_7_text" text="防具貫通+15%。" />
+    <string id="tor_chaos_devotion_reward_khorne_8_text" text="移動速度+10%。" />
+    <string id="tor_chaos_devotion_reward_khorne_9_text" text="あなたの近接攻撃はブロックも受け流しもできない。" />
+    <string id="tor_chaos_devotion_reward_khorne_10_text" text="コーンの伝説の両手斧：大ダメージと、命中した敵を吹き飛ばすノックバック。" />
+    <string id="tor_chaos_devotion_reward_nurgle_1_text" text="キャンペーン移動速度+2。" />
+    <string id="tor_chaos_devotion_reward_nurgle_2_text" text="体力+25、キャンペーン回復+10%。" />
+    <string id="tor_chaos_devotion_reward_nurgle_3_text" text="祈りを解除：ナーグルの慈悲。" />
+    <string id="tor_chaos_devotion_reward_nurgle_4_text" text="撃破時にスケルトンを1体蘇らせる。" />
+    <string id="tor_chaos_devotion_reward_nurgle_5_text" text="加護+10%。" />
+    <string id="tor_chaos_devotion_reward_nurgle_6_text" text="ナーグルの跳躍：高く跳び、落下ダメージを無効化。" />
+    <string id="tor_chaos_devotion_reward_nurgle_7_text" text="体力+50。" />
+    <string id="tor_chaos_devotion_reward_nurgle_8_text" text="コンパニオン体力+100、コンパニオン上限+5。" />
+    <string id="tor_chaos_devotion_reward_nurgle_9_text" text="兵士の加護+25%。" />
+    <string id="tor_chaos_devotion_reward_nurgle_10_text" text="ナーグルの防具一式：5部位。各部位が物理耐性+5%、加護+5%、HP+5、遠隔耐性+10%。" />
+    <string id="tor_chaos_devotion_reward_tzeentch_1_text" text="呪文半径+15%。" />
+    <string id="tor_chaos_devotion_reward_tzeentch_2_text" text="魔法耐性+25%。" />
+    <string id="tor_chaos_devotion_reward_tzeentch_3_text" text="祈りを解除：ティーンチの一撃。" />
+    <string id="tor_chaos_devotion_reward_tzeentch_4_text" text="呪文威力+15%、呪文クールダウン-15%。" />
+    <string id="tor_chaos_devotion_reward_tzeentch_5_text" text="ティーンチの一撃で撃破すると魔法の風を0.5回復。" />
+    <string id="tor_chaos_devotion_reward_tzeentch_6_text" text="コンパニオン1人につき魔法の風+5、コンパニオン上限+5。" />
+    <string id="tor_chaos_devotion_reward_tzeentch_7_text" text="あなたの呪文は味方にダメージを与えなくなる。" />
+    <string id="tor_chaos_devotion_reward_tzeentch_8_text" text="近接命中時に10%の確率でティーンチの一撃を発動。" />
+    <string id="tor_chaos_devotion_reward_tzeentch_9_text" text="混沌のポータル1つにつき魔法の風+5。" />
+    <string id="tor_chaos_devotion_reward_tzeentch_10_text" text="ティーンチの伝説の杖：呪文威力が大幅上昇し、各戦闘の最初の3回の呪文が無料。" />
+    <string id="tor_chaos_devotion_reward_slaanesh_1_text" text="ロードの狂気：敵ロードとの会話で50の賜物を支払い、攻撃を避けさせる。" />
+    <string id="tor_chaos_devotion_reward_slaanesh_2_text" text="コンパニオン上限+5。" />
+    <string id="tor_chaos_devotion_reward_slaanesh_3_text" text="誘惑の祈りを解除。" />
+    <string id="tor_chaos_devotion_reward_slaanesh_4_text" text="ロードの誘惑：敵ロードとの会話で影響力200と賜物500を支払い、配下に加える。" />
+    <string id="tor_chaos_devotion_reward_slaanesh_5_text" text="スラーネッシュの翼：短時間飛行、クールダウン30秒。" />
+    <string id="tor_chaos_devotion_reward_slaanesh_6_text" text="すべての祈りが独立したクールダウンを得る。" />
+    <string id="tor_chaos_devotion_reward_slaanesh_7_text" text="混沌蜂起の成功率が100%になるが、賜物を追加で500消費。" />
+    <string id="tor_chaos_devotion_reward_slaanesh_8_text" text="部隊維持費とアップグレード費用-30%。" />
+    <string id="tor_chaos_devotion_reward_slaanesh_9_text" text="混沌のポータル募集は精鋭兵のみを提示する。" />
+    <string id="tor_chaos_devotion_reward_slaanesh_10_text" text="スラーネッシュの伝説の弓：魔法ダメージ+25%、キル時に近くの敵を誘惑する10%の確率。" />
+    <string id="tor_chaos_ui_close_text" text="閉じる" />
+    <string id="tor_chaos_portal_wait_text" text="ポータル内で待機します" />
+    <string id="tor_chaos_portal_wait_back_text" text="戻る" />
+    <string id="tor_chaos_portal_enter_text" text="カオスポータルに入る" />
+    <string id="tor_chaos_portal_force_uprising_text" text="混乱を強制的に蜂起させる" />
+    <string id="tor_chaos_village_raid_gifts_text" text="闇の神々はこの村を襲撃したことで{GIFTS}のカオスギフトを授ける。" />
+    <string id="tor_chaos_portal_unknown_text" text="ポータルは暗い約束で音を立てます。" />
+    <string id="tor_chaos_portal_intro_text" text="カオスポータルは盗まれた現実でうなり声を上げます。" />
+    <string id="tor_chaos_portal_impostor_text" text="血に濡れた裂け目が今、崩壊した集落を汚している。" />
+    <string id="tor_chaos_portal_waiting_text" text="ポータルが地平線に向かって進んでいる間、あなたは世界の間の傷の中で休んでいます。" />
+    <string id="tor_chaos_uprising_failed_text" text="市の警備員がカルト教団を血で溺死させた。蜂起は失敗します。" />
+    <string id="tor_chaos_uprising_failed_no_scene_text" text="カルトは摘発されましたが、粛清に利用できる都市の風景はありませんでした。" />
+    <string id="tor_chaos_invasion_stage_risen_text" text="カオスの侵略は{STAGE}段階まで進みます。" />
+    <string id="tor_chaos_invasion_stage_none_text" text="まだアクティブな侵入ステージはありません。" />
+    <string id="tor_chaos_invasion_stage_label_text" text="侵入段階" />
+    <string id="tor_chaos_invasion_daily_decay_text" text="日々の衰退" />
+    <string id="tor_chaos_invasion_daily_decay_value_text" text="- 侵略行為 (処刑、犠牲、ポータル、蜂起) なしで毎日{AMOUNT}回。" />
+    <string id="tor_chaos_demon_hunter_clan_name_text" text="デーモンハンター教団" />
+    <string id="tor_chaos_demon_hunter_clan_short_name_text" text="デーモンハンター" />
+    <string id="tor_chaos_demon_hunter_party_name_text" text="デーモンハンターウォーバンド" />
+    <string id="tor_chaos_demon_hunter_spawned_text" text="デーモンハンターがあなたに対して出陣しました。" />
+    <string id="tor_chaos_demon_hunter_lord_slain_text" text="デーモンハンターの領主が倒れた。侵略が依然として高い場合、50日以内にさらに増加するだろう。" />
+    <string id="tor_chaos_demon_hunter_respawn_text" text="新しいデーモンハンターの君主がカオスに対して誓いを立てます。" />
+    <string id="tor_chaos_eternal_alliance_text" text="王国はカオスに対して永遠の同盟を誓います。" />
+    <string id="tor_chaos_tier2_quest_title_text" text="最初の破滅の輪" />
+    <string id="tor_chaos_tier2_quest_log_villages_text" text="闇の神のために{REQUIRED}の村を襲撃せよ。" />
+    <string id="tor_chaos_tier2_quest_task_villages_text" text="村の襲撃" />
+    <string id="tor_chaos_tier2_quest_log_uprising_text" text="町または城で{REQUIRED}回の混沌蜂起を起こす。" />
+    <string id="tor_chaos_tier2_quest_task_uprising_text" text="混沌の反乱" />
+    <string id="tor_chaos_tier3_quest_title_text" text="パンテオンの王冠" />
+    <string id="tor_chaos_tier3_quest_log_cities_text" text="{REQUIRED}個の都市または城を混沌のポータルに変える。" />
+    <string id="tor_chaos_tier3_quest_task_cities_text" text="都市の変換" />
+    <string id="tor_chaos_tier3_quest_log_executions_text" text="{REQUIRED}人の敵領主を処刑する。" />
+    <string id="tor_chaos_tier3_quest_task_executions_text" text="主の処刑" />
+    <string id="tor_chaos_tier3_quest_log_devotion_text" text="四神全体で合計{REQUIRED}段階の献身に到達する。" />
+    <string id="tor_chaos_tier3_quest_task_devotion_text" text="徹底した献身" />
+    <string id="chaos_prayer_seduction_name_text" text="誘惑の祈り" />
+    <string id="chaos_prayer_seduction_desc_text" text="近くの意志の弱い敵を短時間、主人に敵対させます。" />
+    <string id="chaos_prayer_tzeentch_name_text" text="ティーンチ・ストライク" />
+    <string id="chaos_prayer_tzeentch_desc_text" text="衝撃で爆発する変化魔法のボルトを発射します。" />
+    <string id="chaos_prayer_nurgle_name_text" text="ナーグルの慈悲" />
+    <string id="chaos_prayer_nurgle_desc_text" text="味方を癒し、敵を病気にする腐った祝福を作り出します。" />
+    <string id="chaos_prayer_khorne_name_text" text="コーンの不屈の精神" />
+    <string id="chaos_prayer_khorne_desc_text" text="40秒間、物理抵抗とスイング速度を付与します。" />
+    <string id="chaos_wings_slaanesh_name_text" text="スラーネッシュの翼" />
+    <string id="chaos_wings_slaanesh_desc_text" text="悪魔の翼に乗って飛び立ちましょう。期間はアスレチックに合わせて調整します。 30秒のクールダウン。" />
+    <string id="tor_chaos_lord_madness_dialog_text" text="この主に狂気を解き放て。 (ギフト100個)" />
+    <string id="tor_chaos_lord_madness_npc_text" text="ロードはよろめき、破滅の幻視がその心を飲み込む。" />
+    <string id="tor_chaos_lord_madness_not_enough_text" text="100カオスギフトが必要です。" />
+    <string id="chaos_lord_madness_success_text" text="{LORD}は狂気に蝕まれ、ウォーバンドを避けます。" />
+    <string id="tor_chaos_lord_seduction_dialog_text" text="この君主をあなたの従者に誘惑してください。 (ギフト500、影響力200)" />
+    <string id="tor_chaos_lord_seduction_npc_text" text="ロードはあなたのささやく約束に抗えず、その刃をあなたの大義に捧げる。" />
+    <string id="tor_chaos_lord_seduction_not_enough_gifts_text" text="500カオスギフトが必要です。" />
+    <string id="tor_chaos_lord_seduction_not_enough_influence_text" text="200の影響力が必要です。" />
+    <string id="chaos_lord_seduction_success_text" text="{LORD}があなたの従者に誘惑されました。" />
+    <string id="chaos_lord_madness_success" text="{LORD}は狂気に蝕まれ、ウォーバンドを避けます。" />
+    <string id="chaos_lord_seduction_success" text="{LORD}があなたの従者に誘惑されました。" />
+    <string id="chaos_prayer_khorne_desc" text="40秒間、物理抵抗とスイング速度を付与します。" />
+    <string id="chaos_prayer_khorne_name" text="コーンの不屈の精神" />
+    <string id="chaos_prayer_nurgle_desc" text="味方を癒し、敵を病気にする腐った祝福を作り出します。" />
+    <string id="chaos_prayer_nurgle_name" text="ナーグルの慈悲" />
+    <string id="chaos_prayer_seduction_desc" text="近くの意志の弱い敵を短時間、主人に敵対させます。" />
+    <string id="chaos_prayer_seduction_name" text="誘惑の祈り" />
+    <string id="chaos_prayer_tzeentch_desc" text="衝撃で爆発する変化魔法のボルトを発射します。" />
+    <string id="chaos_prayer_tzeentch_name" text="ティーンチ・ストライク" />
+    <string id="chaos_rite_of_ascendancy_desc" text="つかの間の昇天: 恐怖、スピード、抵抗、近接戦闘の激怒、そして闇の魔法がチャンピオンの周りに押し寄せます。" />
+    <string id="chaos_rite_of_ascendancy_label" text="隆盛の儀式" />
+    <string id="chaos_wings_slaanesh_desc" text="悪魔の翼に乗って飛び立ちましょう。期間はアスレチックに合わせて調整します。 30秒のクールダウン。" />
+    <string id="chaos_wings_slaanesh_name" text="スラーネッシュの翼" />
+    <string id="tor_chaos_cc_culture_desc" text="カオス アンディバイデッドのチャンピオンは、破滅の力の恐れられるしもべとして始まり、犠牲、闇の魔法、ポータル、四神への献身によって強さを獲得します。" />
+    <string id="tor_chaos_cc_culture_name" text="混沌" />
+    <string id="tor_chaos_cc_culture_short" text="混沌" />
+    <string id="tor_chaos_cc_effect" text="カオスキャリア" />
+    <string id="tor_chaos_cc_flavour" text="あなたは血と魔術と破滅の道を歩んできました。神々はあなたのかかとにささやきます、そして弱者はすぐにひざまずくことを学ぶでしょう。" />
+    <string id="tor_chaos_cc_growth_effect" text="血まみれの志願者" />
+    <string id="tor_chaos_cc_growth_flavour" text="あなたの青春時代は、襲撃、待ち伏せ、ピットファイトで自分自身を証明することに費やされ、あなたが神の注目に値する人物であることを示す傷を負いました。" />
+    <string id="tor_chaos_cc_growth_handler_effect" text="隠された細胞" />
+    <string id="tor_chaos_cc_growth_handler_flavour" text="あなたは暗闇の中でナイフのようにカルトを動かし、恐怖、金、約束で忠誠を買うことを学びました。" />
+    <string id="tor_chaos_cc_growth_handler_option" text="カルトハンドラー" />
+    <string id="tor_chaos_cc_growth_option" text="血まみれの志願者" />
+    <string id="tor_chaos_cc_growth_raider_effect" text="襲撃による流血" />
+    <string id="tor_chaos_cc_growth_raider_flavour" text="あなたの最初の教訓は、あなたの名前を知るのが遅すぎた村から得た、火、泥、鉄でした。" />
+    <string id="tor_chaos_cc_growth_raider_option" text="ノーザンレイダー" />
+    <string id="tor_chaos_cc_option" text="混沌不分のチャンピオン" />
+    <string id="tor_chaos_cc_origin_acolyte_effect" text="禁断の研究" />
+    <string id="tor_chaos_cc_origin_acolyte_flavour" text="あなたの最初の祈りは禁断のページでささやかれ、そして暗闇の中で何かがささやき返した。" />
+    <string id="tor_chaos_cc_origin_acolyte_option" text="ダークアコライト" />
+    <string id="tor_chaos_cc_origin_effect" text="ウォーバンドの起源" />
+    <string id="tor_chaos_cc_origin_flavour" text="あなた方は鉄の旗と悲鳴を上げる空の下で育ち、慈悲とは弱さであり、生き残るのは慈悲を受け入れた者のものだということを幼い頃から教えられてきました。" />
+    <string id="tor_chaos_cc_origin_noble_effect" text="堕落した血統" />
+    <string id="tor_chaos_cc_origin_noble_flavour" text="あなたは指揮するために生まれてきたが、神々は定命の者のどんな遺産よりも輝かしい王冠を提供した。" />
+    <string id="tor_chaos_cc_origin_noble_option" text="堕落した貴族" />
+    <string id="tor_chaos_cc_origin_option" text="ウォーバンドの末裔" />
+    <string id="tor_chaos_claim_hideout_inactive_text" text="この混沌の隠れ家はすでに崩壊しています。" />
+    <string id="tor_chaos_claim_hideout_requires_clear_text" text="この混沌の隠れ家を占領する前に、防御側を倒してください。" />
+    <string id="tor_chaos_claim_hideout_success_text" text="混沌の隠れ家は今やあなたに従います。毎日 {GIFTS} 個のカオスギフトをもたらします。" />
+    <string id="tor_chaos_claim_hideout_text" text="このカオスの隠れ家を要求します" />
+    <string id="tor_chaos_claimed_hideout_daily_gifts_text" text="占領した混沌の隠れ家は {GIFTS} 個のカオスギフトをもたらします。" />
+    <string id="tor_chaos_culture_name" text="混沌" />
+    <string id="tor_chaos_demon_hunter_elite" text="デーモンハンター" />
+    <string id="tor_chaos_demon_hunter_grandmaster_first_name" text="デーモンハンター" />
+    <string id="tor_chaos_demon_hunter_grandmaster_name" text="デーモンハンター グランドマスター" />
+    <string id="tor_chaos_demon_hunter_guard" text="デーモンハンターガード" />
+    <string id="tor_chaos_demon_hunter_headhunter" text="デーモンヘッドハンター" />
+    <string id="tor_chaos_demon_hunter_lord" text="デーモンハンターロード" />
+    <string id="tor_chaos_demon_hunter_lord_first_name" text="デーモンハンター" />
+    <string id="tor_chaos_demon_hunter_lord_name" text="デーモンハンター {INDEX}" />
+    <string id="tor_chaos_end_of_times_complete_text" text="旧世界は壊れて横たわっている。カオスだけが耐えます。" />
+    <string id="tor_chaos_end_of_times_quest_log_text" text="混沌の王国を除く旧世界のすべての王国を破壊する。" />
+    <string id="tor_chaos_end_of_times_quest_task_text" text="王国は滅ぼされた" />
+    <string id="tor_chaos_end_of_times_quest_title_text" text="時代の終わり" />
+    <string id="tor_chaos_gifts_daily_change_hideouts_text" text="主張されたカオスの隠れ家" />
+    <string id="tor_chaos_gifts_daily_change_portals_text" text="カオス ポータル" />
+    <string id="tor_chaos_gifts_daily_income_hideouts_text" text="主張されたカオスの隠れ家: 1 日あたり +{AMOUNT} (それぞれ{PER_HIDEOUT})。" />
+    <string id="tor_chaos_gifts_daily_income_none_text" text="毎日のアクティブなカオス ギフト収入はありません。" />
+    <string id="tor_chaos_gifts_daily_income_portals_text" text="カオス ポータル: 1 日あたり +{AMOUNT} (それぞれ{PER_PORTAL})。" />
+    <string id="tor_chaos_gifts_daily_income_text" text="1日あたりの収入" />
+    <string id="tor_chaos_gifts_daily_income_total_text" text="+{AMOUNT} 1日あたりのカオスギフト。" />
+    <string id="tor_chaos_gifts_gain_bonus_career_text" text="カオスなキャリアの選択肢: +{AMOUNT}。" />
+    <string id="tor_chaos_gifts_gain_bonus_cult_network_text" text="カルトネットワーク: +20" />
+    <string id="tor_chaos_gifts_gain_bonus_god_marked_spoils_text" text="神印の戦利品: +25" />
+    <string id="tor_chaos_gifts_gain_bonus_none_text" text="アクティブなカオスギフト獲得ボーナスはありません。" />
+    <string id="tor_chaos_gifts_gain_bonus_portal_dominion_text" text="ポータル ドミニオン: +20" />
+    <string id="tor_chaos_gifts_gain_bonus_text" text="ボーナスを獲得" />
+    <string id="tor_chaos_god_mission_complete_executions_text" text="神々は主の血を楽しみます。 {REWARD} カオス ギフトを受け取ります。" />
+    <string id="tor_chaos_god_mission_complete_hideout_text" text="狂信者の巣窟があなたに頭を下げます。 {REWARD} カオス ギフトを受け取ります。" />
+    <string id="tor_chaos_god_mission_complete_uprising_text" text="反乱が彼らの都市に広がります。 {REWARD} カオス ギフトを受け取ります。" />
+    <string id="tor_chaos_god_mission_complete_village_text" text="灰と犠牲をパンテオンにお願いします。 {REWARD} カオス ギフトを受け取ります。" />
+    <string id="tor_chaos_god_mission_failed_text" text="闇の神々は不満を抱いています。 {PENALTY} カオス ギフトを失います。" />
+    <string id="tor_chaos_god_mission_issued_text" text="神々の要求: {MISSION}" />
+    <string id="tor_chaos_god_mission_log_executions_text" text="30日以内に敵の領主を {REQUIRED} 人処刑せよ。報酬：{REWARD} カオスギフト。失敗すると {PENALTY} ギフトを失う。" />
+    <string id="tor_chaos_god_mission_log_hideout_text" text="30日以内に狂信者の隠れ家を {REQUIRED} か所占領せよ。報酬：{REWARD} カオスギフト。失敗すると {PENALTY} ギフトを失う。" />
+    <string id="tor_chaos_god_mission_log_uprising_text" text="30日以内に混沌の蜂起を {REQUIRED} 回起こせ。報酬：{REWARD} カオスギフト。失敗すると {PENALTY} ギフトを失う。" />
+    <string id="tor_chaos_god_mission_log_village_text" text="30日以内に暗き神々のため村を {REQUIRED} つ襲撃せよ。報酬：{REWARD} カオスギフト。失敗すると {PENALTY} ギフトを失う。" />
+    <string id="tor_chaos_god_mission_task_executions_text" text="主の処刑" />
+    <string id="tor_chaos_god_mission_task_hideout_text" text="隠れ家主張" />
+    <string id="tor_chaos_god_mission_task_uprising_text" text="カオス蜂起" />
+    <string id="tor_chaos_god_mission_task_village_text" text="村襲撃" />
+    <string id="tor_chaos_god_mission_title_executions_text" text="ブラッド十分の一税" />
+    <string id="tor_chaos_god_mission_title_hideout_text" text="狂信者の隠れ家" />
+    <string id="tor_chaos_god_mission_title_uprising_text" text="不和の炎" />
+    <string id="tor_chaos_god_mission_title_village_text" text="灰の収穫" />
+    <string id="tor_chaos_no_prayers_unlocked" text="カオスの祈りは解除されないまだ。いずれかの神の信心ステージ 3 に到達する。" />
+    <string id="tor_chaos_portal_force_uprising_details_text" text="混沌の蜂起を強制（{GIFT_COST}{GIFT_ICON}、成功率 {UPRISING_CHANCE}%）" />
+    <string id="tor_chaos_portal_force_uprising_tooltip_text" text="コスト: {GIFT_COST}{GIFT_ICON}。現在の蜂起確率: {UPRISING_CHANCE}%。" />
+    <string id="tor_chaos_portal_god_mission_active_text" text="まず、神から与えられた現在のミッションを完了するか失敗してください。" />
+    <string id="tor_chaos_portal_god_mission_cooldown_text" text="神々は {DAYS} 日後に新たな使命を与える。" />
+    <string id="tor_chaos_portal_god_mission_text" text="神々からの使命を受け取る" />
+    <string id="tor_chaos_portal_god_mission_unavailable_text" text="今日は神々からの使命はありません。" />
+    <string id="tor_chaos_portal_learn_dark_magic_text" text="闇の魔法の呪文を学ぶ" />
+    <string id="tor_chaos_portal_learn_spell_text" text="{GIFTCOST}{GIFTS_ICON} を学ぶ" />
+    <string id="tor_chaos_portal_lord_clan_name_text" text="{LEADER} のホスト" />
+    <string id="tor_chaos_portal_lord_name_fallback_text" text="Ruinblade" />
+    <string id="tor_chaos_portal_prayer_faith_xp_text" text="あなたの祈りにより {XP} の信仰体験が与えられます。" />
+    <string id="tor_chaos_portal_sow_discord_invasion_blocked_text" text="彼らはそれがあなたであることを知っています。" />
+    <string id="tor_chaos_portal_sow_discord_not_enough_gifts_text" text="{GIFT_COST} カオス ギフトが必要です。" />
+    <string id="tor_chaos_portal_sow_discord_success_text" text="{ATTACKER} と {DEFENDER} はあなたのささやきによって互いに対立します。" />
+    <string id="tor_chaos_portal_sow_discord_text" text="不一致の種をまく" />
+    <string id="tor_chaos_portal_spell_learned_text" text="{SPELL} を学びました。" />
+    <string id="tor_chaos_portal_spell_need_perk_text" text="まず、必要な Spellcraft パークをロック解除します。" />
+    <string id="tor_chaos_portal_spell_not_enough_gifts_text" text="カオスギフトが足りません。" />
+    <string id="tor_chaos_portal_summon_lord_cooldown_text" text="ポータルは {DAYS} 日以内に別の領主を呼び出すことができます。" />
+    <string id="tor_chaos_portal_summon_lord_not_enough_gifts_text" text="{GIFT_COST} カオス ギフトが必要です。" />
+    <string id="tor_chaos_portal_summon_lord_success_text" text="{LORD} があなたの王国に加わりました。" />
+    <string id="tor_chaos_portal_summon_lord_text" text="カオス ロードを召喚する (ギフト 300)" />
+    <string id="tor_chaos_portal_summon_lord_unavailable_text" text="ポータルに応答できるカオス ロードは存在しません。" />
+    <string id="tor_chaos_portal_summoned_lord_first_name_text" text="ポータルが選択されました" />
+    <string id="tor_chaos_portal_summoned_lord_name_text" text="ポータルが選択されました {INDEX}" />
+    <string id="tor_chaos_portal_warband_name" text="{CAPTAIN} のウォーバンド" />
+    <string id="tor_chaos_portal_warband_name_text" text="{CAPTAIN} のウォーバンド" />
+    <string id="tor_chaos_raid_speed_bonus" text="カオス レイダー" />
+    <string id="tor_chaos_shrine_defile_option_text" text="カオス ギフトのために神社を汚します。 {GOD_NAME} のフォロワーはこれを覚えているでしょう。" />
+    <string id="tor_chaos_shrine_defile_result_text" text="{DEFILE_AMOUNT} 個のカオスギフト {GIFTS_ICON} を得た。この冒涜の噂は {GOD_NAME} の信徒に届く。" />
+    <string id="tor_chaos_shrine_defile_reward_text" text="冒涜された祠は {GIFTS} 個のカオスギフトをもたらす。" />
+    <string id="tor_chaos_sow_discord_confirm_text" text="Kindle 戦争" />
+    <string id="tor_chaos_sow_discord_cost_label_text" text="コスト:" />
+    <string id="tor_chaos_sow_discord_cost_text" text="コスト: {GIFT_COST} カオス ギフト" />
+    <string id="tor_chaos_sow_discord_gifts_balance_text" text="カオス ギフト: {AMOUNT}" />
+    <string id="tor_chaos_sow_discord_hint_text" text="左側で 2 つの王国を選択します。上の領域が下の領域にぶつかります。" />
+    <string id="tor_chaos_sow_discord_map_only_text" text="キャンペーン マップ上でこのパネルを開きます。" />
+    <string id="tor_chaos_sow_discord_slot_bottom_text" text="防御者" />
+    <string id="tor_chaos_sow_discord_slot_top_text" text="攻撃者" />
+    <string id="tor_chaos_sow_discord_title_text" text="不和の種をまく" />
+    <string id="tor_chaos_tier2_quest_log_hideouts_text" text="{REQUIRED} カルト信者の隠れ家を暗黒の神々に要求してください。" />
+    <string id="tor_chaos_tier2_quest_task_hideouts_text" text="狂信者の隠れ家" />
+    <string id="0ZXMKL4M" text="Chavil" />
+    <string id="38o99yqa" text="Borcha" />
+    <string id="4Su3mMpd" text="Ivaren" />
+    <string id="6fbD85kZ" text="Kara" />
+    <string id="6FebKbCp" text="Chel" />
+    <string id="7n7V9Va5" text="Irya" />
+    <string id="9pnUaj0g" text="Elyaksha" />
+    <string id="aYiL7eDM" text="Ilmir" />
+    <string id="bBD4tF2y" text="Morochoving" />
+    <string id="BGHBvAK1" text="Kulyat" />
+    <string id="bNj9gI2y" text="Astin" />
+    <string id="BrI1aJdo" text="Rukhanoving" />
+    <string id="bzaLf3EU" text="Magan" />
+    <string id="bzXmtoC6" text="Koleg" />
+    <string id="CoYOwpLP" text="Davan" />
+    <string id="ctJub9Ah" text="Khirinoving" />
+    <string id="DakafAXa" text="Zamantoving" />
+    <string id="daulkQvv" text="Brinya" />
+    <string id="dey9d9DX" text="Kasyoving" />
+    <string id="DxU5mVDg" text="Pyasoving" />
+    <string id="eNSZGTbN" text="Doronoving" />
+    <string id="euyyBbjq" text="Folyoroving" />
+    <string id="eYY8319F" text="Dalibol" />
+    <string id="FkbO2Abd" text="Kras" />
+    <string id="fYN6Aawl" text="Kyraslav" />
+    <string id="gC1paDtD" text="Yerchoving" />
+    <string id="HxKE18yl" text="Lasvak" />
+    <string id="iFJbnbCQ" text="Agdil" />
+    <string id="IVHobRWE" text="Usharoving" />
+    <string id="J5kC0K3W" text="Gutrag" />
+    <string id="jqaH0a35" text="Tymanoving" />
+    <string id="jVPr0ZzB" text="Achyr" />
+    <string id="KbIHavJj" text="Borabos" />
+    <string id="KBq7aQRa" text="Lek" />
+    <string id="Lcbrsqw8" text="Syaveroving" />
+    <string id="lpbIXNdK" text="Suratoving" />
+    <string id="Lv753Nnn" text="Zylata" />
+    <string id="NbprLzeU" text="Dazheroving" />
+    <string id="NLXHafGS" text="Gissinoving" />
+    <string id="ODcWVL1a" text="Gendiroving" />
+    <string id="ODVepnRR" text="Bylorn" />
+    <string id="OLLYkaWd" text="Asraloving" />
+    <string id="ORJZJYt7" text="Churig" />
+    <string id="OrUdifEU" text="Yathanoving" />
+    <string id="oyxam3bN" text="Blag" />
+    <string id="pfAkvdYc" text="Gorgi" />
+    <string id="pqlMxWoM" text="Alek" />
+    <string id="Py1Jj5mB" text="Lorik" />
+    <string id="Q8gCUmQq" text="Gyn" />
+    <string id="qD72Ya4I" text="Zhanoving" />
+    <string id="R1JECC9r" text="Zhira" />
+    <string id="RFapQLfR" text="Vyshoving" />
+    <string id="RpDv3cGI" text="Rimanoving" />
+    <string id="scCmMFeI" text="Ekadrya" />
+    <string id="tGEChxdb" text="Achanoving" />
+    <string id="tKUIAmbV" text="Fyomanoving" />
+    <string id="UaOynysV" text="Agna" />
+    <string id="UYqwbjTP" text="Iskanoving" />
+    <string id="Va35TmQW" text="Igrunoving" />
+    <string id="VaqB0x4K" text="Dranga" />
+    <string id="Vp9n86Wy" text="Lezhanoving" />
+    <string id="WNb0Bw0e" text="Kavyl" />
+    <string id="WP63fA7r" text="Alkirya" />
+    <string id="XJZJIZ9Q" text="Cholokhoving" />
+    <string id="XqcD0WEu" text="Asta" />
+    <string id="XQfYxgti" text="Nimanoving" />
+    <string id="Y9qYt71a" text="Balikoving" />
+    <string id="YahyjyK5" text="Gudra" />
+    <string id="YdMwMdyf" text="Dumat" />
+    <string id="YJ6JKs9O" text="Kyorinoving" />
+    <string id="yNSLGTYc" text="Erta" />
+    <string id="yUuM8a0j" text="Boranoving" />
+    <string id="z2Oqk8aq" text="Maregoving" />
+    <string id="z3rmbOSO" text="Gavyn" />
+    <string id="Z5NIRUPc" text="Idruna" />
+    <string id="ZkaaXxeB" text="Isvan" />
+    <string id="zYAl76GW" text="Borytor" />
+    <string id="tor_chaos_force_uprising_wounded" text="負傷が重すぎて反乱を起こせません。" />
+    <string id="tor_chaos_lord_seduction_not_enough_resources" text="恩寵または影響力が足りません。" />
+    <string id="tor_chaos_trait_khorne_axe_name" text="血神の斧" />
+    <string id="tor_chaos_trait_khorne_axe_desc" text="物理ダメージ +25%、薙ぎ払い強化、命中時に敵をノックバック、撃破ごとに体力 +3。" />
+    <string id="tor_chaos_trait_nurgle_reflect_name" text="胞子に触れし守り" />
+    <string id="tor_chaos_trait_nurgle_reflect_desc" text="遠隔耐性 +10%。" />
+    <string id="tor_chaos_trait_nurgle_resilience_name" text="祖父の強靭" />
+    <string id="tor_chaos_trait_nurgle_resilience_desc" text="物理耐性 +5%。" />
+    <string id="tor_chaos_trait_nurgle_gift_name" text="豊穣なる腐敗" />
+    <string id="tor_chaos_trait_nurgle_gift_desc" text="護りのセーブ +5%、最大体力 +5。" />
+    <string id="tor_chaos_trait_tzeentch_radius_name" text="変化の建築家" />
+    <string id="tor_chaos_trait_tzeentch_radius_desc" text="呪文半径 +15%。" />
+    <string id="tor_chaos_trait_tzeentch_power_name" text="流転の熟達" />
+    <string id="tor_chaos_trait_tzeentch_power_desc" text="呪文威力 +15%。" />
+    <string id="tor_chaos_trait_tzeentch_winds_name" text="操作の風" />
+    <string id="tor_chaos_trait_tzeentch_winds_desc" text="戦闘中、次の3回の呪文は魔法の風を消費しない。" />
+    <string id="tor_chaos_trait_slaanesh_bow_name" text="過剰の弓" />
+    <string id="tor_chaos_trait_slaanesh_bow_desc" text="魔法ダメージ +25%、撃破時に周囲の敵を誘惑する確率 10%。" />
+    <string id="tor_chaos_career_root_desc" text="昇天の儀式：23秒持続。物理耐性 +20%、護り +5%、近接ダメージ +30%、呪文ダメージ +25%、移動/攻撃速度 +15%。敵を遅くし、混沌の味方を強化する。" />
+    <string id="tor_chaos_career_root_mutated_desc" text="23秒持続。物理耐性 +20%、護り +5%、近接ダメージ +30%、呪文ダメージ +25%、移動/攻撃速度 +15%。敵を遅くし、混沌の味方を強化する。" />
+    <string id="tor_chaos_career_condition_champion" text="真の混沌のチャンピオンだけがこの道を進めます。" />
+    <string id="tor_chaos_career_condition_tier1" text="先に第1段階を極める必要があります。" />
+    <string id="tor_chaos_career_condition_unlock_tier2" text="この段階を解除するには、カルトの隠れ家を3つ掌握し、都市反乱を1つ起こしてください。" />
+    <string id="tor_chaos_career_condition_tier2" text="先に第2段階を極める必要があります。" />
+    <string id="tor_chaos_career_condition_unlock_tier3" text="この段階を解除するには、3つの都市を打ち砕き、5人の領主を処刑し、深い信仰に到達してください。" />
+    <string id="tor_chaos_choice_ruinous_blade_name" text="破滅の刃" />
+    <string id="tor_chaos_choice_ruinous_blade_keystone" text="昇天：近接ダメージ +10%、攻撃速度 +5%。" />
+    <string id="tor_chaos_choice_ruinous_blade_passive_1" text="体力 +25。" />
+    <string id="tor_chaos_choice_ruinous_blade_passive_2" text="近接ダメージ +15%。" />
+    <string id="tor_chaos_choice_ruinous_blade_passive_3" text="振り速度 +10%。" />
+    <string id="tor_chaos_choice_ruinous_blade_passive_4" text="近接の装甲貫通 +10%。" />
+    <string id="tor_chaos_choice_warp_conduit_name" text="ワープ導管" />
+    <string id="tor_chaos_choice_warp_conduit_keystone" text="昇天：クールダウン -3秒、呪文ダメージ +10%、魔法の風リンク +5%。" />
+    <string id="tor_chaos_choice_warp_conduit_passive_1" text="魔法の風 +20。" />
+    <string id="tor_chaos_choice_warp_conduit_passive_2" text="魔法の風再生 +20%。" />
+    <string id="tor_chaos_choice_warp_conduit_passive_3" text="呪文半径 +10%。" />
+    <string id="tor_chaos_choice_warp_conduit_passive_4" text="呪文効果 +15%。" />
+    <string id="tor_chaos_choice_cult_network_name" text="カルト網" />
+    <string id="tor_chaos_choice_cult_network_keystone" text="昇天：持続時間 +3秒、移動速度 +5%、物理耐性 +5%。" />
+    <string id="tor_chaos_choice_cult_network_passive_1" text="すべての源から混沌の恩寵 +20。" />
+    <string id="tor_chaos_choice_cult_network_passive_2" text="部隊規模 +10。" />
+    <string id="tor_chaos_choice_cult_network_passive_3" text="兵の賃金 -10%。" />
+    <string id="tor_chaos_choice_cult_network_passive_4" text="戦闘名声獲得 +10%。" />
+    <string id="tor_chaos_choice_portal_dominion_name" text="ポータル支配" />
+    <string id="tor_chaos_choice_portal_dominion_keystone" text="昇天：半径 +6、護り耐性 +5%、魔法の風リンク +5%。重装甲による魔法の風損失を除去。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_1" text="部隊移動速度 +10%。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_2" text="個人移動速度 +15%。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_3" text="すべての源から混沌の恩寵 +20。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_4" text="エンチャント費用 -10%。" />
+    <string id="tor_chaos_choice_god_marked_spoils_name" text="神印の戦利品" />
+    <string id="tor_chaos_choice_god_marked_spoils_keystone" text="昇天：近接ダメージ +5%、物理耐性 +5%。" />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="戦闘名声獲得 +15%。" />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_2" text="兵のダメージ +15%。" />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_3" text="兵の耐性 +10%。" />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_4" text="すべての源から混沌の恩寵 +25。" />
+    <string id="tor_chaos_choice_undivided_apotheosis_name" text="混沌無分の神化" />
+    <string id="tor_chaos_choice_undivided_apotheosis_keystone" text="昇天：クールダウン -10秒、持続 +6秒、半径 +6、護り耐性 +8%、近接ダメージ +8%。" />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_1" text="体力 +30。" />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_2" text="物理耐性 +20%。" />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_3" text="呪文効果 +15%。" />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_4" text="振り速度 +10%。" />
+    <string id="tor_chaos_choice_everchosen_command_name" text="永遠に選ばれし者の指揮" />
+    <string id="tor_chaos_choice_everchosen_command_keystone" text="昇天：攻撃速度 +8%。敵：移動速度 -5%、攻撃速度 -5%。" />
+    <string id="tor_chaos_choice_everchosen_command_passive_1" text="部隊規模 +20。" />
+    <string id="tor_chaos_choice_everchosen_command_passive_2" text="兵のダメージ +20%。" />
+    <string id="tor_chaos_choice_everchosen_command_passive_3" text="兵の耐性 +20%。" />
+    <string id="tor_chaos_choice_everchosen_command_passive_4" text="兵の士気 +20%。" />
+    <string id="tor_chaos_cc_origin_fallen_noble_option" text="堕落した貴族" />
+    <string id="tor_chaos_cc_origin_fallen_noble_effect" text="恥ずべき血統" />
+    <string id="tor_chaos_cc_origin_fallen_noble_flavour" text="あなたは指揮を執るために生まれましたが、古い法律はあなたの野心には小さすぎることが判明しました。法廷での誓いが果たせなかった場合、北部はそれに答えた。" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_option" text="ダークアコライト" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_effect" text="禁断の勉強" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_flavour" text="あなたは舌を焦がすような言葉と、ベールの向こうから目を引く印章を学びました。" />
+    <string id="tor_chaos_cc_growth_cult_handler_option" text="カルトハンドラー" />
+    <string id="tor_chaos_cc_growth_cult_handler_effect" text="隠れたセル" />
+    <string id="tor_chaos_cc_growth_cult_handler_flavour" text="あなたは、通り全体があなたのサインを知るまで、地下室、神社、刑務所の荷車の間でささやき声を伝えました。" />
+    <string id="tor_chaos_weapon_bow_slaanesh_legendary" text="スラーネッシュの弓" />
+    <string id="tor_chaos_weapon_bow_slaanesh_legendary_text" text="スラーネッシュの弓" />
+    <string id="tor_chaos_cc_feat_armor" text="重装甲と苛烈な近接戦闘力" />
+    <string id="tor_chaos_cc_feat_magic" text="闇の魔法と混沌の恩寵経済" />
+    <string id="tor_chaos_cc_feat_enemy" text="文明諸国の敵として開始" />    <string id="tor_chaos_menu_continue_text" text="続ける" />
+    <string id="tor_chaos_menu_leave_text" text="去る..." />
+    <string id="tor_chaos_portal_name" text="混沌のポータル" />
+  </strings>
+</base>

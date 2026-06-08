@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<partyTemplates>
+  <MBPartyTemplate id="tor_chaos_demon_hunter_party_template">
+    <stacks>
+      <PartyTemplateStack min_value="12" max_value="18" troop="NPCCharacter.tor_chaos_demon_hunter_elite" />
+      <PartyTemplateStack min_value="6" max_value="10" troop="NPCCharacter.tor_chaos_demon_hunter_headhunter" />
+      <PartyTemplateStack min_value="10" max_value="16" troop="NPCCharacter.tor_chaos_demon_hunter_guard" />
+      <PartyTemplateStack min_value="4" max_value="8" troop="NPCCharacter.tor_empire_reiksguard_preceptor" />
+      <PartyTemplateStack min_value="2" max_value="5" troop="NPCCharacter.tor_empire_flagellant" />
+    </stacks>
+  </MBPartyTemplate>
+</partyTemplates>

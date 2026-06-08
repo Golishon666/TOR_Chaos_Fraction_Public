@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+    <string id="tor_chaos_title" text="카오스 언디바이디드 챔피언" />
+    <string id="tor_chaos_rank1" text="파멸의 입회자" />
+    <string id="tor_chaos_rank2" text="어둠의 신들의 총애를 받는" />
+    <string id="tor_chaos_rank3" text="판테온의 에버초즌" />
+    <string id="tor_chaos_desc" text="희생, 암흑 마법, 중갑, 네 신 모두의 은총을 통해 다스리는 걸어다니는 재앙입니다." />
+    <string id="tor_chaos_rite_label" text="승천의 의례" />
+    <string id="tor_chaos_rite_desc" text="단기적인 승천: 두려움, 속도, 저항, 근접 분노, 어둠의 마법이 챔피언 주위로 쇄도합니다." />
+    <string id="tor_chaos_cc_option_text" text="카오스 언디바이디드 챔피언" />
+    <string id="tor_chaos_cc_effect_text" text="카오스 커리어" />
+    <string id="tor_chaos_cc_flavour_text" text="당신은 피와 마법과 파멸의 길을 걸어왔습니다. 신들이 당신의 발뒤꿈치에 속삭이고, 약한 자들은 곧 무릎을 꿇는 법을 배우게 될 것입니다." />
+    <string id="tor_chaos_cc_origin_option_text" text="워밴드의 후예" />
+    <string id="tor_chaos_cc_origin_effect_text" text="워밴드 오리진" />
+    <string id="tor_chaos_cc_origin_flavour_text" text="당신은 철 깃발과 비명을 지르는 하늘 아래에서 자랐으며, 자비는 약함이며 생존은 그것을 취하는 자의 것임을 일찍부터 배웠습니다." />
+    <string id="tor_chaos_cc_growth_option_text" text="피묻은 지원자" />
+    <string id="tor_chaos_cc_growth_effect_text" text="피묻은 지원자" />
+    <string id="tor_chaos_cc_growth_flavour_text" text="당신의 젊음은 습격, 매복, 구덩이 싸움에서 자신을 증명하는 데 소비되었으며, 당신은 신의 관심을 받을 가치가 있는 사람으로 표시되는 흉터를 얻었습니다." />
+    <string id="tor_chaos_culture_name_text" text="카오스" />
+    <string id="tor_chaos_cc_culture_name_text" text="카오스" />
+    <string id="tor_chaos_cc_culture_short_text" text="카오스" />
+    <string id="tor_chaos_cc_culture_desc_text" text="Chaos Undivided의 챔피언은 파괴적인 힘의 두려운 하수인으로 시작하여 희생, 암흑 마법, 차원문, 네 신에 대한 헌신을 통해 힘을 얻습니다." />
+    <string id="tor_chaos_gifts_name" text="카오스 선물" />
+    <string id="tor_chaos_gifts_desc" text="카오스 선물은 희생, 처형, 파괴된 정착지 및 승리를 통해 획득됩니다. 헌신, 봉기, 포털 의식에 사용하세요." />
+    <string id="tor_chaos_invasion_name" text="카오스 침공" />
+    <string id="tor_chaos_invasion_desc" text="처형, 포털, 희생 및 봉기로 관심을 끌었습니다. 더 높은 단계에서는 악마사냥꾼을 부르고 결국 카오스에 맞서 영역을 통합합니다." />
+    <string id="tor_chaos_enchant_title" text="파멸적인 비밀을 선택하세요..." />
+    <string id="tor_chaos_enchant_desc" text="포털에서 배우려면 금지된 마법을 선택하세요." />
+    <string id="tor_chaos_cc_origin_fallen_noble_option_text" text="타락한 귀족" />
+    <string id="tor_chaos_cc_origin_fallen_noble_effect_text" text="불명예스러운 혈통" />
+    <string id="tor_chaos_cc_origin_fallen_noble_flavour_text" text="당신은 명령을 내리기 위해 태어났지만, 오래된 법은 당신의 야망에 비해 너무 작은 것으로 판명되었습니다. 북쪽은 법정 맹세가 실패한 곳에 대답했습니다." />
+    <string id="tor_chaos_cc_origin_dark_acolyte_option_text" text="어둠의 수행사제" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_effect_text" text="금지된 연구" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_flavour_text" text="당신은 혀를 불태우는 말과 장막 너머에서 시선을 끄는 인장을 배웠습니다." />
+    <string id="tor_chaos_cc_growth_cult_handler_option_text" text="컬트 핸들러" />
+    <string id="tor_chaos_cc_growth_cult_handler_effect_text" text="숨겨진 셀" />
+    <string id="tor_chaos_cc_growth_cult_handler_flavour_text" text="거리 전체가 당신의 신호를 알 때까지 당신은 지하실, 성소, 감옥 수레 사이에서 속삭임을 전달했습니다." />
+    <string id="tor_chaos_cc_growth_raider_option_text" text="노던 레이더" />
+    <string id="tor_chaos_cc_growth_raider_effect_text" text="습격으로 피를 흘리다" />
+    <string id="tor_chaos_cc_growth_raider_flavour_text" text="당신의 첫 번째 교훈은 당신의 이름을 너무 늦게 알게 된 마을에서 배운 불, 진흙, 강철이었습니다." />
+    <string id="tor_chaos_prisoner_only_text" text="오직 죄수만이 희생될 수 있습니다." />
+    <string id="tor_chaos_no_prisoners_text" text="이런 유형의 죄수는 없습니다." />
+    <string id="tor_chaos_sacrifice_text" text="희생" />
+    <string id="tor_chaos_portal_learn_enchantments_text" text="마법 배우기" />
+    <string id="tor_chaos_portal_open_enchanting_text" text="장비 인챈트" />
+    <string id="tor_chaos_portal_buy_gear_text" text="카오스 장비 구매" />
+    <string id="tor_chaos_portal_recruit_cultists_text" text="혼돈의 워밴드 모집" />
+    <string id="tor_chaos_portal_recruit_warriors_text" text="전사 모집" />
+    <string id="tor_chaos_portal_no_recruits_text" text="현재 포털에서는 워밴드를 제공하지 않습니다." />
+    <string id="tor_chaos_portal_recruit_title_text" text="카오스 포탈 워밴드" />
+    <string id="tor_chaos_portal_recruited_paid_text" text="{GOLD}골드를 위해 모집된 카오스 워밴드." />
+    <string id="tor_chaos_portal_recruit_not_enough_gold_text" text="이 워밴드를 모집하려면{GOLD}골드가 필요합니다." />
+    <string id="tor_chaos_portal_recruiting_progress_text" text="차원문 너머에서 전사를 부르는 중..." />
+    <string id="tor_chaos_portal_recruit_no_space_text" text="파티 공간이 부족합니다." />
+    <string id="tor_chaos_portal_recruit_not_enough_gifts_text" text="카오스 선물이 부족합니다." />
+    <string id="tor_chaos_portal_recruit_result_text" text="포털에서{PORTAL_RECRUIT_RESULT_NUMBER}전사를 모집했습니다." />
+    <string id="tor_chaos_portal_recruit_result_empty_text" text="현재 포털에서는 워밴드를 제공하지 않습니다." />
+    <string id="tor_chaos_devotion_gifts_text" text="카오스 선물" />
+    <string id="tor_chaos_devotion_stage_text" text="단계" />
+    <string id="tor_chaos_devotion_next_text" text="다음" />
+    <string id="tor_chaos_devotion_complete_text" text="완료" />
+    <string id="tor_chaos_devotion_balance_locked_text" text="언디바이디드 균형으로 잠김" />
+    <string id="tor_chaos_devotion_click_hint_text" text="가능한 경우 선물을 제공하려면 클릭하세요." />
+    <string id="tor_chaos_devotion_map_only_text" text="캠페인 지도에서 헌신 패널을 엽니다." />
+    <string id="tor_chaos_portal_devotion_temp_text" text="네 신에 대한 헌신" />
+    <string id="tor_chaos_devotion_overview_text" text="네 신을 연구하라" />
+    <string id="tor_chaos_devotion_title_text" text="네 신에 대한 헌신" />
+    <string id="tor_chaos_devotion_invest_text" text="선물 제공" />
+    <string id="tor_chaos_devotion_success_text" text="어둠의 신들이 당신의 공물을 인정합니다." />
+    <string id="tor_chaos_devotion_failed_text" text="신들은 당신의 제물을 거부합니다." />
+    <string id="tor_chaos_devotion_unlocked_text" text="잠금 해제됨" />
+    <string id="tor_chaos_devotion_need_gifts_text" text="카오스 선물이 충분하지 않습니다" />
+    <string id="tor_chaos_devotion_can_unlock_text" text="잠금 해제 준비 완료" />
+    <string id="tor_chaos_devotion_locked_text" text="잠김" />
+    <string id="tor_chaos_god_khorne_text" text="코른" />
+    <string id="tor_chaos_god_nurgle_text" text="너글" />
+    <string id="tor_chaos_god_tzeentch_text" text="젠취" />
+    <string id="tor_chaos_god_slaanesh_text" text="슬라네쉬" />
+    <string id="tor_chaos_devotion_reward_khorne_1_text" text="20 미만 피해의 공격에는 비틀거리지 않습니다." />
+    <string id="tor_chaos_devotion_reward_khorne_2_text" text="화살이 방패를 관통하고 물리 저항 +5%를 얻습니다." />
+    <string id="tor_chaos_devotion_reward_khorne_3_text" text="기도 해금: 코른의 인내." />
+    <string id="tor_chaos_devotion_reward_khorne_4_text" text="근접 공격이 방패에 1000% 피해를 줍니다." />
+    <string id="tor_chaos_devotion_reward_khorne_5_text" text="당신을 들이받은 돌격마는 기수와 함께 쓰러집니다." />
+    <string id="tor_chaos_devotion_reward_khorne_6_text" text="처치할 때마다 휘두르기 속도 +1, 최대 +20." />
+    <string id="tor_chaos_devotion_reward_khorne_7_text" text="방어구 관통 +15%." />
+    <string id="tor_chaos_devotion_reward_khorne_8_text" text="이동 속도 +10%." />
+    <string id="tor_chaos_devotion_reward_khorne_9_text" text="당신의 근접 공격은 막거나 쳐낼 수 없습니다." />
+    <string id="tor_chaos_devotion_reward_khorne_10_text" text="코른의 전설 양손 도끼: 막대한 피해와 적을 날려버리는 밀쳐내기." />
+    <string id="tor_chaos_devotion_reward_nurgle_1_text" text="캠페인 이동 속도 +2." />
+    <string id="tor_chaos_devotion_reward_nurgle_2_text" text="체력 +25, 캠페인 치유 +10%." />
+    <string id="tor_chaos_devotion_reward_nurgle_3_text" text="기도 해금: 너글의 자비." />
+    <string id="tor_chaos_devotion_reward_nurgle_4_text" text="처치 시 해골 하나를 일으킵니다." />
+    <string id="tor_chaos_devotion_reward_nurgle_5_text" text="와드 +10%." />
+    <string id="tor_chaos_devotion_reward_nurgle_6_text" text="너글의 도약: 높이 뛰고 낙하 피해에 면역." />
+    <string id="tor_chaos_devotion_reward_nurgle_7_text" text="체력 +50." />
+    <string id="tor_chaos_devotion_reward_nurgle_8_text" text="동료 체력 +100, 동료 한도 +5." />
+    <string id="tor_chaos_devotion_reward_nurgle_9_text" text="병사 와드 +25%." />
+    <string id="tor_chaos_devotion_reward_nurgle_10_text" text="너글 방어구 세트: 5부위; 각 부위가 물리 저항 +5%, 와드 +5%, HP +5, 원거리 저항 +10%를 부여합니다." />
+    <string id="tor_chaos_devotion_reward_tzeentch_1_text" text="주문 반경 +15%." />
+    <string id="tor_chaos_devotion_reward_tzeentch_2_text" text="마법 저항 +25%." />
+    <string id="tor_chaos_devotion_reward_tzeentch_3_text" text="기도 해금: 젠취의 일격." />
+    <string id="tor_chaos_devotion_reward_tzeentch_4_text" text="주문 위력 +15%, 주문 재사용 대기시간 -15%." />
+    <string id="tor_chaos_devotion_reward_tzeentch_5_text" text="젠취의 일격으로 처치하면 마법의 바람 0.5를 회복합니다." />
+    <string id="tor_chaos_devotion_reward_tzeentch_6_text" text="동료당 마법의 바람 +5, 동료 한도 +5." />
+    <string id="tor_chaos_devotion_reward_tzeentch_7_text" text="당신의 주문은 더 이상 아군에게 피해를 주지 않습니다." />
+    <string id="tor_chaos_devotion_reward_tzeentch_8_text" text="근접 명중 시 10% 확률로 젠취의 일격 발동." />
+    <string id="tor_chaos_devotion_reward_tzeentch_9_text" text="카오스 포털당 마법의 바람 +5." />
+    <string id="tor_chaos_devotion_reward_tzeentch_10_text" text="젠취의 전설 지팡이: 주문 위력이 크게 증가하고 전투마다 처음 3회 주문 시전이 무료입니다." />
+    <string id="tor_chaos_devotion_reward_slaanesh_1_text" text="군주의 광기: 적 군주와 대화 중 선물 50을 지불해 공격을 피하게 합니다." />
+    <string id="tor_chaos_devotion_reward_slaanesh_2_text" text="동료 한도 +5." />
+    <string id="tor_chaos_devotion_reward_slaanesh_3_text" text="유혹의 기도를 해금합니다." />
+    <string id="tor_chaos_devotion_reward_slaanesh_4_text" text="군주 유혹: 적 군주와 대화 중 영향력 200과 선물 500을 지불해 영입합니다." />
+    <string id="tor_chaos_devotion_reward_slaanesh_5_text" text="슬라네쉬의 날개: 짧은 시간 비행, 재사용 대기시간 30초." />
+    <string id="tor_chaos_devotion_reward_slaanesh_6_text" text="모든 기도가 독립된 재사용 대기시간을 얻습니다." />
+    <string id="tor_chaos_devotion_reward_slaanesh_7_text" text="카오스 봉기 성공률이 100%가 되지만 선물 500을 추가로 소모합니다." />
+    <string id="tor_chaos_devotion_reward_slaanesh_8_text" text="병력 유지비와 업그레이드 비용 -30%." />
+    <string id="tor_chaos_devotion_reward_slaanesh_9_text" text="카오스 포털 모집은 정예 병력만 제공합니다." />
+    <string id="tor_chaos_devotion_reward_slaanesh_10_text" text="슬라네쉬의 전설 활: 마법 피해 +25%, 처치 시 근처 적을 유호할 10% 확률." />
+    <string id="tor_chaos_ui_close_text" text="닫기" />
+    <string id="tor_chaos_portal_wait_text" text="포털 내에서 기다리세요" />
+    <string id="tor_chaos_portal_wait_back_text" text="뒤쪽에" />
+    <string id="tor_chaos_portal_enter_text" text="혼돈의 문에 들어가세요" />
+    <string id="tor_chaos_portal_force_uprising_text" text="강제 혼돈 봉기" />
+    <string id="tor_chaos_village_raid_gifts_text" text="어둠의 신들이 이 마을을 습격한 대가로 {GIFTS} 카오스 선물을 내린다." />
+    <string id="tor_chaos_portal_unknown_text" text="차원문은 어두운 약속으로 가득 차 있습니다." />
+    <string id="tor_chaos_portal_intro_text" text="카오스 포탈은 훔친 현실로 윙윙거립니다." />
+    <string id="tor_chaos_portal_impostor_text" text="이제 피에 젖은 침입이 무너진 정착지를 얼룩지게 합니다." />
+    <string id="tor_chaos_portal_waiting_text" text="포털이 수평선을 공급하는 동안 당신은 세계 사이의 상처에서 쉬고 있습니다." />
+    <string id="tor_chaos_uprising_failed_text" text="도시 경비원은 숭배를 피에 빠뜨 렸습니다. 봉기는 실패합니다." />
+    <string id="tor_chaos_uprising_failed_no_scene_text" text="컬트가 노출되었지만 제거할 수 있는 도시 장면은 없습니다." />
+    <string id="tor_chaos_invasion_stage_risen_text" text="카오스 침공이 {STAGE} 단계로 올라갑니다." />
+    <string id="tor_chaos_invasion_stage_none_text" text="아직 활성화된 침공 단계가 없습니다." />
+    <string id="tor_chaos_invasion_stage_label_text" text="침략 단계" />
+    <string id="tor_chaos_invasion_daily_decay_text" text="일일 부패" />
+    <string id="tor_chaos_invasion_daily_decay_value_text" text="-{AMOUNT} 침략 행동(처형, 희생, 포털, 반란) 없이 매일." />
+    <string id="tor_chaos_demon_hunter_clan_name_text" text="악마사냥꾼의 기사단" />
+    <string id="tor_chaos_demon_hunter_clan_short_name_text" text="악마사냥꾼" />
+    <string id="tor_chaos_demon_hunter_party_name_text" text="악마사냥꾼 워밴드" />
+    <string id="tor_chaos_demon_hunter_spawned_text" text="악마사냥꾼이 당신을 상대로 전장에 나섰습니다." />
+    <string id="tor_chaos_demon_hunter_lord_slain_text" text="악마사냥꾼 군주가 쓰러졌습니다. 침략이 계속 높으면 50일 안에 또 다른 상승이 일어날 것입니다." />
+    <string id="tor_chaos_demon_hunter_respawn_text" text="새로운 악마사냥꾼 군주가 카오스에 맞서 맹세합니다." />
+    <string id="tor_chaos_eternal_alliance_text" text="왕국은 카오스에 맞서 영원한 동맹을 맹세합니다." />
+    <string id="tor_chaos_tier2_quest_title_text" text="첫 번째 파멸의 고리" />
+    <string id="tor_chaos_tier2_quest_log_villages_text" text="어둠의 신을 위해 {REQUIRED}개 마을을 습격하라." />
+    <string id="tor_chaos_tier2_quest_task_villages_text" text="마을 습격" />
+    <string id="tor_chaos_tier2_quest_log_uprising_text" text="마을이나 성에서 {REQUIRED} 카오스 봉기를 일으키세요." />
+    <string id="tor_chaos_tier2_quest_task_uprising_text" text="혼돈의 봉기" />
+    <string id="tor_chaos_tier3_quest_title_text" text="판테온의 왕관" />
+    <string id="tor_chaos_tier3_quest_log_cities_text" text="도시나 성 {REQUIRED}곳을 카오스 포털로 변환하세요." />
+    <string id="tor_chaos_tier3_quest_task_cities_text" text="도시 전환" />
+    <string id="tor_chaos_tier3_quest_log_executions_text" text="적군 영주 {REQUIRED}명을 처형하세요." />
+    <string id="tor_chaos_tier3_quest_task_executions_text" text="영주 처형" />
+    <string id="tor_chaos_tier3_quest_log_devotion_text" text="네 신에 걸쳐 총 {REQUIRED} 헌신 단계에 도달하세요." />
+    <string id="tor_chaos_tier3_quest_task_devotion_text" text="전적인 헌신" />
+    <string id="chaos_prayer_seduction_name_text" text="유혹의 기도" />
+    <string id="chaos_prayer_seduction_desc_text" text="짧은 시간 동안 근처의 의지가 약한 적들을 주인에게 대항하게 만듭니다." />
+    <string id="chaos_prayer_tzeentch_name_text" text="젠취 스트라이크" />
+    <string id="chaos_prayer_tzeentch_desc_text" text="충격을 받으면 폭발하는 변화 마법의 화살을 발사합니다." />
+    <string id="chaos_prayer_nurgle_name_text" text="너글의 자비" />
+    <string id="chaos_prayer_nurgle_desc_text" text="아군을 치유하고 적을 병들게 하는 썩어가는 축복을 생성합니다." />
+    <string id="chaos_prayer_khorne_name_text" text="코른의 용기" />
+    <string id="chaos_prayer_khorne_desc_text" text="40초 동안 물리적 저항력과 휘두르는 속도를 부여합니다." />
+    <string id="chaos_wings_slaanesh_name_text" text="슬라네쉬의 날개" />
+    <string id="chaos_wings_slaanesh_desc_text" text="악마의 날개를 타고 날아보세요. 기간은 육상 경기에 따라 조정됩니다. 쿨타임은 30초." />
+    <string id="tor_chaos_lord_madness_dialog_text" text="이 영주에게 광기를 불러일으키십시오. (선물 100개)" />
+    <string id="tor_chaos_lord_madness_npc_text" text="군주는 비틀거리며 파멸의 환영에 정신을 잠식당합니다." />
+    <string id="tor_chaos_lord_madness_not_enough_text" text="카오스 선물 100개가 필요합니다." />
+    <string id="chaos_lord_madness_success_text" text="{LORD}은(는) 광기에 사로잡혀 당신의 워밴드를 피합니다." />
+    <string id="tor_chaos_lord_seduction_dialog_text" text="이 영주를 당신의 수행원으로 유혹하십시오. (선물 500개, 영향력 200)" />
+    <string id="tor_chaos_lord_seduction_npc_text" text="군주는 당신의 속삭이는 약속에 저항하지 못하고 자신의 검을 당신의 대의에 바칩니다." />
+    <string id="tor_chaos_lord_seduction_not_enough_gifts_text" text="카오스 선물 500개가 필요합니다." />
+    <string id="tor_chaos_lord_seduction_not_enough_influence_text" text="영향력 200이 필요합니다." />
+    <string id="chaos_lord_seduction_success_text" text="{LORD}이(가) 당신의 수행원으로 유혹되었습니다." />
+    <string id="chaos_lord_madness_success" text="{LORD}은(는) 광기에 사로잡혀 당신의 워밴드를 피합니다." />
+    <string id="chaos_lord_seduction_success" text="{LORD}이(가) 당신의 수행원으로 유혹되었습니다." />
+    <string id="chaos_prayer_khorne_desc" text="40초 동안 물리적 저항력과 휘두르는 속도를 부여합니다." />
+    <string id="chaos_prayer_khorne_name" text="코른의 용기" />
+    <string id="chaos_prayer_nurgle_desc" text="아군을 치유하고 적을 병들게 하는 썩어가는 축복을 생성합니다." />
+    <string id="chaos_prayer_nurgle_name" text="너글의 자비" />
+    <string id="chaos_prayer_seduction_desc" text="짧은 시간 동안 근처의 의지가 약한 적들을 주인에게 대항하게 만듭니다." />
+    <string id="chaos_prayer_seduction_name" text="유혹의 기도" />
+    <string id="chaos_prayer_tzeentch_desc" text="충격을 받으면 폭발하는 변화 마법의 화살을 발사합니다." />
+    <string id="chaos_prayer_tzeentch_name" text="젠취 스트라이크" />
+    <string id="chaos_rite_of_ascendancy_desc" text="단기적인 승천: 두려움, 속도, 저항, 근접 분노, 어둠의 마법이 챔피언 주위로 쇄도합니다." />
+    <string id="chaos_rite_of_ascendancy_label" text="승천의 의례" />
+    <string id="chaos_wings_slaanesh_desc" text="악마의 날개를 타고 날아보세요. 기간은 육상 경기에 따라 조정됩니다. 쿨타임은 30초." />
+    <string id="chaos_wings_slaanesh_name" text="슬라네쉬의 날개" />
+    <string id="tor_chaos_cc_culture_desc" text="Chaos Undivided의 챔피언은 파괴적인 힘의 두려운 하수인으로 시작하여 희생, 암흑 마법, 차원문, 네 신에 대한 헌신을 통해 힘을 얻습니다." />
+    <string id="tor_chaos_cc_culture_name" text="카오스" />
+    <string id="tor_chaos_cc_culture_short" text="카오스" />
+    <string id="tor_chaos_cc_effect" text="카오스 커리어" />
+    <string id="tor_chaos_cc_flavour" text="당신은 피와 마법과 파멸의 길을 걸어왔습니다. 신들이 당신의 발뒤꿈치에 속삭이고, 약한 자들은 곧 무릎을 꿇는 법을 배우게 될 것입니다." />
+    <string id="tor_chaos_cc_growth_effect" text="피묻은 지원자" />
+    <string id="tor_chaos_cc_growth_flavour" text="당신의 젊음은 습격, 매복, 구덩이 싸움에서 자신을 증명하는 데 소비되었으며, 당신은 신의 관심을 받을 가치가 있는 사람으로 표시되는 흉터를 얻었습니다." />
+    <string id="tor_chaos_cc_growth_handler_effect" text="숨겨진 셀" />
+    <string id="tor_chaos_cc_growth_handler_flavour" text="당신은 공포와 금, 약속으로 충성을 사면서 어둠 속에서 칼처럼 사이비 종교를 움직이는 법을 배웠습니다." />
+    <string id="tor_chaos_cc_growth_handler_option" text="컬트 핸들러" />
+    <string id="tor_chaos_cc_growth_option" text="피묻은 지원자" />
+    <string id="tor_chaos_cc_growth_raider_effect" text="습격으로 피를 흘리다" />
+    <string id="tor_chaos_cc_growth_raider_flavour" text="당신의 첫 번째 교훈은 당신의 이름을 너무 늦게 알게 된 마을에서 배운 불, 진흙, 강철이었습니다." />
+    <string id="tor_chaos_cc_growth_raider_option" text="노던 레이더" />
+    <string id="tor_chaos_cc_option" text="카오스 언디바이디드 챔피언" />
+    <string id="tor_chaos_cc_origin_acolyte_effect" text="금지된 연구" />
+    <string id="tor_chaos_cc_origin_acolyte_flavour" text="당신의 첫 번째 기도는 금지된 페이지 위에서 속삭였고, 어둠 속에서 무엇인가가 속삭였습니다." />
+    <string id="tor_chaos_cc_origin_acolyte_option" text="어둠의 수행사제" />
+    <string id="tor_chaos_cc_origin_effect" text="워밴드 오리진" />
+    <string id="tor_chaos_cc_origin_flavour" text="당신은 철 깃발과 비명을 지르는 하늘 아래에서 자랐으며, 자비는 약함이며 생존은 그것을 취하는 자의 것임을 일찍부터 배웠습니다." />
+    <string id="tor_chaos_cc_origin_noble_effect" text="타락한 혈통" />
+    <string id="tor_chaos_cc_origin_noble_flavour" text="당신은 지휘하기 위해 태어났지만 신들은 필멸의 어떤 유산보다 더 빛나는 왕관을 바쳤습니다." />
+    <string id="tor_chaos_cc_origin_noble_option" text="타락한 귀족" />
+    <string id="tor_chaos_cc_origin_option" text="워밴드의 후예" />
+    <string id="tor_chaos_claim_hideout_inactive_text" text="이 혼돈의 은신처는 이미 무너졌습니다." />
+    <string id="tor_chaos_claim_hideout_requires_clear_text" text="이 혼돈의 은신처를 차지하기 전에 방어자들을 처치하세요." />
+    <string id="tor_chaos_claim_hideout_success_text" text="카오스 은신처가 이제 당신에게 복종합니다. 매일 {GIFTS} 카오스 선물을 제공합니다." />
+    <string id="tor_chaos_claim_hideout_text" text="이 혼돈의 은신처를 차지하세요." />
+    <string id="tor_chaos_claimed_hideout_daily_gifts_text" text="혼돈의 은신처를 차지하면 {GIFTS}_ 혼돈의 선물을 얻을 수 있습니다." />
+    <string id="tor_chaos_culture_name" text="카오스" />
+    <string id="tor_chaos_demon_hunter_elite" text="악마사냥꾼" />
+    <string id="tor_chaos_demon_hunter_grandmaster_first_name" text="악마사냥꾼" />
+    <string id="tor_chaos_demon_hunter_grandmaster_name" text="악마사냥꾼 그랜드마스터" />
+    <string id="tor_chaos_demon_hunter_guard" text="악마사냥꾼 경비병" />
+    <string id="tor_chaos_demon_hunter_headhunter" text="악마헤드헌터" />
+    <string id="tor_chaos_demon_hunter_lord" text="악마사냥꾼 군주" />
+    <string id="tor_chaos_demon_hunter_lord_first_name" text="악마사냥꾼" />
+    <string id="tor_chaos_demon_hunter_lord_name" text="악마사냥꾼 {INDEX}" />
+    <string id="tor_chaos_end_of_times_complete_text" text="올드 월드는 무너졌습니다. 오직 카오스만이 살아남는다." />
+    <string id="tor_chaos_end_of_times_quest_log_text" text="카오스 영역을 제외한 올드 월드의 모든 왕국을 파괴하세요." />
+    <string id="tor_chaos_end_of_times_quest_task_text" text="왕국이 파괴됨" />
+    <string id="tor_chaos_end_of_times_quest_title_text" text="시간의 끝" />
+    <string id="tor_chaos_gifts_daily_change_hideouts_text" text="청구된 혼돈 은신처" />
+    <string id="tor_chaos_gifts_daily_change_portals_text" text="혼돈 포털" />
+    <string id="tor_chaos_gifts_daily_income_hideouts_text" text="청구된 혼돈 은신처: 하루 +{AMOUNT}(각 {PER_HIDEOUT})." />
+    <string id="tor_chaos_gifts_daily_income_none_text" text="활성 일일 카오스 선물 수입이 없습니다." />
+    <string id="tor_chaos_gifts_daily_income_portals_text" text="카오스 포털: 하루 +{AMOUNT}(각각{PER_PORTAL})." />
+    <string id="tor_chaos_gifts_daily_income_text" text="일일 수입" />
+    <string id="tor_chaos_gifts_daily_income_total_text" text="+{AMOUNT} 일일 카오스 선물." />
+    <string id="tor_chaos_gifts_gain_bonus_career_text" text="카오스 직업 선택: +{AMOUNT}." />
+    <string id="tor_chaos_gifts_gain_bonus_cult_network_text" text="컬트 네트워크: +20" />
+    <string id="tor_chaos_gifts_gain_bonus_god_marked_spoils_text" text="신이 남긴 전리품: +25" />
+    <string id="tor_chaos_gifts_gain_bonus_none_text" text="활성화된 카오스 선물 보너스가 없습니다." />
+    <string id="tor_chaos_gifts_gain_bonus_portal_dominion_text" text="포털 지배: +20" />
+    <string id="tor_chaos_gifts_gain_bonus_text" text="보너스 획득" />
+    <string id="tor_chaos_god_mission_complete_executions_text" text="신들은 영주의 피를 기뻐합니다. {REWARD} 카오스 선물을 받습니다." />
+    <string id="tor_chaos_god_mission_complete_hideout_text" text="광신도 은신처들이 당신에게 굴복합니다. {REWARD} 카오스 선물을 받습니다." />
+    <string id="tor_chaos_god_mission_complete_uprising_text" text="그들의 도시에서 반란이 퍼집니다. {REWARD} 카오스 선물을 받습니다." />
+    <string id="tor_chaos_god_mission_complete_village_text" text="재와 희생이 만신전을 기쁘게 합니다. {REWARD} 카오스 선물을 받습니다." />
+    <string id="tor_chaos_god_mission_failed_text" text="어둠의 신들이 불쾌해합니다. 당신은 _{PENALTY} 카오스 선물을 잃습니다." />
+    <string id="tor_chaos_god_mission_issued_text" text="신들의 요구: {MISSION}" />
+    <string id="tor_chaos_god_mission_log_executions_text" text="30일 이내에 {REQUIRED} 적 영주를 처형하십시오. 보상: _{REWARD} 카오스 선물. 실패 비용은 {PENALTY} 선물입니다." />
+    <string id="tor_chaos_god_mission_log_hideout_text" text="30일 이내에 {REQUIRED} 이교도 은신처를 주장하세요. 보상: _{REWARD} 카오스 선물. 실패 비용은 {PENALTY} 선물입니다." />
+    <string id="tor_chaos_god_mission_log_uprising_text" text="30일 이내에 {REQUIRED} 혼란 봉기를 촉발하십시오. 보상: _{REWARD} 카오스 선물. 실패 비용은 {PENALTY} 선물입니다." />
+    <string id="tor_chaos_god_mission_log_village_text" text="30일 안에 어둠의 신들을 위해 마을 {REQUIRED}곳을 약탈하세요. 보상: {REWARD} 카오스 선물. 실패 시 {PENALTY} 선물을 잃습니다." />
+    <string id="tor_chaos_god_mission_task_executions_text" text="영주 처형" />
+    <string id="tor_chaos_god_mission_task_hideout_text" text="은신처 소유권 주장" />
+    <string id="tor_chaos_god_mission_task_uprising_text" text="혼돈의 반란" />
+    <string id="tor_chaos_god_mission_task_village_text" text="마을 습격" />
+    <string id="tor_chaos_god_mission_title_executions_text" text="헌금" />
+    <string id="tor_chaos_god_mission_title_hideout_text" text="이교도 둥지" />
+    <string id="tor_chaos_god_mission_title_uprising_text" text="불화의 불길" />
+    <string id="tor_chaos_god_mission_title_village_text" text="잿빛 수확" />
+    <string id="tor_chaos_no_prayers_unlocked" text="혼돈 없음 기도는 아직 열리지 않았습니다. 신 중 하나의 헌신 3단계에 도달하세요." />
+    <string id="tor_chaos_portal_force_uprising_details_text" text="강제 혼란 봉기 ({GIFT_COST}{GIFT_ICON}, {UPRISING_CHANCE}% 성공)" />
+    <string id="tor_chaos_portal_force_uprising_tooltip_text" text="비용: {GIFT_COST}{GIFT_ICON}. 현재 봉기 확률: {UPRISING_CHANCE}%." />
+    <string id="tor_chaos_portal_god_mission_active_text" text="신들의 현재 임무를 먼저 완료하거나 실패하세요." />
+    <string id="tor_chaos_portal_god_mission_cooldown_text" text="신들은 {DAYS}일 안에 새로운 임무를 제안할 것입니다." />
+    <string id="tor_chaos_portal_god_mission_text" text="신들로부터 임무를 받으세요" />
+    <string id="tor_chaos_portal_god_mission_unavailable_text" text="신들은 오늘은 임무를 제공하지 않습니다." />
+    <string id="tor_chaos_portal_learn_dark_magic_text" text="암흑 마법 주문 배우기" />
+    <string id="tor_chaos_portal_learn_spell_text" text="배우기 {GIFTCOST}{GIFTS_ICON}" />
+    <string id="tor_chaos_portal_lord_clan_name_text" text="_{LEADER}의 호스트" />
+    <string id="tor_chaos_portal_lord_name_fallback_text" text="Ruinblade" />
+    <string id="tor_chaos_portal_prayer_faith_xp_text" text="당신의 기도는 {XP} 신앙 경험을 부여합니다." />
+    <string id="tor_chaos_portal_sow_discord_invasion_blocked_text" text="그들은 그것이 당신이라는 것을 알고 있습니다." />
+    <string id="tor_chaos_portal_sow_discord_not_enough_gifts_text" text="{GIFT_COST} 카오스 선물이 필요합니다." />
+    <string id="tor_chaos_portal_sow_discord_success_text" text="{ATTACKER}과 {DEFENDER}은 당신의 속삭임으로 인해 서로 대립됩니다." />
+    <string id="tor_chaos_portal_sow_discord_text" text="불화를 심었습니다" />
+    <string id="tor_chaos_portal_spell_learned_text" text="{SPELL}을 배웠습니다." />
+    <string id="tor_chaos_portal_spell_need_perk_text" text="먼저 필요한 Spellcraft 특전을 잠금 해제하세요." />
+    <string id="tor_chaos_portal_spell_not_enough_gifts_text" text="카오스 선물이 충분하지 않습니다." />
+    <string id="tor_chaos_portal_summon_lord_cooldown_text" text="포털은 {DAYS}일 안에 다른 영주를 부를 수 있습니다." />
+    <string id="tor_chaos_portal_summon_lord_not_enough_gifts_text" text="{GIFT_COST} 카오스 선물이 필요합니다." />
+    <string id="tor_chaos_portal_summon_lord_success_text" text="{LORD}이(가) 당신의 왕국에 합류했습니다." />
+    <string id="tor_chaos_portal_summon_lord_text" text="카오스 로드 소환(선물 300개)" />
+    <string id="tor_chaos_portal_summon_lord_unavailable_text" text="어떤 카오스 로드도 포털에 응답할 수 없습니다." />
+    <string id="tor_chaos_portal_summoned_lord_first_name_text" text="선택된 포털" />
+    <string id="tor_chaos_portal_summoned_lord_name_text" text="선택된 포털 {INDEX}" />
+    <string id="tor_chaos_portal_warband_name" text="{CAPTAIN}의 워밴드" />
+    <string id="tor_chaos_portal_warband_name_text" text="{CAPTAIN}의 워밴드" />
+    <string id="tor_chaos_raid_speed_bonus" text="카오스 레이더" />
+    <string id="tor_chaos_shrine_defile_option_text" text="카오스 선물을 얻기 위해 성소를 더럽히십시오. {GOD_NAME}의 추종자들이 이를 기억할 것입니다." />
+    <string id="tor_chaos_shrine_defile_result_text" text="_{DEFILE_AMOUNT} 카오스 선물 {GIFTS_ICON}을 모았습니다. 이 모독적인 소문이 _{GOD_NAME}의 추종자들에게 전해졌습니다." />
+    <string id="tor_chaos_shrine_defile_reward_text" text="더럽혀진 성소는 {GIFTS} 카오스 선물을 제공합니다." />
+    <string id="tor_chaos_sow_discord_confirm_text" text="킨들워" />
+    <string id="tor_chaos_sow_discord_cost_label_text" text="비용:" />
+    <string id="tor_chaos_sow_discord_cost_text" text="비용: {GIFT_COST} 카오스 선물" />
+    <string id="tor_chaos_sow_discord_gifts_balance_text" text="카오스 선물: {AMOUNT}" />
+    <string id="tor_chaos_sow_discord_hint_text" text="왼쪽에서 두 개의 왕국을 선택하세요. 상위 영역이 하위 영역을 공격합니다." />
+    <string id="tor_chaos_sow_discord_map_only_text" text="캠페인 지도에서 이 패널을 엽니다." />
+    <string id="tor_chaos_sow_discord_slot_bottom_text" text="방어자" />
+    <string id="tor_chaos_sow_discord_slot_top_text" text="공격자" />
+    <string id="tor_chaos_sow_discord_title_text" text="불화를 뿌리다" />
+    <string id="tor_chaos_tier2_quest_log_hideouts_text" text="어둠의 신들을 위한 {REQUIRED} 이교도 은신처를 주장하세요." />
+    <string id="tor_chaos_tier2_quest_task_hideouts_text" text="이교도 은신처" />
+    <string id="0ZXMKL4M" text="Chavil" />
+    <string id="38o99yqa" text="Borcha" />
+    <string id="4Su3mMpd" text="Ivaren" />
+    <string id="6fbD85kZ" text="Kara" />
+    <string id="6FebKbCp" text="Chel" />
+    <string id="7n7V9Va5" text="Irya" />
+    <string id="9pnUaj0g" text="Elyaksha" />
+    <string id="aYiL7eDM" text="Ilmir" />
+    <string id="bBD4tF2y" text="Morochoving" />
+    <string id="BGHBvAK1" text="Kulyat" />
+    <string id="bNj9gI2y" text="Astin" />
+    <string id="BrI1aJdo" text="Rukhanoving" />
+    <string id="bzaLf3EU" text="Magan" />
+    <string id="bzXmtoC6" text="Koleg" />
+    <string id="CoYOwpLP" text="Davan" />
+    <string id="ctJub9Ah" text="Khirinoving" />
+    <string id="DakafAXa" text="Zamantoving" />
+    <string id="daulkQvv" text="Brinya" />
+    <string id="dey9d9DX" text="Kasyoving" />
+    <string id="DxU5mVDg" text="Pyasoving" />
+    <string id="eNSZGTbN" text="Doronoving" />
+    <string id="euyyBbjq" text="Folyoroving" />
+    <string id="eYY8319F" text="Dalibol" />
+    <string id="FkbO2Abd" text="Kras" />
+    <string id="fYN6Aawl" text="Kyraslav" />
+    <string id="gC1paDtD" text="Yerchoving" />
+    <string id="HxKE18yl" text="Lasvak" />
+    <string id="iFJbnbCQ" text="Agdil" />
+    <string id="IVHobRWE" text="Usharoving" />
+    <string id="J5kC0K3W" text="Gutrag" />
+    <string id="jqaH0a35" text="Tymanoving" />
+    <string id="jVPr0ZzB" text="Achyr" />
+    <string id="KbIHavJj" text="Borabos" />
+    <string id="KBq7aQRa" text="Lek" />
+    <string id="Lcbrsqw8" text="Syaveroving" />
+    <string id="lpbIXNdK" text="Suratoving" />
+    <string id="Lv753Nnn" text="Zylata" />
+    <string id="NbprLzeU" text="Dazheroving" />
+    <string id="NLXHafGS" text="Gissinoving" />
+    <string id="ODcWVL1a" text="Gendiroving" />
+    <string id="ODVepnRR" text="Bylorn" />
+    <string id="OLLYkaWd" text="Asraloving" />
+    <string id="ORJZJYt7" text="Churig" />
+    <string id="OrUdifEU" text="Yathanoving" />
+    <string id="oyxam3bN" text="Blag" />
+    <string id="pfAkvdYc" text="Gorgi" />
+    <string id="pqlMxWoM" text="Alek" />
+    <string id="Py1Jj5mB" text="Lorik" />
+    <string id="Q8gCUmQq" text="Gyn" />
+    <string id="qD72Ya4I" text="Zhanoving" />
+    <string id="R1JECC9r" text="Zhira" />
+    <string id="RFapQLfR" text="Vyshoving" />
+    <string id="RpDv3cGI" text="Rimanoving" />
+    <string id="scCmMFeI" text="Ekadrya" />
+    <string id="tGEChxdb" text="Achanoving" />
+    <string id="tKUIAmbV" text="Fyomanoving" />
+    <string id="UaOynysV" text="Agna" />
+    <string id="UYqwbjTP" text="Iskanoving" />
+    <string id="Va35TmQW" text="Igrunoving" />
+    <string id="VaqB0x4K" text="Dranga" />
+    <string id="Vp9n86Wy" text="Lezhanoving" />
+    <string id="WNb0Bw0e" text="Kavyl" />
+    <string id="WP63fA7r" text="Alkirya" />
+    <string id="XJZJIZ9Q" text="Cholokhoving" />
+    <string id="XqcD0WEu" text="Asta" />
+    <string id="XQfYxgti" text="Nimanoving" />
+    <string id="Y9qYt71a" text="Balikoving" />
+    <string id="YahyjyK5" text="Gudra" />
+    <string id="YdMwMdyf" text="Dumat" />
+    <string id="YJ6JKs9O" text="Kyorinoving" />
+    <string id="yNSLGTYc" text="Erta" />
+    <string id="yUuM8a0j" text="Boranoving" />
+    <string id="z2Oqk8aq" text="Maregoving" />
+    <string id="z3rmbOSO" text="Gavyn" />
+    <string id="Z5NIRUPc" text="Idruna" />
+    <string id="ZkaaXxeB" text="Isvan" />
+    <string id="zYAl76GW" text="Borytor" />
+    <string id="tor_chaos_force_uprising_wounded" text="부상이 너무 심해 봉기를 일으킬 수 없습니다." />
+    <string id="tor_chaos_lord_seduction_not_enough_resources" text="선물 또는 영향력이 부족합니다." />
+    <string id="tor_chaos_trait_khorne_axe_name" text="피의 신의 도끼" />
+    <string id="tor_chaos_trait_khorne_axe_desc" text="물리 피해 +25%, 향상된 가르기, 적중 시 적을 밀쳐냄, 처치마다 생명력 +3." />
+    <string id="tor_chaos_trait_nurgle_reflect_name" text="포자에 물든 수호" />
+    <string id="tor_chaos_trait_nurgle_reflect_desc" text="원거리 저항 +10%." />
+    <string id="tor_chaos_trait_nurgle_resilience_name" text="할아버지의 회복력" />
+    <string id="tor_chaos_trait_nurgle_resilience_desc" text="물리 저항 +5%." />
+    <string id="tor_chaos_trait_nurgle_gift_name" text="풍요로운 부패" />
+    <string id="tor_chaos_trait_nurgle_gift_desc" text="수호 내성 +5%, 최대 생명력 +5." />
+    <string id="tor_chaos_trait_tzeentch_radius_name" text="변화의 설계자" />
+    <string id="tor_chaos_trait_tzeentch_radius_desc" text="주문 반경 +15%." />
+    <string id="tor_chaos_trait_tzeentch_power_name" text="흐름 숙련" />
+    <string id="tor_chaos_trait_tzeentch_power_desc" text="주문 위력 +15%." />
+    <string id="tor_chaos_trait_tzeentch_winds_name" text="조작의 바람" />
+    <string id="tor_chaos_trait_tzeentch_winds_desc" text="전투에서 다음 3회의 주문은 마법의 바람을 소모하지 않습니다." />
+    <string id="tor_chaos_trait_slaanesh_bow_name" text="과잉의 활" />
+    <string id="tor_chaos_trait_slaanesh_bow_desc" text="마법 피해 +25%, 처치 시 주변 적을 유혹할 확률 10%." />
+    <string id="tor_chaos_career_root_desc" text="승천 의식: 23초 지속. 물리 저항 +20%, 수호 +5%, 근접 피해 +30%, 주문 피해 +25%, 이동/공격 속도 +15%. 적을 느리게 하고 카오스 아군을 강화합니다." />
+    <string id="tor_chaos_career_root_mutated_desc" text="23초 지속. 물리 저항 +20%, 수호 +5%, 근접 피해 +30%, 주문 피해 +25%, 이동/공격 속도 +15%. 적을 느리게 하고 카오스 아군을 강화합니다." />
+    <string id="tor_chaos_career_condition_champion" text="진정한 카오스 챔피언만 이 길을 걸을 수 있습니다." />
+    <string id="tor_chaos_career_condition_tier1" text="먼저 첫 번째 단계를 숙달해야 합니다." />
+    <string id="tor_chaos_career_condition_unlock_tier2" text="이 단계를 해금하려면 이교도 은신처 3곳을 장악하고 도시 봉기 1회를 일으키십시오." />
+    <string id="tor_chaos_career_condition_tier2" text="먼저 두 번째 단계를 숙달해야 합니다." />
+    <string id="tor_chaos_career_condition_unlock_tier3" text="이 단계를 해금하려면 도시 셋을 무너뜨리고 군주 다섯을 처형하며 깊은 헌신에 도달하십시오." />
+    <string id="tor_chaos_choice_ruinous_blade_name" text="파멸의 검" />
+    <string id="tor_chaos_choice_ruinous_blade_keystone" text="승천: 근접 피해 +10%, 공격 속도 +5%." />
+    <string id="tor_chaos_choice_ruinous_blade_passive_1" text="생명력 +25." />
+    <string id="tor_chaos_choice_ruinous_blade_passive_2" text="근접 피해 +15%." />
+    <string id="tor_chaos_choice_ruinous_blade_passive_3" text="휘두르기 속도 +10%." />
+    <string id="tor_chaos_choice_ruinous_blade_passive_4" text="근접 방어구 관통 +10%." />
+    <string id="tor_chaos_choice_warp_conduit_name" text="워프 도관" />
+    <string id="tor_chaos_choice_warp_conduit_keystone" text="승천: 재사용 대기 -3초, 주문 피해 +10%, 바람 연결 +5%." />
+    <string id="tor_chaos_choice_warp_conduit_passive_1" text="마법의 바람 +20." />
+    <string id="tor_chaos_choice_warp_conduit_passive_2" text="바람 재생 +20%." />
+    <string id="tor_chaos_choice_warp_conduit_passive_3" text="주문 반경 +10%." />
+    <string id="tor_chaos_choice_warp_conduit_passive_4" text="주문 효과 +15%." />
+    <string id="tor_chaos_choice_cult_network_name" text="이교도 조직망" />
+    <string id="tor_chaos_choice_cult_network_keystone" text="승천: 지속시간 +3초, 이동 속도 +5%, 물리 저항 +5%." />
+    <string id="tor_chaos_choice_cult_network_passive_1" text="모든 출처에서 카오스 선물 +20." />
+    <string id="tor_chaos_choice_cult_network_passive_2" text="부대 규모 +10." />
+    <string id="tor_chaos_choice_cult_network_passive_3" text="병사 임금 -10%." />
+    <string id="tor_chaos_choice_cult_network_passive_4" text="전투 명성 획득 +10%." />
+    <string id="tor_chaos_choice_portal_dominion_name" text="포털 지배" />
+    <string id="tor_chaos_choice_portal_dominion_keystone" text="승천: 반경 +6, 수호 저항 +5%, 바람 연결 +5%. 중갑의 바람 손실을 제거합니다." />
+    <string id="tor_chaos_choice_portal_dominion_passive_1" text="부대 이동 속도 +10%." />
+    <string id="tor_chaos_choice_portal_dominion_passive_2" text="개인 이동 속도 +15%." />
+    <string id="tor_chaos_choice_portal_dominion_passive_3" text="모든 출처에서 카오스 선물 +20." />
+    <string id="tor_chaos_choice_portal_dominion_passive_4" text="마법부여 비용 -10%." />
+    <string id="tor_chaos_choice_god_marked_spoils_name" text="신의 표식 전리품" />
+    <string id="tor_chaos_choice_god_marked_spoils_keystone" text="승천: 근접 피해 +5%, 물리 저항 +5%." />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="전투 명성 획득 +15%." />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_2" text="병사 피해 +15%." />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_3" text="병사 저항 +10%." />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_4" text="모든 출처에서 카오스 선물 +25." />
+    <string id="tor_chaos_choice_undivided_apotheosis_name" text="분열되지 않은 신격화" />
+    <string id="tor_chaos_choice_undivided_apotheosis_keystone" text="승천: 재사용 대기 -10초, 지속 +6초, 반경 +6, 수호 저항 +8%, 근접 피해 +8%." />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_1" text="생명력 +30." />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_2" text="물리 저항 +20%." />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_3" text="주문 효과 +15%." />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_4" text="휘두르기 속도 +10%." />
+    <string id="tor_chaos_choice_everchosen_command_name" text="영원히 선택받은 자의 지휘" />
+    <string id="tor_chaos_choice_everchosen_command_keystone" text="승천: 공격 속도 +8%. 적: 이동 속도 -5%, 공격 속도 -5%." />
+    <string id="tor_chaos_choice_everchosen_command_passive_1" text="부대 규모 +20." />
+    <string id="tor_chaos_choice_everchosen_command_passive_2" text="병사 피해 +20%." />
+    <string id="tor_chaos_choice_everchosen_command_passive_3" text="병사 저항 +20%." />
+    <string id="tor_chaos_choice_everchosen_command_passive_4" text="병사 사기 +20%." />
+    <string id="tor_chaos_cc_origin_fallen_noble_option" text="타락한 귀족" />
+    <string id="tor_chaos_cc_origin_fallen_noble_effect" text="불명예스러운 혈통" />
+    <string id="tor_chaos_cc_origin_fallen_noble_flavour" text="당신은 명령을 내리기 위해 태어났지만, 오래된 법은 당신의 야망에 비해 너무 작은 것으로 판명되었습니다. 북쪽은 법정 맹세가 실패한 곳에 대답했습니다." />
+    <string id="tor_chaos_cc_origin_dark_acolyte_option" text="어둠의 수행사제" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_effect" text="금지된 연구" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_flavour" text="당신은 혀를 불태우는 말과 장막 너머에서 시선을 끄는 인장을 배웠습니다." />
+    <string id="tor_chaos_cc_growth_cult_handler_option" text="컬트 핸들러" />
+    <string id="tor_chaos_cc_growth_cult_handler_effect" text="숨겨진 셀" />
+    <string id="tor_chaos_cc_growth_cult_handler_flavour" text="거리 전체가 당신의 신호를 알 때까지 당신은 지하실, 성소, 감옥 수레 사이에서 속삭임을 전달했습니다." />
+    <string id="tor_chaos_weapon_bow_slaanesh_legendary" text="슬라네쉬의 활" />
+    <string id="tor_chaos_weapon_bow_slaanesh_legendary_text" text="슬라네쉬의 활" />
+    <string id="tor_chaos_cc_feat_armor" text="중갑과 강력한 근접 전투력" />
+    <string id="tor_chaos_cc_feat_magic" text="어둠 마법과 카오스 선물 경제" />
+    <string id="tor_chaos_cc_feat_enemy" text="문명권 세력의 적으로 시작" />    <string id="tor_chaos_menu_continue_text" text="계속" />
+    <string id="tor_chaos_menu_leave_text" text="떠나기..." />
+    <string id="tor_chaos_portal_name" text="카오스 포털" />
+  </strings>
+</base>

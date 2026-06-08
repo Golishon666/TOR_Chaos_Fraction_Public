@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  <NPCCharacter id="tor_chaos_demon_hunter_lord" default_group="ranged" name="{=tor_chaos_demon_hunter_lord}Demon Hunter Lord" occupation="Lord" culture="Culture.empire" voice="curt" age="45" skill_template="SkillSet.tor_skills_warrior_lord" is_hero="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empireofman" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="1" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tor_lord_companion_witch_hunter_template" />
+      <EquipmentSet id="tor_lord_companion_witch_hunter_template" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="tor_chaos_demon_hunter_elite" default_group="ranged" level="36" name="{=tor_chaos_demon_hunter_elite}Demon Hunter" occupation="Soldier" culture="Culture.empire" skill_template="SkillSet.tor_skills_level36">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empireofman" />
+    </face>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.tor_chaos_demon_hunter_headhunter" />
+    </upgrade_targets>
+    <Equipments>
+      <EquipmentSet id="tor_empire_wh_retinue_hunter_template" />
+      <EquipmentSet id="tor_empire_wh_retinue_hunter_template" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="tor_chaos_demon_hunter_headhunter" default_group="ranged" level="46" name="{=tor_chaos_demon_hunter_headhunter}Demon Headhunter" occupation="Soldier" culture="Culture.empire" skill_template="SkillSet.tor_skills_level46">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empireofman" />
+    </face>
+    <upgrade_targets />
+    <Equipments>
+      <EquipmentSet id="tor_empire_wh_retinue_headhunter_template" />
+      <EquipmentSet id="tor_empire_wh_retinue_headhunter_template" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="tor_chaos_demon_hunter_guard" default_group="infantry" level="31" name="{=tor_chaos_demon_hunter_guard}Demon Hunter Guard" occupation="Soldier" culture="Culture.empire" skill_template="SkillSet.tor_skills_level31">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empireofman" />
+    </face>
+    <upgrade_targets />
+    <Equipments>
+      <EquipmentSet id="tor_empire_greatsword_template" />
+      <EquipmentSet id="tor_empire_greatsword_template" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

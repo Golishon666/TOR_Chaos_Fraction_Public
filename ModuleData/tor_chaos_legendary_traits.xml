@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemTraits>
+  <ItemTrait ItemTraitStringId="chaos_legend_khorne_axe" ItemTraitName="{=tor_chaos_trait_khorne_axe_name}Axe of the Blood God" IsCraftable="false" ImbuedEffectChance="1.00" IconName="traits_magic_icon">
+    <ValidItemType>Melee</ValidItemType>
+    <ItemTraitDescription>{=tor_chaos_trait_khorne_axe_desc}+25% physical damage, improved cleave, knocks enemies back on hit, +3 health per kill.</ItemTraitDescription>
+    <AdditionalDamageTuple DamageType="Physical" Percent="0.25" />
+    <StatsTuple StatType="Cleave" Value="2" />
+    <OnWeaponHitScript WeaponScriptName="TOR_Chaos_Fraction.ChaosKhorneAxeKnockbackScript" />
+  </ItemTrait>
+
+  <ItemTrait ItemTraitStringId="chaos_legend_nurgle_plague_reflect" ItemTraitName="{=tor_chaos_trait_nurgle_reflect_name}Spore-Touched Warding" IsCraftable="false" ImbuedEffectChance="1.00" IconName="traits_magic_icon">
+    <ValidItemType>Armor</ValidItemType>
+    <ItemTraitDescription>{=tor_chaos_trait_nurgle_reflect_desc}+10% ranged resistance.</ItemTraitDescription>
+  </ItemTrait>
+
+  <ItemTrait ItemTraitStringId="chaos_legend_nurgle_plague_fat" ItemTraitName="{=tor_chaos_trait_nurgle_resilience_name}Grandfather's Resilience" IsCraftable="false" IconName="traits_magic_icon">
+    <ValidItemType>Armor</ValidItemType>
+    <ItemTraitDescription>{=tor_chaos_trait_nurgle_resilience_desc}+5% physical resistance.</ItemTraitDescription>
+    <ResistanceTuple ResistedDamageType="Physical" ReductionPercent="0.05" />
+  </ItemTrait>
+
+  <ItemTrait ItemTraitStringId="chaos_legend_nurgle_plague_gift" ItemTraitName="{=tor_chaos_trait_nurgle_gift_name}Bountiful Rot" IsCraftable="false" IconName="traits_magic_icon">
+    <ValidItemType>Armor</ValidItemType>
+    <ItemTraitDescription>{=tor_chaos_trait_nurgle_gift_desc}+5% ward save and +5 maximum health.</ItemTraitDescription>
+    <ResistanceTuple ResistedDamageType="All" ReductionPercent="0.05" />
+    <StatsTuple StatType="HealthMax" Value="5" />
+  </ItemTrait>
+
+  <ItemTrait ItemTraitStringId="chaos_legend_tzeentch_staff_radius" ItemTraitName="{=tor_chaos_trait_tzeentch_radius_name}Architect of Change" IsCraftable="false" IconName="traits_magic_icon">
+    <ValidItemType>Weapon</ValidItemType>
+    <ItemTraitDescription>{=tor_chaos_trait_tzeentch_radius_desc}+15% spell radius.</ItemTraitDescription>
+    <StatsTuple StatType="SpellRadius" Value="15" />
+  </ItemTrait>
+
+  <ItemTrait ItemTraitStringId="chaos_legend_tzeentch_staff_power" ItemTraitName="{=tor_chaos_trait_tzeentch_power_name}Flux Mastery" IsCraftable="false" IconName="traits_magic_icon">
+    <ValidItemType>Weapon</ValidItemType>
+    <ItemTraitDescription>{=tor_chaos_trait_tzeentch_power_desc}+15% spell power.</ItemTraitDescription>
+    <AmplifierTuple AmplifiedDamageType="Magical" DamageAmplifier="0.15" />
+  </ItemTrait>
+
+  <ItemTrait ItemTraitStringId="chaos_legend_tzeentch_staff_winds" ItemTraitName="{=tor_chaos_trait_tzeentch_winds_name}Winds of Manipulation" IsCraftable="false" IconName="traits_magic_icon">
+    <ValidItemType>Weapon</ValidItemType>
+    <ItemTraitDescription>{=tor_chaos_trait_tzeentch_winds_desc}The next 3 spells in battle cost no Winds of Magic.</ItemTraitDescription>
+  </ItemTrait>
+
+  <ItemTrait ItemTraitStringId="chaos_legend_slaanesh_bow" ItemTraitName="{=tor_chaos_trait_slaanesh_bow_name}Bow of Excess" IsCraftable="false" IconName="traits_magic_icon">
+    <ValidItemType>Ranged</ValidItemType>
+    <ItemTraitDescription>{=tor_chaos_trait_slaanesh_bow_desc}+25% magical damage, 10% chance to seduce nearby enemies on kill.</ItemTraitDescription>
+    <AmplifierTuple AmplifiedDamageType="Magical" DamageAmplifier="0.25" />
+  </ItemTrait>
+</ItemTraits>

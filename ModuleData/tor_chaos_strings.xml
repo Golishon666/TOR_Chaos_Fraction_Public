@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+  <string id="tor_career_title.ChaosChampionUndivided" text="{=tor_chaos_title}Chaos Champion Undivided" />
+  <string id="tor_career_rank1_name.ChaosChampionUndivided" text="{=tor_chaos_rank1}Initiate of Ruin" />
+  <string id="tor_career_rank2_name.ChaosChampionUndivided" text="{=tor_chaos_rank2}Favored of the Dark Gods" />
+  <string id="tor_career_rank3_name.ChaosChampionUndivided" text="{=tor_chaos_rank3}Everchosen of the Pantheon" />
+  <string id="tor_career_description.ChaosChampionUndivided" text="{=tor_chaos_desc}Chosen by the four dark gods, you are the blade of the End Times, sworn to drown this world in ruin." />
+
+  <string id="chaos_rite_of_ascendancy_label" text="{=tor_chaos_rite_label}Rite of Ascendancy" />
+  <string id="chaos_rite_of_ascendancy_desc" text="{=tor_chaos_rite_desc}Lasts 18 seconds. Grants +20% physical resistance, +5% ward, +25% melee damage, +20% spell damage, +15% movement and +15% attack speed. Nearby enemies are slowed; Chaos allies gain resistance, damage and movement." />
+
+  <string id="tor_chaos_cc_option" text="{=tor_chaos_cc_option_text}Chaos Champion Undivided" />
+  <string id="tor_chaos_cc_effect" text="{=tor_chaos_cc_effect_text}Chaos Career" />
+  <string id="tor_chaos_cc_flavour" text="{=tor_chaos_cc_flavour_text}You have walked the path of blood, sorcery and ruin. The gods whisper at your heels, and the weak will soon learn to kneel." />
+  <string id="tor_chaos_cc_origin_option" text="{=tor_chaos_cc_origin_option_text}Scion of the Warband" />
+  <string id="tor_chaos_cc_origin_effect" text="{=tor_chaos_cc_origin_effect_text}Warband Origin" />
+  <string id="tor_chaos_cc_origin_flavour" text="{=tor_chaos_cc_origin_flavour_text}You were raised beneath iron banners and screaming skies, taught early that mercy is weakness and survival belongs to those who take it." />
+  <string id="tor_chaos_cc_growth_option" text="{=tor_chaos_cc_growth_option_text}Blooded Aspirant" />
+  <string id="tor_chaos_cc_growth_effect" text="{=tor_chaos_cc_growth_effect_text}Blooded Aspirant" />
+  <string id="tor_chaos_cc_growth_flavour" text="{=tor_chaos_cc_growth_flavour_text}Your youth was spent proving yourself in raids, ambushes and pit fights, earning scars that marked you as one worthy of the gods' attention." />
+  <string id="tor_chaos_culture_name" text="{=tor_chaos_culture_name_text}Chaos" />
+  <string id="tor_chaos_cc_culture_name" text="{=tor_chaos_cc_culture_name_text}Chaos" />
+  <string id="tor_chaos_cc_culture_short" text="{=tor_chaos_cc_culture_short_text}Chaos" />
+  <string id="tor_chaos_cc_culture_desc" text="{=tor_chaos_cc_culture_desc_text}A champion of Chaos Undivided begins as a feared servant of the Ruinous Powers, gaining strength through sacrifice, dark magic, portals and devotion to the four gods." />
+  <string id="tor_custom_resource_name.ChaosGifts" text="{=tor_chaos_gifts_name}Chaos Gifts" />
+  <string id="tor_custom_resource_description.ChaosGifts" text="{=tor_chaos_gifts_desc}Chaos Gifts are earned through sacrifices, executions, ruined settlements and victories. Spend them on devotion, uprisings and portal rites." />
+  <string id="tor_custom_resource_name.ChaosInvasion" text="{=tor_chaos_invasion_name}Chaos Invasion" />
+  <string id="tor_custom_resource_description.ChaosInvasion" text="{=tor_chaos_invasion_desc}How much the world has noticed your atrocities. Rises when you execute lords, open portals, sacrifice villages, or trigger uprisings. Higher stages send Demon Hunters; at maximum the realms unite against you." />
+  <string id="tor_enchantmentshop_title.chaos_culture" text="{=tor_chaos_enchant_title}Choose a ruinous secret..." />
+  <string id="tor_enchantmentshop_description.chaos_culture" text="{=tor_chaos_enchant_desc}Select a forbidden enchantment to learn from the portal." />
+
+  <string id="tor_chaos_cc_origin_fallen_noble_option" text="{=tor_chaos_cc_origin_fallen_noble_option_text}Fallen Noble" />
+  <string id="tor_chaos_cc_origin_fallen_noble_effect" text="{=tor_chaos_cc_origin_fallen_noble_effect_text}Disgraced Bloodline" />
+  <string id="tor_chaos_cc_origin_fallen_noble_flavour" text="{=tor_chaos_cc_origin_fallen_noble_flavour_text}You were born to command, but the old laws proved too small for your ambition. The north answered where courtly oaths failed." />
+  <string id="tor_chaos_cc_origin_dark_acolyte_option" text="{=tor_chaos_cc_origin_dark_acolyte_option_text}Dark Acolyte" />
+  <string id="tor_chaos_cc_origin_dark_acolyte_effect" text="{=tor_chaos_cc_origin_dark_acolyte_effect_text}Forbidden Study" />
+  <string id="tor_chaos_cc_origin_dark_acolyte_flavour" text="{=tor_chaos_cc_origin_dark_acolyte_flavour_text}You learned the words that burn the tongue and the sigils that draw eyes from beyond the veil." />
+  <string id="tor_chaos_cc_growth_cult_handler_option" text="{=tor_chaos_cc_growth_cult_handler_option_text}Cult Handler" />
+  <string id="tor_chaos_cc_growth_cult_handler_effect" text="{=tor_chaos_cc_growth_cult_handler_effect_text}Hidden Cells" />
+  <string id="tor_chaos_cc_growth_cult_handler_flavour" text="{=tor_chaos_cc_growth_cult_handler_flavour_text}You carried whispers between cellars, shrines and prison carts until whole streets knew your sign." />
+  <string id="tor_chaos_cc_growth_raider_option" text="{=tor_chaos_cc_growth_raider_option_text}Northern Raider" />
+  <string id="tor_chaos_cc_growth_raider_effect" text="{=tor_chaos_cc_growth_raider_effect_text}Blooded by Raids" />
+  <string id="tor_chaos_cc_growth_raider_flavour" text="{=tor_chaos_cc_growth_raider_flavour_text}Your first lessons were fire, mud and steel, taken from villages that learned your name too late." />
+
+  <string id="tor_chaos_prisoner_only" text="{=tor_chaos_prisoner_only_text}Only prisoners can be sacrificed." />
+  <string id="tor_chaos_no_prisoners" text="{=tor_chaos_no_prisoners_text}No prisoners of this type." />
+  <string id="tor_chaos_sacrifice" text="{=tor_chaos_sacrifice_text}Sacrifice" />
+
+  <string id="tor_chaos_portal_learn_dark_magic" text="{=tor_chaos_portal_learn_dark_magic_text}Learn dark magic spells" />
+  <string id="tor_chaos_portal_learn_spell" text="{=tor_chaos_portal_learn_spell_text}Learn {GIFTCOST}{GIFTS_ICON}" />
+  <string id="tor_chaos_portal_spell_need_perk" text="{=tor_chaos_portal_spell_need_perk_text}Unlock the required Spellcraft perk first." />
+  <string id="tor_chaos_portal_spell_not_enough_gifts" text="{=tor_chaos_portal_spell_not_enough_gifts_text}Not enough Chaos Gifts." />
+  <string id="tor_chaos_portal_spell_learned" text="{=tor_chaos_portal_spell_learned_text}You learned {SPELL}." />
+  <string id="tor_chaos_portal_learn_enchantments" text="{=tor_chaos_portal_learn_enchantments_text}Learn enchantments" />
+  <string id="tor_chaos_portal_open_enchanting" text="{=tor_chaos_portal_open_enchanting_text}Enchant gear" />
+  <string id="tor_chaos_portal_buy_gear" text="{=tor_chaos_portal_buy_gear_text}Buy chaos gear" />
+  <string id="tor_chaos_portal_recruit_cultists" text="{=tor_chaos_portal_recruit_cultists_text}Recruit chaos warband" />
+  <string id="tor_chaos_portal_recruit_warriors" text="{=tor_chaos_portal_recruit_warriors_text}Recruit warriors" />
+  <string id="tor_chaos_portal_no_recruits" text="{=tor_chaos_portal_no_recruits_text}The portal offers no warband today." />
+  <string id="tor_chaos_portal_recruit_title" text="{=tor_chaos_portal_recruit_title_text}Chaos Portal Warband" />
+  <string id="tor_chaos_portal_recruited_paid" text="{=tor_chaos_portal_recruited_paid_text}Chaos warband recruited for {GOLD} gold." />
+  <string id="tor_chaos_portal_recruit_not_enough_gold" text="{=tor_chaos_portal_recruit_not_enough_gold_text}You need {GOLD} gold to recruit this warband." />
+  <string id="tor_chaos_portal_recruiting_progress" text="{=tor_chaos_portal_recruiting_progress_text}Calling warriors from beyond the portal..." />
+  <string id="tor_chaos_portal_recruit_no_space" text="{=tor_chaos_portal_recruit_no_space_text}You do not have enough space in your party." />
+  <string id="tor_chaos_portal_recruit_not_enough_gifts" text="{=tor_chaos_portal_recruit_not_enough_gifts_text}You do not have enough Chaos Gifts." />
+  <string id="tor_chaos_portal_recruit_result" text="{=tor_chaos_portal_recruit_result_text}You recruited {PORTAL_RECRUIT_RESULT_NUMBER} warriors from the portal." />
+  <string id="tor_chaos_portal_recruit_result_empty" text="{=tor_chaos_portal_recruit_result_empty_text}The portal offers no warband today." />
+  <string id="tor_chaos_portal_warband_name" text="{=tor_chaos_portal_warband_name_text}{CAPTAIN}'s warband" />
+  <string id="tor_chaos_portal_sow_discord" text="{=tor_chaos_portal_sow_discord_text}Sow discord" />
+  <string id="tor_chaos_portal_sow_discord_invasion_blocked" text="{=tor_chaos_portal_sow_discord_invasion_blocked_text}They know it is you." />
+  <string id="tor_chaos_portal_sow_discord_not_enough_gifts" text="{=tor_chaos_portal_sow_discord_not_enough_gifts_text}Requires {GIFT_COST} Chaos Gifts." />
+  <string id="tor_chaos_portal_sow_discord_success" text="{=tor_chaos_portal_sow_discord_success_text}{ATTACKER} and {DEFENDER} are set against each other by your whispers." />
+  <string id="tor_chaos_sow_discord_title" text="{=tor_chaos_sow_discord_title_text}Sow Discord" />
+  <string id="tor_chaos_sow_discord_confirm" text="{=tor_chaos_sow_discord_confirm_text}Kindle war" />
+  <string id="tor_chaos_sow_discord_gifts_balance" text="{=tor_chaos_sow_discord_gifts_balance_text}Chaos Gifts: {AMOUNT}" />
+  <string id="tor_chaos_sow_discord_cost" text="{=tor_chaos_sow_discord_cost_text}Cost: {GIFT_COST} Chaos Gifts" />
+  <string id="tor_chaos_sow_discord_cost_label" text="{=tor_chaos_sow_discord_cost_label_text}Cost:" />
+  <string id="tor_chaos_sow_discord_hint" text="{=tor_chaos_sow_discord_hint_text}Select two kingdoms on the left. The top realm strikes the bottom." />
+  <string id="tor_chaos_sow_discord_slot_top" text="{=tor_chaos_sow_discord_slot_top_text}Attacker" />
+  <string id="tor_chaos_sow_discord_slot_bottom" text="{=tor_chaos_sow_discord_slot_bottom_text}Defender" />
+  <string id="tor_chaos_sow_discord_map_only" text="{=tor_chaos_sow_discord_map_only_text}Open this panel on the campaign map." />
+  <string id="tor_chaos_portal_summon_lord" text="{=tor_chaos_portal_summon_lord_text}Summon a Chaos lord (300 Gifts)" />
+  <string id="tor_chaos_portal_summon_lord_cooldown" text="{=tor_chaos_portal_summon_lord_cooldown_text}The portal can call another lord in {DAYS} days." />
+  <string id="tor_chaos_portal_summon_lord_not_enough_gifts" text="{=tor_chaos_portal_summon_lord_not_enough_gifts_text}Requires {GIFT_COST} Chaos Gifts." />
+  <string id="tor_chaos_portal_summon_lord_unavailable" text="{=tor_chaos_portal_summon_lord_unavailable_text}No Chaos lord can answer the portal." />
+  <string id="tor_chaos_portal_summon_lord_success" text="{=tor_chaos_portal_summon_lord_success_text}{LORD} has joined your kingdom." />
+  <string id="tor_chaos_portal_lord_clan_name" text="{=tor_chaos_portal_lord_clan_name_text}{LEADER}'s host" />
+  <string id="tor_chaos_portal_lord_name_fallback" text="{=tor_chaos_portal_lord_name_fallback_text}Ruinblade" />
+  <string id="tor_chaos_portal_summoned_lord_name" text="{=tor_chaos_portal_summoned_lord_name_text}Portal Chosen {INDEX}" />
+  <string id="tor_chaos_portal_summoned_lord_first_name" text="{=tor_chaos_portal_summoned_lord_first_name_text}Portal Chosen" />
+  <string id="tor_chaos_devotion_gifts" text="{=tor_chaos_devotion_gifts_text}Chaos Gifts" />
+  <string id="tor_chaos_devotion_stage" text="{=tor_chaos_devotion_stage_text}Stage" />
+  <string id="tor_chaos_devotion_next" text="{=tor_chaos_devotion_next_text}Next" />
+  <string id="tor_chaos_devotion_complete" text="{=tor_chaos_devotion_complete_text}Complete" />
+  <string id="tor_chaos_devotion_balance_locked" text="{=tor_chaos_devotion_balance_locked_text}Locked by Undivided balance" />
+  <string id="tor_chaos_devotion_click_hint" text="{=tor_chaos_devotion_click_hint_text}Click to offer Gifts when available." />
+  <string id="tor_chaos_devotion_map_only" text="{=tor_chaos_devotion_map_only_text}Open the devotion panel on the campaign map." />
+  <string id="tor_chaos_portal_devotion_temp" text="{=tor_chaos_portal_devotion_temp_text}Devotion to the Four" />
+  <string id="tor_chaos_devotion_overview" text="{=tor_chaos_devotion_overview_text}Study the four gods" />
+  <string id="tor_chaos_devotion_title" text="{=tor_chaos_devotion_title_text}Devotion to the Four" />
+  <string id="tor_chaos_devotion_invest" text="{=tor_chaos_devotion_invest_text}Offer Gifts" />
+  <string id="tor_chaos_devotion_success" text="{=tor_chaos_devotion_success_text}The dark gods acknowledge your gift." />
+  <string id="tor_chaos_devotion_failed" text="{=tor_chaos_devotion_failed_text}The gods reject your offering." />
+  <string id="tor_chaos_devotion_unlocked" text="{=tor_chaos_devotion_unlocked_text}Unlocked" />
+  <string id="tor_chaos_devotion_need_gifts" text="{=tor_chaos_devotion_need_gifts_text}Not enough Chaos Gifts" />
+  <string id="tor_chaos_devotion_can_unlock" text="{=tor_chaos_devotion_can_unlock_text}Ready to unlock" />
+  <string id="tor_chaos_devotion_locked" text="{=tor_chaos_devotion_locked_text}Locked" />
+  <string id="tor_chaos_god_khorne" text="{=tor_chaos_god_khorne_text}Khorne" />
+  <string id="tor_chaos_god_nurgle" text="{=tor_chaos_god_nurgle_text}Nurgle" />
+  <string id="tor_chaos_god_tzeentch" text="{=tor_chaos_god_tzeentch_text}Tzeentch" />
+  <string id="tor_chaos_god_slaanesh" text="{=tor_chaos_god_slaanesh_text}Slaanesh" />
+  <string id="tor_chaos_devotion_reward_khorne_1" text="{=tor_chaos_devotion_reward_khorne_1_text}No stagger from hits below 20 damage." />
+  <string id="tor_chaos_devotion_reward_khorne_2" text="{=tor_chaos_devotion_reward_khorne_2_text}Arrows pierce shields and you gain +5% physical resistance." />
+  <string id="tor_chaos_devotion_reward_khorne_3" text="{=tor_chaos_devotion_reward_khorne_3_text}Unlocks Prayer: Khorne's Fortitude." />
+  <string id="tor_chaos_devotion_reward_khorne_4" text="{=tor_chaos_devotion_reward_khorne_4_text}Melee strikes deal 1000% shield damage." />
+  <string id="tor_chaos_devotion_reward_khorne_5" text="{=tor_chaos_devotion_reward_khorne_5_text}Charging horses that hit you collapse with their riders." />
+  <string id="tor_chaos_devotion_reward_khorne_6" text="{=tor_chaos_devotion_reward_khorne_6_text}Each kill grants +1 swing speed, up to +20." />
+  <string id="tor_chaos_devotion_reward_khorne_7" text="{=tor_chaos_devotion_reward_khorne_7_text}+15% armor penetration." />
+  <string id="tor_chaos_devotion_reward_khorne_8" text="{=tor_chaos_devotion_reward_khorne_8_text}+10% movement speed." />
+  <string id="tor_chaos_devotion_reward_khorne_9" text="{=tor_chaos_devotion_reward_khorne_9_text}Your melee attacks cannot be blocked or parried." />
+  <string id="tor_chaos_devotion_reward_khorne_10" text="{=tor_chaos_devotion_reward_khorne_10_text}Legendary two-handed axe of Khorne: massive damage and a shockwave on hit (20 damage, troll knockdown)." />
+  <string id="tor_chaos_devotion_reward_nurgle_1" text="{=tor_chaos_devotion_reward_nurgle_1_text}+2 campaign movement speed." />
+  <string id="tor_chaos_devotion_reward_nurgle_2" text="{=tor_chaos_devotion_reward_nurgle_2_text}+25 health and +10% campaign healing." />
+  <string id="tor_chaos_devotion_reward_nurgle_3" text="{=tor_chaos_devotion_reward_nurgle_3_text}Unlocks Prayer: Nurgle's Mercy." />
+  <string id="tor_chaos_devotion_reward_nurgle_4" text="{=tor_chaos_devotion_reward_nurgle_4_text}Kills raise one skeleton." />
+  <string id="tor_chaos_devotion_reward_nurgle_5" text="{=tor_chaos_devotion_reward_nurgle_5_text}+10% ward save." />
+  <string id="tor_chaos_devotion_reward_nurgle_6" text="{=tor_chaos_devotion_reward_nurgle_6_text}Nurgle's Leap: high jumps and immunity to fall damage." />
+  <string id="tor_chaos_devotion_reward_nurgle_7" text="{=tor_chaos_devotion_reward_nurgle_7_text}+50 health." />
+  <string id="tor_chaos_devotion_reward_nurgle_8" text="{=tor_chaos_devotion_reward_nurgle_8_text}+100 companion health and +5 companion limit." />
+  <string id="tor_chaos_devotion_reward_nurgle_9" text="{=tor_chaos_devotion_reward_nurgle_9_text}+25% ward save for soldiers." />
+  <string id="tor_chaos_devotion_reward_nurgle_10" text="{=tor_chaos_devotion_reward_nurgle_10_text}Nurgle armor set: 5 pieces; each +5% phys resist, +5% ward, +5 HP, +10% ranged resistance." />
+  <string id="tor_chaos_devotion_reward_tzeentch_1" text="{=tor_chaos_devotion_reward_tzeentch_1_text}+15% spell radius." />
+  <string id="tor_chaos_devotion_reward_tzeentch_2" text="{=tor_chaos_devotion_reward_tzeentch_2_text}+25% magical resistance." />
+  <string id="tor_chaos_devotion_reward_tzeentch_3" text="{=tor_chaos_devotion_reward_tzeentch_3_text}Unlocks Prayer: Tzeentch Strike." />
+  <string id="tor_chaos_devotion_reward_tzeentch_4" text="{=tor_chaos_devotion_reward_tzeentch_4_text}+15% spell power and -15% spell cooldown." />
+  <string id="tor_chaos_devotion_reward_tzeentch_5" text="{=tor_chaos_devotion_reward_tzeentch_5_text}Tzeentch Strike kills restore 0.5 Winds of Magic." />
+  <string id="tor_chaos_devotion_reward_tzeentch_6" text="{=tor_chaos_devotion_reward_tzeentch_6_text}+5 Winds of Magic per companion and +5 companion limit." />
+  <string id="tor_chaos_devotion_reward_tzeentch_7" text="{=tor_chaos_devotion_reward_tzeentch_7_text}Your spells no longer damage allies." />
+  <string id="tor_chaos_devotion_reward_tzeentch_8" text="{=tor_chaos_devotion_reward_tzeentch_8_text}Melee hits have 10% chance to trigger Tzeentch Strike." />
+  <string id="tor_chaos_devotion_reward_tzeentch_9" text="{=tor_chaos_devotion_reward_tzeentch_9_text}+5 Winds of Magic per Chaos Portal." />
+  <string id="tor_chaos_devotion_reward_tzeentch_10" text="{=tor_chaos_devotion_reward_tzeentch_10_text}Legendary staff of Tzeentch: greatly boosted spell power and the first 3 spell casts in each battle are free." />
+  <string id="tor_chaos_devotion_reward_slaanesh_1" text="{=tor_chaos_devotion_reward_slaanesh_1_text}Lord Madness: in conversation with an enemy lord, pay 50 Gifts to make them avoid attacking." />
+  <string id="tor_chaos_devotion_reward_slaanesh_2" text="{=tor_chaos_devotion_reward_slaanesh_2_text}+5 companion limit." />
+  <string id="tor_chaos_devotion_reward_slaanesh_3" text="{=tor_chaos_devotion_reward_slaanesh_3_text}Unlocks Prayer of Seduction." />
+  <string id="tor_chaos_devotion_reward_slaanesh_4" text="{=tor_chaos_devotion_reward_slaanesh_4_text}Lord Seduction: in conversation with an enemy lord, pay 200 influence and 500 Gifts to recruit them." />
+  <string id="tor_chaos_devotion_reward_slaanesh_5" text="{=tor_chaos_devotion_reward_slaanesh_5_text}Wings of Slaanesh: take flight for a short time, 30 second cooldown." />
+  <string id="tor_chaos_devotion_reward_slaanesh_6" text="{=tor_chaos_devotion_reward_slaanesh_6_text}All prayers gain independent cooldowns." />
+  <string id="tor_chaos_devotion_reward_slaanesh_7" text="{=tor_chaos_devotion_reward_slaanesh_7_text}Chaos uprising success becomes 100%, but costs 800 Gifts." />
+  <string id="tor_chaos_devotion_reward_slaanesh_8" text="{=tor_chaos_devotion_reward_slaanesh_8_text}-30% troop upkeep and upgrade costs." />
+  <string id="tor_chaos_devotion_reward_slaanesh_9" text="{=tor_chaos_devotion_reward_slaanesh_9_text}Portal and town recruitment offer elite Chaos champions only, including mounted knights and god-marked warriors." />
+  <string id="tor_chaos_devotion_reward_slaanesh_10" text="{=tor_chaos_devotion_reward_slaanesh_10_text}Legendary bow of Slaanesh: +25% magical damage, with a 10% chance to seduce nearby enemies on kill." />
+  <string id="tor_chaos_weapon_bow_slaanesh_legendary" text="{=tor_chaos_weapon_bow_slaanesh_legendary_text}Bow of Slaanesh" />
+  <string id="tor_chaos_ui_close" text="{=tor_chaos_ui_close_text}Close" />
+  <string id="tor_chaos_portal_wait" text="{=tor_chaos_portal_wait_text}Pray to the Four" />
+  <string id="tor_chaos_portal_wait_back" text="{=tor_chaos_portal_wait_back_text}Back" />
+  <string id="tor_chaos_portal_enter" text="{=tor_chaos_portal_enter_text}Enter the chaos portal" />
+  <string id="tor_chaos_shrine_defile_option" text="{=tor_chaos_shrine_defile_option_text}Defile the shrine for Chaos Gifts. Followers of {GOD_NAME} will remember this." />
+  <string id="tor_chaos_shrine_defile_result" text="{=tor_chaos_shrine_defile_result_text}You gathered {DEFILE_AMOUNT} Chaos Gifts {GIFTS_ICON}. Word of this desecration reaches the followers of {GOD_NAME}." />
+  <string id="tor_chaos_shrine_defile_reward" text="{=tor_chaos_shrine_defile_reward_text}The desecrated shrine yields {GIFTS} Chaos Gifts." />
+  <string id="tor_chaos_claim_hideout" text="{=tor_chaos_claim_hideout_text}Claim this chaos hideout" />
+  <string id="tor_chaos_claim_hideout_requires_clear" text="{=tor_chaos_claim_hideout_requires_clear_text}Defeat the defenders before claiming this chaos hideout." />
+  <string id="tor_chaos_claim_hideout_inactive" text="{=tor_chaos_claim_hideout_inactive_text}This chaos hideout has already been broken." />
+  <string id="tor_chaos_claim_hideout_success" text="{=tor_chaos_claim_hideout_success_text}The chaos hideout now answers to you. It will yield {GIFTS} Chaos Gifts each day." />
+  <string id="tor_chaos_claimed_hideout_daily_gifts" text="{=tor_chaos_claimed_hideout_daily_gifts_text}Claimed chaos hideouts yield {GIFTS} Chaos Gifts." />
+  <string id="tor_chaos_portal_force_uprising" text="{=tor_chaos_portal_force_uprising_text}Force chaos uprising" />
+  <string id="tor_chaos_portal_force_uprising_details" text="{=tor_chaos_portal_force_uprising_details_text}Force chaos uprising ({GIFT_COST}{GIFT_ICON}, {UPRISING_CHANCE}% success)" />
+  <string id="tor_chaos_portal_force_uprising_tooltip" text="{=tor_chaos_portal_force_uprising_tooltip_text}Cost: {GIFT_COST}{GIFT_ICON}. Current uprising chance: {UPRISING_CHANCE}%." />
+  <string id="tor_chaos_village_raid_gifts" text="{=tor_chaos_village_raid_gifts_text}The dark gods grant {GIFTS} Chaos Gifts for raiding this village." />
+
+  <string id="tor_chaos_portal_unknown" text="{=tor_chaos_portal_unknown_text}The portal thrums with dark promise." />
+  <string id="tor_chaos_portal_intro" text="{=tor_chaos_portal_intro_text}A Chaos Portal hums with stolen reality." />
+  <string id="tor_chaos_portal_impostor" text="{=tor_chaos_portal_impostor_text}A blood-wet breach now stains the fallen settlement." />
+  <string id="tor_chaos_portal_waiting" text="{=tor_chaos_portal_waiting_text}You kneel before the dark gods as the portal howls around you." />
+  <string id="tor_chaos_portal_prayer_faith_xp" text="{=tor_chaos_portal_prayer_faith_xp_text}Your prayers grant {XP} Faith experience." />
+  <string id="tor_chaos_uprising_failed" text="{=tor_chaos_uprising_failed_text}The city guard drowned the cult in blood. The uprising fails." />
+  <string id="tor_chaos_uprising_failed_no_scene" text="{=tor_chaos_uprising_failed_no_scene_text}The cult is exposed, but no city scene was available for the purge." />
+  <string id="tor_chaos_invasion_stage_risen" text="{=tor_chaos_invasion_stage_risen_text}Current invasion stage: {STAGE} of 10." />
+  <string id="tor_chaos_invasion_stage_none" text="{=tor_chaos_invasion_stage_none_text}No invasion stage yet (score below 100)." />
+  <string id="tor_chaos_invasion_stage_label" text="{=tor_chaos_invasion_stage_label_text}Invasion stage" />
+  <string id="tor_chaos_gifts_daily_change_portals" text="{=tor_chaos_gifts_daily_change_portals_text}Chaos Portals" />
+  <string id="tor_chaos_gifts_daily_change_hideouts" text="{=tor_chaos_gifts_daily_change_hideouts_text}Claimed chaos hideouts" />
+  <string id="tor_chaos_gifts_daily_income" text="{=tor_chaos_gifts_daily_income_text}Daily income" />
+  <string id="tor_chaos_gifts_daily_income_none" text="{=tor_chaos_gifts_daily_income_none_text}No active daily Chaos Gift income." />
+  <string id="tor_chaos_gifts_daily_income_total" text="{=tor_chaos_gifts_daily_income_total_text}+{AMOUNT} Chaos Gifts per day." />
+  <string id="tor_chaos_gifts_daily_income_portals" text="{=tor_chaos_gifts_daily_income_portals_text}Chaos Portals: +{AMOUNT} per day ({PER_PORTAL} each)." />
+  <string id="tor_chaos_gifts_daily_income_hideouts" text="{=tor_chaos_gifts_daily_income_hideouts_text}Claimed chaos hideouts: +{AMOUNT} per day ({PER_HIDEOUT} each)." />
+  <string id="tor_chaos_gifts_gain_bonus" text="{=tor_chaos_gifts_gain_bonus_text}Gain bonuses" />
+  <string id="tor_chaos_gifts_gain_bonus_none" text="{=tor_chaos_gifts_gain_bonus_none_text}No active Chaos Gift gain bonuses." />
+  <string id="tor_chaos_gifts_gain_bonus_career" text="{=tor_chaos_gifts_gain_bonus_career_text}Chaos career choices: +{AMOUNT}." />
+  <string id="tor_chaos_gifts_gain_bonus_cult_network" text="{=tor_chaos_gifts_gain_bonus_cult_network_text}Cult Network: +20" />
+  <string id="tor_chaos_gifts_gain_bonus_portal_dominion" text="{=tor_chaos_gifts_gain_bonus_portal_dominion_text}Portal Dominion: +20" />
+  <string id="tor_chaos_gifts_gain_bonus_god_marked_spoils" text="{=tor_chaos_gifts_gain_bonus_god_marked_spoils_text}God-Marked Spoils: +25" />
+  <string id="tor_chaos_invasion_daily_decay" text="{=tor_chaos_invasion_daily_decay_text}Daily decay" />
+  <string id="tor_chaos_invasion_daily_decay_value" text="{=tor_chaos_invasion_daily_decay_value_text}-{AMOUNT} per day if you took no threatening actions today (executions, sacrifices, portals, uprisings)." />
+  <string id="tor_chaos_demon_hunter_clan_name" text="{=tor_chaos_demon_hunter_clan_name_text}Order of the Demon Hunters" />
+  <string id="tor_chaos_demon_hunter_clan_short_name" text="{=tor_chaos_demon_hunter_clan_short_name_text}Demon Hunters" />
+  <string id="tor_chaos_demon_hunter_party_name" text="{=tor_chaos_demon_hunter_party_name_text}Demon Hunter Warband" />
+  <string id="tor_chaos_demon_hunter_spawned" text="{=tor_chaos_demon_hunter_spawned_text}Demon Hunters have taken the field against you." />
+  <string id="tor_chaos_demon_hunter_lord_slain" text="{=tor_chaos_demon_hunter_lord_slain_text}A Demon Hunter lord has fallen. Another will rise in 50 days if the invasion remains high." />
+  <string id="tor_chaos_demon_hunter_respawn" text="{=tor_chaos_demon_hunter_respawn_text}A new Demon Hunter lord takes the oath against Chaos." />
+  <string id="tor_chaos_eternal_alliance" text="{=tor_chaos_eternal_alliance_text}The realms swear an eternal alliance against Chaos." />
+
+  <string id="tor_chaos_tier2_quest_title" text="{=tor_chaos_tier2_quest_title_text}The First Circle of Ruin" />
+  <string id="tor_chaos_tier2_quest_log_hideouts" text="{=tor_chaos_tier2_quest_log_hideouts_text}Claim {REQUIRED} cultist hideouts for the dark gods." />
+  <string id="tor_chaos_tier2_quest_task_hideouts" text="{=tor_chaos_tier2_quest_task_hideouts_text}Cultist hideouts" />
+  <string id="tor_chaos_tier2_quest_log_villages" text="{=tor_chaos_tier2_quest_log_villages_text}Raid {REQUIRED} villages for the dark gods." />
+  <string id="tor_chaos_tier2_quest_task_villages" text="{=tor_chaos_tier2_quest_task_villages_text}Village raids" />
+  <string id="tor_chaos_tier2_quest_log_uprising" text="{=tor_chaos_tier2_quest_log_uprising_text}Ignite {REQUIRED} chaos uprising in a town or castle." />
+  <string id="tor_chaos_tier2_quest_task_uprising" text="{=tor_chaos_tier2_quest_task_uprising_text}Chaos uprisings" />
+  <string id="tor_chaos_tier3_quest_title" text="{=tor_chaos_tier3_quest_title_text}The Crown of the Pantheon" />
+  <string id="tor_chaos_tier3_quest_log_cities" text="{=tor_chaos_tier3_quest_log_cities_text}Convert {REQUIRED} cities or castles into chaos portals." />
+  <string id="tor_chaos_tier3_quest_task_cities" text="{=tor_chaos_tier3_quest_task_cities_text}City conversions" />
+  <string id="tor_chaos_tier3_quest_log_executions" text="{=tor_chaos_tier3_quest_log_executions_text}Execute {REQUIRED} enemy lords." />
+  <string id="tor_chaos_tier3_quest_task_executions" text="{=tor_chaos_tier3_quest_task_executions_text}Lord executions" />
+  <string id="tor_chaos_tier3_quest_log_devotion" text="{=tor_chaos_tier3_quest_log_devotion_text}Reach {REQUIRED} total devotion stages across the four gods." />
+  <string id="tor_chaos_tier3_quest_task_devotion" text="{=tor_chaos_tier3_quest_task_devotion_text}Total devotion" />
+
+  <string id="tor_chaos_end_of_times_quest_title" text="{=tor_chaos_end_of_times_quest_title_text}End of Times" />
+  <string id="tor_chaos_end_of_times_quest_log" text="{=tor_chaos_end_of_times_quest_log_text}Destroy every kingdom in the Old World except the Realm of Chaos." />
+  <string id="tor_chaos_end_of_times_quest_task" text="{=tor_chaos_end_of_times_quest_task_text}Kingdoms destroyed" />
+  <string id="tor_chaos_end_of_times_complete" text="{=tor_chaos_end_of_times_complete_text}The Old World lies broken. Only Chaos endures." />
+
+  <string id="tor_chaos_portal_god_mission" text="{=tor_chaos_portal_god_mission_text}Receive missions from the gods" />
+  <string id="tor_chaos_portal_god_mission_active" text="{=tor_chaos_portal_god_mission_active_text}Complete or fail your current mission from the gods first." />
+  <string id="tor_chaos_portal_god_mission_cooldown" text="{=tor_chaos_portal_god_mission_cooldown_text}The gods will offer a new mission in {DAYS} days." />
+  <string id="tor_chaos_portal_god_mission_unavailable" text="{=tor_chaos_portal_god_mission_unavailable_text}The gods offer no mission today." />
+  <string id="tor_chaos_god_mission_issued" text="{=tor_chaos_god_mission_issued_text}The gods demand: {MISSION}" />
+  <string id="tor_chaos_god_mission_failed" text="{=tor_chaos_god_mission_failed_text}The dark gods are displeased. You lose {PENALTY} Chaos Gifts." />
+  <string id="tor_chaos_god_mission_title_executions" text="{=tor_chaos_god_mission_title_executions_text}Blood Tithe" />
+  <string id="tor_chaos_god_mission_title_uprising" text="{=tor_chaos_god_mission_title_uprising_text}Flames of Discord" />
+  <string id="tor_chaos_god_mission_title_hideout" text="{=tor_chaos_god_mission_title_hideout_text}Cultist Lairs" />
+  <string id="tor_chaos_god_mission_title_village" text="{=tor_chaos_god_mission_title_village_text}Ashen Harvest" />
+  <string id="tor_chaos_god_mission_log_executions" text="{=tor_chaos_god_mission_log_executions_text}Execute {REQUIRED} enemy lords within 30 days. Reward: {REWARD} Chaos Gifts. Failure costs {PENALTY} gifts." />
+  <string id="tor_chaos_god_mission_log_uprising" text="{=tor_chaos_god_mission_log_uprising_text}Ignite {REQUIRED} chaos uprising within 30 days. Reward: {REWARD} Chaos Gifts. Failure costs {PENALTY} gifts." />
+  <string id="tor_chaos_god_mission_log_hideout" text="{=tor_chaos_god_mission_log_hideout_text}Claim {REQUIRED} cultist hideout within 30 days. Reward: {REWARD} Chaos Gifts. Failure costs {PENALTY} gifts." />
+  <string id="tor_chaos_god_mission_log_village" text="{=tor_chaos_god_mission_log_village_text}Raid {REQUIRED} village for the dark gods within 30 days. Reward: {REWARD} Chaos Gifts. Failure costs {PENALTY} gifts." />
+  <string id="tor_chaos_god_mission_task_executions" text="{=tor_chaos_god_mission_task_executions_text}Lord executions" />
+  <string id="tor_chaos_god_mission_task_uprising" text="{=tor_chaos_god_mission_task_uprising_text}Chaos uprisings" />
+  <string id="tor_chaos_god_mission_task_hideout" text="{=tor_chaos_god_mission_task_hideout_text}Hideouts claimed" />
+  <string id="tor_chaos_god_mission_task_village" text="{=tor_chaos_god_mission_task_village_text}Village raids" />
+  <string id="tor_chaos_god_mission_complete_executions" text="{=tor_chaos_god_mission_complete_executions_text}The gods relish the blood of lords. You receive {REWARD} Chaos Gifts." />
+  <string id="tor_chaos_god_mission_complete_uprising" text="{=tor_chaos_god_mission_complete_uprising_text}Rebellion spreads in their cities. You receive {REWARD} Chaos Gifts." />
+  <string id="tor_chaos_god_mission_complete_hideout" text="{=tor_chaos_god_mission_complete_hideout_text}The cultist lairs bow to you. You receive {REWARD} Chaos Gifts." />
+  <string id="tor_chaos_god_mission_complete_village" text="{=tor_chaos_god_mission_complete_village_text}Ash and sacrifice please the pantheon. You receive {REWARD} Chaos Gifts." />
+
+  <string id="chaos_prayer_seduction_name" text="{=chaos_prayer_seduction_name_text}Prayer of Seduction" />
+  <string id="chaos_prayer_seduction_desc" text="{=chaos_prayer_seduction_desc_text}Turns nearby weak-willed enemies against their masters for a short time." />
+  <string id="chaos_prayer_tzeentch_name" text="{=chaos_prayer_tzeentch_name_text}Tzeentch Strike" />
+  <string id="chaos_prayer_tzeentch_desc" text="{=chaos_prayer_tzeentch_desc_text}Launches a bolt of change-magic that explodes on impact." />
+  <string id="chaos_prayer_nurgle_name" text="{=chaos_prayer_nurgle_name_text}Nurgle's Mercy" />
+  <string id="chaos_prayer_nurgle_desc" text="{=chaos_prayer_nurgle_desc_text}Creates a rotting blessing that heals allies and sickens enemies." />
+  <string id="chaos_prayer_khorne_name" text="{=chaos_prayer_khorne_name_text}Khorne's Fortitude" />
+  <string id="chaos_prayer_khorne_desc" text="{=chaos_prayer_khorne_desc_text}Grants physical resistance and swing speed for forty seconds." />
+  <string id="chaos_wings_slaanesh_name" text="{=chaos_wings_slaanesh_name_text}Wings of Slaanesh" />
+  <string id="chaos_wings_slaanesh_desc" text="{=chaos_wings_slaanesh_desc_text}Take flight on daemonic wings. Duration scales with Athletics. 30 second cooldown." />
+
+  <string id="tor_chaos_lord_madness_dialog" text="{=tor_chaos_lord_madness_dialog_text}Unleash madness upon this lord. (100 Gifts)" />
+  <string id="tor_chaos_lord_madness_npc" text="{=tor_chaos_lord_madness_npc_text}{?CONVERSATION_CHARACTER.GENDER}She{?}He{\?} staggers, eyes rolling back as visions of ruin consume {?CONVERSATION_CHARACTER.GENDER}her{?}him{\?} mind." />
+  <string id="tor_chaos_lord_madness_not_enough" text="{=tor_chaos_lord_madness_not_enough_text}Requires 100 Chaos Gifts." />
+  <string id="chaos_lord_madness_success" text="{=chaos_lord_madness_success_text}{LORD} is consumed by madness and avoids your warband." />
+  <string id="tor_chaos_lord_seduction_dialog" text="{=tor_chaos_lord_seduction_dialog_text}Seduce this lord into your retinue. (500 Gifts, 200 influence)" />
+  <string id="tor_chaos_lord_seduction_npc" text="{=tor_chaos_lord_seduction_npc_text}{?CONVERSATION_CHARACTER.GENDER}She{?}He{\?} cannot resist your whispered promises and swears {?CONVERSATION_CHARACTER.GENDER}her{?}his{\?} blade to your cause." />
+  <string id="tor_chaos_lord_seduction_not_enough_gifts" text="{=tor_chaos_lord_seduction_not_enough_gifts_text}Requires 500 Chaos Gifts." />
+  <string id="tor_chaos_lord_seduction_not_enough_influence" text="{=tor_chaos_lord_seduction_not_enough_influence_text}Requires 200 influence." />
+  <string id="chaos_lord_seduction_success" text="{=chaos_lord_seduction_success_text}{LORD} has been seduced into your retinue." />
+  <string id="tor_chaos_force_uprising_wounded" text="You are too badly wounded to ignite an uprising." />
+  <string id="tor_chaos_lord_seduction_not_enough_resources" text="Not enough Gifts or influence." />
+  <string id="tor_chaos_demon_hunter_lord" text="Demon Hunter Lord" />
+  <string id="tor_chaos_demon_hunter_elite" text="Demon Hunter" />
+  <string id="tor_chaos_demon_hunter_headhunter" text="Demon Headhunter" />
+  <string id="tor_chaos_demon_hunter_guard" text="Demon Hunter Guard" />
+  <string id="tor_chaos_demon_hunter_grandmaster_name" text="Demon Hunter Grandmaster" />
+  <string id="tor_chaos_demon_hunter_grandmaster_first_name" text="Demon Hunter" />
+  <string id="tor_chaos_demon_hunter_lord_name" text="Demon Hunter {INDEX}" />
+  <string id="tor_chaos_demon_hunter_lord_first_name" text="Demon Hunter" />
+  <string id="tor_chaos_trait_khorne_axe_name" text="Axe of the Blood God" />
+  <string id="tor_chaos_trait_khorne_axe_desc" text="+25% physical damage, improved cleave, knocks enemies back on hit, +3 health per kill." />
+  <string id="tor_chaos_trait_nurgle_reflect_name" text="Spore-Touched Warding" />
+  <string id="tor_chaos_trait_nurgle_reflect_desc" text="+10% ranged resistance." />
+  <string id="tor_chaos_trait_nurgle_resilience_name" text="Grandfather's Resilience" />
+  <string id="tor_chaos_trait_nurgle_resilience_desc" text="+5% physical resistance." />
+  <string id="tor_chaos_trait_nurgle_gift_name" text="Bountiful Rot" />
+  <string id="tor_chaos_trait_nurgle_gift_desc" text="+5% ward save and +5 maximum health." />
+  <string id="tor_chaos_trait_tzeentch_radius_name" text="Architect of Change" />
+  <string id="tor_chaos_trait_tzeentch_radius_desc" text="+15% spell radius." />
+  <string id="tor_chaos_trait_tzeentch_power_name" text="Flux Mastery" />
+  <string id="tor_chaos_trait_tzeentch_power_desc" text="+15% spell power." />
+  <string id="tor_chaos_trait_tzeentch_winds_name" text="Winds of Manipulation" />
+  <string id="tor_chaos_trait_tzeentch_winds_desc" text="The next 3 spells in battle cost no Winds of Magic." />
+  <string id="tor_chaos_trait_slaanesh_bow_name" text="Bow of Excess" />
+  <string id="tor_chaos_trait_slaanesh_bow_desc" text="+25% magical damage, 10% chance to seduce nearby enemies on kill." />
+  <string id="tor_chaos_career_root_desc" text="Rite of Ascendancy: lasts 23s. +20% physical resistance, +5% ward, +30% melee damage, +25% spell damage, +15% movement/attack speed. Slows enemies; buffs Chaos allies." />
+  <string id="tor_chaos_career_root_mutated_desc" text="Lasts 23s. +20% physical resistance, +5% ward, +30% melee damage, +25% spell damage, +15% movement/attack speed. Slows enemies; buffs Chaos allies." />
+  <string id="tor_chaos_career_condition_champion" text="Only a true champion of Chaos may take this path." />
+  <string id="tor_chaos_career_condition_tier1" text="The first tier must be mastered first." />
+  <string id="tor_chaos_career_condition_unlock_tier2" text="Claim 3 cultist hideouts and ignite one city uprising to unlock this tier." />
+  <string id="tor_chaos_career_condition_tier2" text="The second tier must be mastered first." />
+  <string id="tor_chaos_career_condition_unlock_tier3" text="Break three cities, execute five lords and reach deep devotion to unlock this tier." />
+  <string id="tor_chaos_choice_ruinous_blade_name" text="Ruinous Blade" />
+  <string id="tor_chaos_choice_ruinous_blade_keystone" text="Ascendancy: +10% melee damage, +5% attack speed." />
+  <string id="tor_chaos_choice_ruinous_blade_passive_1" text="+25 health." />
+  <string id="tor_chaos_choice_ruinous_blade_passive_2" text="+15% melee damage." />
+  <string id="tor_chaos_choice_ruinous_blade_passive_3" text="+10% swing speed." />
+  <string id="tor_chaos_choice_ruinous_blade_passive_4" text="+10% melee armor penetration." />
+  <string id="tor_chaos_choice_warp_conduit_name" text="Warp Conduit" />
+  <string id="tor_chaos_choice_warp_conduit_keystone" text="Ascendancy: -3s cooldown, +10% spell damage, +5% Winds link." />
+  <string id="tor_chaos_choice_warp_conduit_passive_1" text="+20 Winds of Magic." />
+  <string id="tor_chaos_choice_warp_conduit_passive_2" text="+20% Winds regeneration." />
+  <string id="tor_chaos_choice_warp_conduit_passive_3" text="+10% spell radius." />
+  <string id="tor_chaos_choice_warp_conduit_passive_4" text="+15% spell effectiveness." />
+  <string id="tor_chaos_choice_cult_network_name" text="Cult Network" />
+  <string id="tor_chaos_choice_cult_network_keystone" text="Ascendancy: +3s duration, +5% movement speed, +5% physical resistance." />
+  <string id="tor_chaos_choice_cult_network_passive_1" text="+20 Chaos Gifts from all sources." />
+  <string id="tor_chaos_choice_cult_network_passive_2" text="+10 party size." />
+  <string id="tor_chaos_choice_cult_network_passive_3" text="-10% troop wages." />
+  <string id="tor_chaos_choice_cult_network_passive_4" text="+10% battle renown gain." />
+  <string id="tor_chaos_choice_portal_dominion_name" text="Portal Dominion" />
+  <string id="tor_chaos_choice_portal_dominion_keystone" text="Ascendancy: +6 radius, +5% ward resistance, +5% Winds link. Removes heavy-armor Winds loss." />
+  <string id="tor_chaos_choice_portal_dominion_passive_1" text="+10% party movement speed." />
+  <string id="tor_chaos_choice_portal_dominion_passive_2" text="+15% personal movement speed." />
+  <string id="tor_chaos_choice_portal_dominion_passive_3" text="+20 Chaos Gifts from all sources." />
+  <string id="tor_chaos_choice_portal_dominion_passive_4" text="-10% enchantment cost." />
+  <string id="tor_chaos_choice_god_marked_spoils_name" text="God-Marked Spoils" />
+  <string id="tor_chaos_choice_god_marked_spoils_keystone" text="Ascendancy: +5% melee damage, +5% physical resistance." />
+  <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="+15% battle renown gain." />
+  <string id="tor_chaos_choice_god_marked_spoils_passive_2" text="+15% troop damage." />
+  <string id="tor_chaos_choice_god_marked_spoils_passive_3" text="+10% troop resistance." />
+  <string id="tor_chaos_choice_god_marked_spoils_passive_4" text="+25 Chaos Gifts from all sources." />
+  <string id="tor_chaos_choice_undivided_apotheosis_name" text="Undivided Apotheosis" />
+  <string id="tor_chaos_choice_undivided_apotheosis_keystone" text="Ascendancy: -10s cooldown, +6s duration, +6 radius, +8% ward resistance, +8% melee damage." />
+  <string id="tor_chaos_choice_undivided_apotheosis_passive_1" text="+30 health." />
+  <string id="tor_chaos_choice_undivided_apotheosis_passive_2" text="+20% physical resistance." />
+  <string id="tor_chaos_choice_undivided_apotheosis_passive_3" text="+15% spell effectiveness." />
+  <string id="tor_chaos_choice_undivided_apotheosis_passive_4" text="+10% swing speed." />
+  <string id="tor_chaos_choice_everchosen_command_name" text="Everchosen Command" />
+  <string id="tor_chaos_choice_everchosen_command_keystone" text="Ascendancy: +8% attack speed. Enemies: -5% movement speed, -5% attack speed." />
+  <string id="tor_chaos_choice_everchosen_command_passive_1" text="+20 party size." />
+  <string id="tor_chaos_choice_everchosen_command_passive_2" text="+20% troop damage." />
+  <string id="tor_chaos_choice_everchosen_command_passive_3" text="+20% troop resistance." />
+  <string id="tor_chaos_choice_everchosen_command_passive_4" text="+20% troop morale." />
+  <string id="tor_chaos_cc_feat_armor" text="Heavy armor and brutal melee power" />
+  <string id="tor_chaos_cc_feat_magic" text="Dark magic and Chaos Gifts economy" />
+  <string id="tor_chaos_cc_feat_enemy" text="Starts as an enemy of the civilized realms" />  <string id="tor_chaos_menu_continue_text" text="Continue" />
+  <string id="tor_chaos_menu_leave_text" text="Leave..." />
+  <string id="tor_chaos_portal_name" text="Chaos Portal" />
+</strings>

@@ -1,0 +1,143 @@
+<Prefab>
+  <Constants>
+    <Constant Name="FactionSmallBanner.Width" Value="29" />
+    <Constant Name="FactionSmallBanner.Height" Value="37" />
+    <Constant Name="ListKingdomBanner.Width" MultiplyResult="0.90" Value="!FactionSmallBanner.Width" />
+    <Constant Name="ListKingdomBanner.Height" MultiplyResult="0.90" Value="!FactionSmallBanner.Height" />
+    <Constant Name="CenterKingdomBanner.Width" Value="105" />
+    <Constant Name="CenterKingdomBanner.Height" Value="126" />
+  </Constants>
+  <Window>
+    <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" IsVisible="@IsVisible">
+      <Children>
+        <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="BlankWhiteSquare_9" Color="#000000AA" />
+
+        <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="1180" SuggestedHeight="760" HorizontalAlignment="Center" VerticalAlignment="Center" Sprite="chaos_panel_background" Color="#FFFFFFFF">
+          <Children>
+            <RichTextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" MarginTop="22" MarginLeft="32" MarginRight="32" Brush="Quest.CenterPanel.Title.Text" Brush.FontSize="36" Text="@Title" />
+            <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" MarginTop="76" MarginLeft="44" Brush="TorRoRSettlementBrush" Brush.FontSize="24" Text="@GiftsText" />
+            <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Right" VerticalAlignment="Top" MarginTop="76" MarginRight="44" Brush="TorRoRSettlementBrush" Brush.FontSize="24" Text="@CostText" />
+
+            <ListPanel WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="560" MarginTop="120" MarginLeft="44" MarginRight="44" MarginBottom="70" StackLayout.LayoutMethod="HorizontalLeftToRight">
+              <Children>
+                <Widget WidthSizePolicy="Fixed" HeightSizePolicy="StretchToParent" SuggestedWidth="400">
+                  <Children>
+                    <Widget DoNotAcceptEvents="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="BlankWhiteSquare_9" Color="#FFFFFF08" />
+                    <ListPanel WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" MarginTop="8" MarginBottom="8" MarginLeft="8" MarginRight="4" StackLayout.LayoutMethod="HorizontalLeftToRight">
+                      <Children>
+                        <ScrollablePanel WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" AutoHideScrollBars="true" ClipRect="KingdomListClipRect" InnerPanel="KingdomListClipRect\KingdomList" VerticalScrollbar="..\KingdomListScrollbar\Scrollbar">
+                          <Children>
+                            <Widget Id="KingdomListClipRect" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" ClipContents="true">
+                              <Children>
+                                <ListPanel Id="KingdomList" DataSource="{Kingdoms}" WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" StackLayout.LayoutMethod="VerticalTopToBottom" MarginTop="4" MarginBottom="4">
+                                  <ItemTemplate>
+                                    <ButtonWidget DoNotPassEventsToChildren="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="52" MarginBottom="4" Command.Click="ExecuteSelect">
+                                      <Children>
+                                        <Widget DoNotAcceptEvents="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="BlankWhiteSquare_9" Color="#FFFFFF10" IsHidden="@IsSelected" />
+                                        <Widget DoNotAcceptEvents="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="BlankWhiteSquare_9" Color="#E0B05044" IsVisible="@IsSelected" />
+                                        <ListPanel WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" StackLayout.LayoutMethod="HorizontalLeftToRight" MarginLeft="10" MarginRight="10">
+                                          <Children>
+                                            <Widget DoNotAcceptEvents="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="!ListKingdomBanner.Width" SuggestedHeight="!ListKingdomBanner.Height" VerticalAlignment="Center">
+                                              <Children>
+                                                <MaskedTextureWidget DataSource="{BannerSmall}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="!ListKingdomBanner.Width" SuggestedHeight="!ListKingdomBanner.Height" HorizontalAlignment="Center" VerticalAlignment="Center" Brush="Kingdom.OtherWars.Faction.Small.Banner" AdditionalArgs="@AdditionalArgs" ImageId="@Id" TextureProviderName="@TextureProviderName" IsDisabled="true" />
+                                              </Children>
+                                            </Widget>
+                                            <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" VerticalAlignment="Center" MarginLeft="10" Brush="TorRoRSettlementBrush" Brush.FontSize="20" Text="@Name" />
+                                            <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Right" VerticalAlignment="Center" MarginRight="8" Brush="TorCareerChoiceBrush" Brush.FontSize="16" Text="↑" IsVisible="@IsAssignedTop" />
+                                            <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Right" VerticalAlignment="Center" MarginRight="8" Brush="TorCareerChoiceBrush" Brush.FontSize="16" Text="↓" IsVisible="@IsAssignedBottom" />
+                                          </Children>
+                                        </ListPanel>
+                                      </Children>
+                                    </ButtonWidget>
+                                  </ItemTemplate>
+                                </ListPanel>
+                              </Children>
+                            </Widget>
+                          </Children>
+                        </ScrollablePanel>
+                        <Standard.VerticalScrollbar Id="KingdomListScrollbar" WidthSizePolicy="Fixed" HeightSizePolicy="StretchToParent" SuggestedWidth="10" MarginRight="4" />
+                      </Children>
+                    </ListPanel>
+                  </Children>
+                </Widget>
+
+                <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" MarginLeft="24">
+                  <Children>
+                    <ListPanel WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" StackLayout.LayoutMethod="VerticalCentered" HorizontalAlignment="Center">
+                      <Children>
+                        <ButtonWidget DoNotPassEventsToChildren="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="300" SuggestedHeight="190" HorizontalAlignment="Center" Command.Click="ExecuteClearTop" IsEnabled="@HasTopKingdom">
+                          <Children>
+                            <Widget DoNotAcceptEvents="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="BlankWhiteSquare_9" Color="#FFFFFF10" />
+                            <ListPanel WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" MarginTop="8" MarginBottom="8" MarginLeft="12" MarginRight="12" StackLayout.LayoutMethod="VerticalTopToBottom">
+                              <Children>
+                                <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" MarginTop="2" Brush="TorRoRSettlementBrush" Brush.TextHorizontalAlignment="Center" Brush.FontSize="20" Text="@TopKingdomName" IsVisible="@HasTopKingdom" />
+                                <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="120" HorizontalAlignment="Center" MarginTop="4" MarginBottom="4" ClipContents="true" IsVisible="@HasTopKingdom">
+                                  <Children>
+                                    <Widget DataSource="{TopKingdomEntry}" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent">
+                                      <Children>
+                                        <MaskedTextureWidget DataSource="{BannerLarge}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="!CenterKingdomBanner.Width" SuggestedHeight="!CenterKingdomBanner.Height" HorizontalAlignment="Center" VerticalAlignment="Center" Brush="Kingdom.TornBanner" AdditionalArgs="@AdditionalArgs" ImageId="@Id" TextureProviderName="@TextureProviderName" />
+                                      </Children>
+                                    </Widget>
+                                  </Children>
+                                </Widget>
+                                <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" MarginBottom="4" Brush="TorCareerChoiceBrush" Brush.TextHorizontalAlignment="Center" Brush.FontSize="16" Text="@TopRoleText" />
+                              </Children>
+                            </ListPanel>
+                          </Children>
+                        </ButtonWidget>
+
+                        <ListPanel WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" MarginTop="10" MarginBottom="10" StackLayout.LayoutMethod="HorizontalLeftToRight">
+                          <Children>
+                            <Widget DoNotAcceptEvents="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="46" SuggestedHeight="60" VerticalAlignment="Center" MarginRight="-6" Sprite="SPGeneral\MapOverlay\Encounter\WarIcon" />
+                            <Widget DoNotAcceptEvents="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="46" SuggestedHeight="60" VerticalAlignment="Center" MarginLeft="-6" Sprite="SPGeneral\MapOverlay\Encounter\WarIcon" HorizontalFlip="true" />
+                          </Children>
+                        </ListPanel>
+
+                        <ButtonWidget DoNotPassEventsToChildren="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="300" SuggestedHeight="190" HorizontalAlignment="Center" Command.Click="ExecuteClearBottom" IsEnabled="@HasBottomKingdom">
+                          <Children>
+                            <Widget DoNotAcceptEvents="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="BlankWhiteSquare_9" Color="#FFFFFF10" />
+                            <ListPanel WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" MarginTop="8" MarginBottom="8" MarginLeft="12" MarginRight="12" StackLayout.LayoutMethod="VerticalTopToBottom">
+                              <Children>
+                                <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" MarginTop="2" Brush="TorRoRSettlementBrush" Brush.TextHorizontalAlignment="Center" Brush.FontSize="20" Text="@BottomKingdomName" IsVisible="@HasBottomKingdom" />
+                                <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="120" HorizontalAlignment="Center" MarginTop="4" MarginBottom="4" ClipContents="true" IsVisible="@HasBottomKingdom">
+                                  <Children>
+                                    <Widget DataSource="{BottomKingdomEntry}" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent">
+                                      <Children>
+                                        <MaskedTextureWidget DataSource="{BannerLarge}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="!CenterKingdomBanner.Width" SuggestedHeight="!CenterKingdomBanner.Height" HorizontalAlignment="Center" VerticalAlignment="Center" Brush="Kingdom.TornBanner" AdditionalArgs="@AdditionalArgs" ImageId="@Id" TextureProviderName="@TextureProviderName" />
+                                      </Children>
+                                    </Widget>
+                                  </Children>
+                                </Widget>
+                                <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" MarginBottom="4" Brush="TorCareerChoiceBrush" Brush.TextHorizontalAlignment="Center" Brush.FontSize="16" Text="@BottomRoleText" />
+                              </Children>
+                            </ListPanel>
+                          </Children>
+                        </ButtonWidget>
+
+                        <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" MarginTop="18" Brush="TorCareerChoiceBrush" Brush.TextHorizontalAlignment="Center" Brush.FontSize="18" Text="@HintText" />
+
+                        <ButtonWidget DoNotPassEventsToChildren="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="220" SuggestedHeight="46" HorizontalAlignment="Center" MarginTop="22" Brush="Popup.Done.Button" Command.Click="ExecuteConfirm" IsEnabled="@CanConfirm">
+                          <Children>
+                            <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" HorizontalAlignment="Center" VerticalAlignment="Center" Brush="Popup.Button.Text" Text="@ConfirmText" />
+                          </Children>
+                        </ButtonWidget>
+                      </Children>
+                    </ListPanel>
+                  </Children>
+                </Widget>
+              </Children>
+            </ListPanel>
+
+            <ButtonWidget DoNotPassEventsToChildren="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="180" SuggestedHeight="46" HorizontalAlignment="Center" VerticalAlignment="Bottom" MarginBottom="20" Brush="Popup.Done.Button" Command.Click="ExecuteClose">
+              <Children>
+                <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" HorizontalAlignment="Center" VerticalAlignment="Center" Brush="Popup.Button.Text" Text="@CloseText" />
+              </Children>
+            </ButtonWidget>
+
+            <BrushWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Brush="Popup.Frame" IsEnabled="false" />
+          </Children>
+        </Widget>
+      </Children>
+    </Widget>
+  </Window>
+</Prefab>

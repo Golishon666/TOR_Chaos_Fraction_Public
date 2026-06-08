@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SPCultures>
+  <Culture
+    id="chaos_culture"
+    name="{=tor_chaos_culture_name}Chaos"
+    color="FF6B1020"
+    color2="FF1A050A"
+    faction_banner_key="31.145.145.1536.1536.764.764.0.0.0.500.116.116.450.450.764.764.1.1.90.510.116.116.566.260.764.764.0.1.90.510.116.116.566.260.764.764.0.1.0.510.116.116.566.260.764.764.0.1.45.510.116.116.566.260.764.764.0.1.-45.504.116.116.103.144.764.447.0.1.0.504.116.116.103.144.764.1085.0.1.180.504.116.116.103.144.443.764.0.1.90.504.116.116.103.144.1086.764.0.1.-90.504.116.116.103.144.990.537.0.1.-45.504.116.116.103.144.539.534.0.1.45.504.116.116.103.144.533.987.0.1.135.504.116.116.103.144.991.993.0.1.-135.439.116.116.68.144.682.674.1.1.-135.439.116.116.68.144.868.870.1.1.-135.524.116.116.68.144.565.564.1.1.-135.524.116.116.68.144.764.503.1.1.-174.524.116.116.68.144.852.566.1.1.-121.429.116.116.83.176.558.748.1.1.-86.439.116.116.68.144.604.920.1.1.-41.439.116.116.68.144.784.742.1.1.-41.439.116.116.68.144.764.582.1.1.3.439.116.116.68.144.820.702.1.1.-49.439.116.116.68.144.702.828.1.1.-49.439.116.116.50.144.1029.768.1.1.-88.439.116.116.50.144.756.920.1.1.-191.440.116.116.50.92.950.631.1.1.-284.435.116.116.50.128.634.609.1.1.-178.435.116.116.50.128.948.844.1.1.-309.435.116.116.50.128.684.948.1.1.-33.435.116.116.50.128.579.674.1.1.-109.435.116.116.50.128.573.846.1.1.-53.435.116.116.50.128.862.560.1.1.-210.435.116.116.50.128.692.563.1.1.-152.435.116.116.50.128.969.676.1.1.-242.435.116.116.50.128.850.951.1.1.-328.435.116.116.50.128.515.756.1.1.-355.435.116.116.50.90.894.754.1.1.-43.434.116.116.81.104.1057.758.1.1.-43.434.116.116.81.104.541.981.1.1.-52.434.116.116.81.82.451.770.1.1.-52.314.116.116.81.112.978.551.1.1.-119.212.116.116.81.98.774.1073.1.1.-119.212.116.116.81.98.766.1065.1.1.-250.216.116.116.81.98.983.969.1.1.-315"
+    elite_basic_troop="NPCCharacter.guard"
+    basic_troop="NPCCharacter.guard"
+    encounter_background_mesh="encounter_empire"
+    default_battle_equipment_roster="EquipmentRoster.default_battle_equipment_roster_neutral"
+    default_civilian_equipment_roster="EquipmentRoster.default_civilian_equipment_roster_neutral"
+    default_stealth_equipment_roster="EquipmentRoster.default_stealth_equipment_roster">
+    <banner_bearer_replacement_weapons>
+      <item id="Item.iron_spatha_sword_t2" />
+      <item id="Item.empire_sword_1_t2" />
+      <item id="Item.empire_sword_2_t3" />
+      <item id="Item.empire_sword_6_t5" />
+    </banner_bearer_replacement_weapons>
+    <male_names>
+      <name name="{=jVPr0ZzB}Achyr" />
+      <name name="{=iFJbnbCQ}Agdil" />
+      <name name="{=pqlMxWoM}Alek" />
+      <name name="{=bNj9gI2y}Astin" />
+      <name name="{=oyxam3bN}Blag" />
+      <name name="{=KbIHavJj}Borabos" />
+      <name name="{=38o99yqa}Borcha" />
+      <name name="{=zYAl76GW}Borytor" />
+      <name name="{=ODVepnRR}Bylorn" />
+      <name name="{=6FebKbCp}Chel" />
+      <name name="{=0ZXMKL4M}Chavil" />
+      <name name="{=ORJZJYt7}Churig" />
+      <name name="{=eYY8319F}Dalibol" />
+      <name name="{=CoYOwpLP}Davan" />
+      <name name="{=YdMwMdyf}Dumat" />
+      <name name="{=z3rmbOSO}Gavyn" />
+      <name name="{=pfAkvdYc}Gorgi" />
+      <name name="{=J5kC0K3W}Gutrag" />
+      <name name="{=aYiL7eDM}Ilmir" />
+      <name name="{=ZkaaXxeB}Isvan" />
+      <name name="{=WNb0Bw0e}Kavyl" />
+      <name name="{=bzXmtoC6}Koleg" />
+      <name name="{=BGHBvAK1}Kulyat" />
+      <name name="{=FkbO2Abd}Kras" />
+      <name name="{=fYN6Aawl}Kyraslav" />
+      <name name="{=HxKE18yl}Lasvak" />
+      <name name="{=KBq7aQRa}Lek" />
+      <name name="{=Py1Jj5mB}Lorik" />
+      <name name="{=bzaLf3EU}Magan" />
+    </male_names>
+    <female_names>
+      <name name="{=UaOynysV}Agna" />
+      <name name="{=WP63fA7r}Alkirya" />
+      <name name="{=XqcD0WEu}Asta" />
+      <name name="{=daulkQvv}Brinya" />
+      <name name="{=VaqB0x4K}Dranga" />
+      <name name="{=scCmMFeI}Ekadrya" />
+      <name name="{=9pnUaj0g}Elyaksha" />
+      <name name="{=yNSLGTYc}Erta" />
+      <name name="{=YahyjyK5}Gudra" />
+      <name name="{=Q8gCUmQq}Gyn" />
+      <name name="{=Z5NIRUPc}Idruna" />
+      <name name="{=7n7V9Va5}Irya" />
+      <name name="{=4Su3mMpd}Ivaren" />
+      <name name="{=6fbD85kZ}Kara" />
+      <name name="{=R1JECC9r}Zhira" />
+      <name name="{=Lv753Nnn}Zylata" />
+    </female_names>
+    <clan_names>
+      <name name="{=tGEChxdb}Achanoving" />
+      <name name="{=OLLYkaWd}Asraloving" />
+      <name name="{=Y9qYt71a}Balikoving" />
+      <name name="{=yUuM8a0j}Boranoving" />
+      <name name="{=XJZJIZ9Q}Cholokhoving" />
+      <name name="{=NbprLzeU}Dazheroving" />
+      <name name="{=eNSZGTbN}Doronoving" />
+      <name name="{=euyyBbjq}Folyoroving" />
+      <name name="{=tKUIAmbV}Fyomanoving" />
+      <name name="{=ODcWVL1a}Gendiroving" />
+      <name name="{=NLXHafGS}Gissinoving" />
+      <name name="{=Va35TmQW}Igrunoving" />
+      <name name="{=UYqwbjTP}Iskanoving" />
+      <name name="{=dey9d9DX}Kasyoving" />
+      <name name="{=ctJub9Ah}Khirinoving" />
+      <name name="{=YJ6JKs9O}Kyorinoving" />
+      <name name="{=Vp9n86Wy}Lezhanoving" />
+      <name name="{=z2Oqk8aq}Maregoving" />
+      <name name="{=bBD4tF2y}Morochoving" />
+      <name name="{=XQfYxgti}Nimanoving" />
+      <name name="{=DxU5mVDg}Pyasoving" />
+      <name name="{=RpDv3cGI}Rimanoving" />
+      <name name="{=BrI1aJdo}Rukhanoving" />
+      <name name="{=lpbIXNdK}Suratoving" />
+      <name name="{=Lcbrsqw8}Syaveroving" />
+      <name name="{=jqaH0a35}Tymanoving" />
+      <name name="{=IVHobRWE}Usharoving" />
+      <name name="{=RFapQLfR}Vyshoving" />
+      <name name="{=OrUdifEU}Yathanoving" />
+      <name name="{=gC1paDtD}Yerchoving" />
+      <name name="{=DakafAXa}Zamantoving" />
+      <name name="{=qD72Ya4I}Zhanoving" />
+    </clan_names>
+  </Culture>
+</SPCultures>

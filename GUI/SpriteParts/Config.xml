@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <SpriteCategory Name="ui_chaosicons">
+    <AlwaysLoad />
+  </SpriteCategory>
+  <SpriteCategory Name="ui_chaos_character_creation">
+    <AlwaysLoad />
+  </SpriteCategory>
+  <SpriteCategory Name="ui_chaos_backgrounds">
+    <AlwaysLoad />
+  </SpriteCategory>
+  <SpriteCategory Name="ui_chaos_careersystem">
+    <AlwaysLoad />
+  </SpriteCategory>
+  <SpriteCategory Name="ui_chaos_culture_cards">
+    <AlwaysLoad />
+  </SpriteCategory>
+</Config>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentRosters>
+  <EquipmentRoster id="tor_cc_chaos_champion_undivided_3" culture="Culture.chaos_culture">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.tor_chaos_weapon_shield_001" />
+      <Equipment slot="Item1" id="Item.tor_chaos_weapon_sword_001" />
+      <Equipment slot="Head" id="Item.tor_chaos_head_helm_warrior_001" />
+      <Equipment slot="Body" id="Item.tor_chaos_body_armor_chaos_warrior_001" />
+      <Equipment slot="Cape" id="Item.tor_chaos_shoulder_cape_chaos_warrior_001" />
+      <Equipment slot="Gloves" id="Item.tor_chaos_arm_bracer_chaos_warrior_001" />
+      <Equipment slot="Leg" id="Item.tor_chaos_leg_boots_chaos_warrior_001" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.tor_chaos_weapon_shield_001" />
+      <Equipment slot="Item1" id="Item.tor_chaos_weapon_sword_001" />
+      <Equipment slot="Head" id="Item.tor_chaos_head_helm_warrior_001" />
+      <Equipment slot="Body" id="Item.tor_chaos_body_armor_chaos_warrior_001" />
+      <Equipment slot="Cape" id="Item.tor_chaos_shoulder_cape_chaos_warrior_001" />
+      <Equipment slot="Gloves" id="Item.tor_chaos_arm_bracer_chaos_warrior_001" />
+      <Equipment slot="Leg" id="Item.tor_chaos_leg_boots_chaos_warrior_001" />
+    </EquipmentSet>
+  </EquipmentRoster>
+</EquipmentRosters>

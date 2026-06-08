@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Русский" />
+  </tags>
+  <strings>
+    <string id="tor_chaos_title" text="Чемпион Хаоса Неделимого" />
+    <string id="tor_chaos_rank1" text="Посвященный Руины" />
+    <string id="tor_chaos_rank2" text="Любимец Темных Богов" />
+    <string id="tor_chaos_rank3" text="Вечноизбранный Пантеона" />
+    <string id="tor_chaos_desc" text="Ходячее бедствие, правящее посредством жертвоприношений, темной магии, тяжелых доспехов и благосклонности всех четырех богов." />
+    <string id="tor_chaos_rite_label" text="Обряд Восхождения" />
+    <string id="tor_chaos_rite_desc" text="Кратковременное вознесение: страх, скорость, сопротивление, ярость ближнего боя и темная магия окружают чемпиона." />
+    <string id="tor_chaos_cc_option_text" text="Чемпион Хаоса Неделимого" />
+    <string id="tor_chaos_cc_effect_text" text="Карьера Хаоса" />
+    <string id="tor_chaos_cc_flavour_text" text="Вы прошли путь крови, колдовства и разрушения. Боги шепчут вам по пятам, и слабые скоро научатся становиться на колени." />
+    <string id="tor_chaos_cc_origin_option_text" text="Отпрыск отряда" />
+    <string id="tor_chaos_cc_origin_effect_text" text="Происхождение отряда" />
+    <string id="tor_chaos_cc_origin_flavour_text" text="Вас воспитали под железными знаменами и кричащими небесами, вас рано научили, что милосердие — это слабость, и выживание принадлежит тем, кто его принимает." />
+    <string id="tor_chaos_cc_growth_option_text" text="Кровавый претендент" />
+    <string id="tor_chaos_cc_growth_effect_text" text="Кровавый претендент" />
+    <string id="tor_chaos_cc_growth_flavour_text" text="Ваша юность прошла, доказывая себя в рейдах, засадах и боях на ямах, зарабатывая шрамы, которые отмечали вас как человека, достойного внимания богов." />
+    <string id="tor_chaos_culture_name_text" text="Хаос" />
+    <string id="tor_chaos_cc_culture_name_text" text="Хаос" />
+    <string id="tor_chaos_cc_culture_short_text" text="Хаос" />
+    <string id="tor_chaos_cc_culture_desc_text" text="Чемпион Chaos Undivided начинается как грозный слуга Губительных Сил, набирающий силу посредством жертвоприношений, темной магии, порталов и преданности четырем богам." />
+    <string id="tor_chaos_gifts_name" text="Дары Хаоса" />
+    <string id="tor_chaos_gifts_desc" text="Дары Хаоса зарабатываются посредством жертвоприношений, казней, разрушений поселений и побед. Потратьте их на преданность, восстания и портальные обряды." />
+    <string id="tor_chaos_invasion_name" text="Вторжение Хаоса" />
+    <string id="tor_chaos_invasion_desc" text="Насколько мир заметил ваши злодеяния. Растёт от казней лордов, порталов, жертв в деревнях и восстаний. Выше стадия — сильнее ответ: появляются Охотники на Демонов, а на максимуме королевства объединяются против вас." />
+    <string id="tor_chaos_enchant_title" text="Выбери губительную тайну..." />
+    <string id="tor_chaos_enchant_desc" text="Выберите запрещенное заклинание, чтобы изучить его на портале." />
+    <string id="tor_chaos_cc_origin_fallen_noble_option_text" text="Падший дворянин" />
+    <string id="tor_chaos_cc_origin_fallen_noble_effect_text" text="Опальная родословная" />
+    <string id="tor_chaos_cc_origin_fallen_noble_flavour_text" text="Вы были рождены, чтобы командовать, но старые законы оказались слишком малы для ваших амбиций. Север ответил там, где придворные клятвы не помогли." />
+    <string id="tor_chaos_cc_origin_dark_acolyte_option_text" text="Темный послушник" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_effect_text" text="Запрещенное исследование" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_flavour_text" text="Вы узнали слова, обжигающие язык, и символы, привлекающие взгляды из-за завесы." />
+    <string id="tor_chaos_cc_growth_cult_handler_option_text" text="Культовый куратор" />
+    <string id="tor_chaos_cc_growth_cult_handler_effect_text" text="Скрытые ячейки" />
+    <string id="tor_chaos_cc_growth_cult_handler_flavour_text" text="Вы разносили шепот между подвалами, храмами и тюремными повозками, пока ваш знак не узнали целые улицы." />
+    <string id="tor_chaos_cc_growth_raider_option_text" text="Северный рейдер" />
+    <string id="tor_chaos_cc_growth_raider_effect_text" text="Окровавленный рейдами" />
+    <string id="tor_chaos_cc_growth_raider_flavour_text" text="Вашими первыми уроками были огонь, грязь и сталь, полученные в деревнях, которые слишком поздно узнали ваше имя." />
+    <string id="tor_chaos_prisoner_only_text" text="В жертву можно приносить только заключенных." />
+    <string id="tor_chaos_no_prisoners_text" text="Заключенных такого типа нет." />
+    <string id="tor_chaos_sacrifice_text" text="Жертва" />
+    <string id="tor_chaos_portal_learn_dark_magic_text" text="Изучить заклинания тёмной магии" />
+    <string id="tor_chaos_portal_learn_spell_text" text="Изучить за {GIFTCOST}{GIFTS_ICON}" />
+    <string id="tor_chaos_portal_spell_need_perk_text" text="Сначала откройте нужный перк в магии." />
+    <string id="tor_chaos_portal_spell_not_enough_gifts_text" text="Недостаточно Даров Хаоса." />
+    <string id="tor_chaos_portal_spell_learned_text" text="Вы изучили {SPELL}." />
+    <string id="tor_chaos_portal_learn_enchantments_text" text="Изучите чары" />
+    <string id="tor_chaos_portal_open_enchanting_text" text="Зачаровать снаряжение" />
+    <string id="tor_chaos_portal_buy_gear_text" text="Купить снаряжение хаоса" />
+    <string id="tor_chaos_portal_recruit_cultists_text" text="Нанять отряд хаоса" />
+    <string id="tor_chaos_portal_recruit_warriors_text" text="Нанимайте воинов" />
+    <string id="tor_chaos_portal_no_recruits_text" text="Сегодня на портале нет отрядов." />
+    <string id="tor_chaos_portal_recruit_title_text" text="Отряд Портала Хаоса" />
+    <string id="tor_chaos_portal_recruited_paid_text" text="Отряд Хаоса набран за {GOLD} золота." />
+    <string id="tor_chaos_portal_recruit_not_enough_gold_text" text="Чтобы завербовать этот отряд, вам понадобится {GOLD} золота." />
+    <string id="tor_chaos_portal_recruiting_progress_text" text="Вызов воинов из-за портала..." />
+    <string id="tor_chaos_portal_recruit_no_space_text" text="У вас недостаточно места в вашей группе." />
+    <string id="tor_chaos_portal_recruit_not_enough_gifts_text" text="У вас недостаточно Даров Хаоса." />
+    <string id="tor_chaos_portal_recruit_result_text" text="Вы набрали {PORTAL_RECRUIT_RESULT_NUMBER} воинов с портала." />
+    <string id="tor_chaos_portal_recruit_result_empty_text" text="Сегодня на портале нет отрядов." />
+    <string id="tor_chaos_portal_warband_name_text" text="Отряд {CAPTAIN}" />
+    <string id="tor_chaos_portal_sow_discord_text" text="Сеять смуту" />
+    <string id="tor_chaos_portal_sow_discord_invasion_blocked_text" text="Они знают, что это ты." />
+    <string id="tor_chaos_portal_sow_discord_not_enough_gifts_text" text="Требуется {GIFT_COST} Даров Хаоса." />
+    <string id="tor_chaos_portal_sow_discord_success_text" text="Твои шёпоты ввергли {ATTACKER} и {DEFENDER} в войну." />
+    <string id="tor_chaos_sow_discord_title_text" text="Сеять смуту" />
+    <string id="tor_chaos_sow_discord_confirm_text" text="Разжечь войну" />
+    <string id="tor_chaos_sow_discord_gifts_balance_text" text="Дары Хаоса: {AMOUNT}" />
+    <string id="tor_chaos_sow_discord_cost_text" text="Стоимость: {GIFT_COST} Даров Хаоса" />
+    <string id="tor_chaos_sow_discord_cost_label_text" text="Стоимость:" />
+    <string id="tor_chaos_sow_discord_hint_text" text="Выберите два королевства слева. Верхнее нападает на нижнее." />
+    <string id="tor_chaos_sow_discord_slot_top_text" text="Атакующий" />
+    <string id="tor_chaos_sow_discord_slot_bottom_text" text="Защитник" />
+    <string id="tor_chaos_sow_discord_map_only_text" text="Откройте эту панель на карте кампании." />
+    <string id="tor_chaos_portal_summon_lord_text" text="Призвать лорда Хаоса (300 Даров)" />
+    <string id="tor_chaos_portal_summon_lord_cooldown_text" text="Портал сможет призвать другого лорда через {DAYS} дн." />
+    <string id="tor_chaos_portal_summon_lord_not_enough_gifts_text" text="Требуется {GIFT_COST} Даров Хаоса." />
+    <string id="tor_chaos_portal_summon_lord_unavailable_text" text="Ни один лорд Хаоса не откликается на портал." />
+    <string id="tor_chaos_portal_summon_lord_success_text" text="{LORD} присоединился к вашему королевству." />
+    <string id="tor_chaos_portal_lord_clan_name_text" text="Полк {LEADER}" />
+    <string id="tor_chaos_portal_lord_name_fallback_text" text="Погибельный клинок" />
+    <string id="tor_chaos_portal_summoned_lord_name_text" text="Избранный Портала {INDEX}" />
+    <string id="tor_chaos_portal_summoned_lord_first_name_text" text="Избранный Портала" />
+    <string id="tor_chaos_devotion_gifts_text" text="Дары Хаоса" />
+    <string id="tor_chaos_devotion_stage_text" text="Этап" />
+    <string id="tor_chaos_devotion_next_text" text="Следующий" />
+    <string id="tor_chaos_devotion_complete_text" text="Завершено" />
+    <string id="tor_chaos_devotion_balance_locked_text" text="Заблокировано балансом Неделимого" />
+    <string id="tor_chaos_devotion_click_hint_text" text="Нажмите, чтобы принести Дары, если они доступны." />
+    <string id="tor_chaos_devotion_map_only_text" text="Откройте панель преданности на карте кампании." />
+    <string id="tor_chaos_portal_devotion_temp_text" text="Преданность Четверке" />
+    <string id="tor_chaos_devotion_overview_text" text="Изучите четырех богов" />
+    <string id="tor_chaos_devotion_title_text" text="Преданность Четверке" />
+    <string id="tor_chaos_devotion_invest_text" text="Принести Дары" />
+    <string id="tor_chaos_devotion_success_text" text="Темные боги признают твой дар." />
+    <string id="tor_chaos_devotion_failed_text" text="Боги отвергают ваше подношение." />
+    <string id="tor_chaos_devotion_unlocked_text" text="Разблокировано" />
+    <string id="tor_chaos_devotion_need_gifts_text" text="Недостаточно Даров Хаоса" />
+    <string id="tor_chaos_devotion_can_unlock_text" text="Готово к открытию" />
+    <string id="tor_chaos_devotion_locked_text" text="Заблокировано" />
+    <string id="tor_chaos_god_khorne_text" text="Кхорн" />
+    <string id="tor_chaos_god_nurgle_text" text="Нургл" />
+    <string id="tor_chaos_god_tzeentch_text" text="Тзинч" />
+    <string id="tor_chaos_god_slaanesh_text" text="Слаанеш" />
+    <string id="tor_chaos_devotion_reward_khorne_1_text" text="Удары слабее 20 урона больше не сбивают вас." />
+    <string id="tor_chaos_devotion_reward_khorne_2_text" text="Стрелы пробивают щиты, а вы получаете +5% физического сопротивления." />
+    <string id="tor_chaos_devotion_reward_khorne_3_text" text="Открывает молитву: Стойкость Кхорна." />
+    <string id="tor_chaos_devotion_reward_khorne_4_text" text="Удары в ближнем бою наносят 1000% урона щитам." />
+    <string id="tor_chaos_devotion_reward_khorne_5_text" text="Лошади, врезающиеся в вас на разгоне, падают вместе с всадниками." />
+    <string id="tor_chaos_devotion_reward_khorne_6_text" text="Каждое убийство дает +1 к скорости удара, до +20." />
+    <string id="tor_chaos_devotion_reward_khorne_7_text" text="+15% пробивания брони." />
+    <string id="tor_chaos_devotion_reward_khorne_8_text" text="+10% скорости передвижения." />
+    <string id="tor_chaos_devotion_reward_khorne_9_text" text="Ваши атаки ближнего боя нельзя блокировать или парировать." />
+    <string id="tor_chaos_devotion_reward_khorne_10_text" text="Легендарная двуручная секира Кхорна: огромный урон и ударная волна при попадании (20 урона, сбивание с ног как у тролля)." />
+    <string id="tor_chaos_devotion_reward_nurgle_1_text" text="+2 к скорости передвижения на кампании." />
+    <string id="tor_chaos_devotion_reward_nurgle_2_text" text="+25 здоровья и +10% лечения на кампании." />
+    <string id="tor_chaos_devotion_reward_nurgle_3_text" text="Открывает молитву: Милосердие Нургла." />
+    <string id="tor_chaos_devotion_reward_nurgle_4_text" text="Убийства поднимают одного скелета." />
+    <string id="tor_chaos_devotion_reward_nurgle_5_text" text="+10% оберега." />
+    <string id="tor_chaos_devotion_reward_nurgle_6_text" text="Прыжок Нургла: высокие прыжки и иммунитет к урону от падения." />
+    <string id="tor_chaos_devotion_reward_nurgle_7_text" text="+50 здоровья." />
+    <string id="tor_chaos_devotion_reward_nurgle_8_text" text="+100 здоровья спутников и +5 к лимиту спутников." />
+    <string id="tor_chaos_devotion_reward_nurgle_9_text" text="+25% оберега для солдат." />
+    <string id="tor_chaos_devotion_reward_nurgle_10_text" text="Комплект брони Нургла: 5 частей; каждая дает +5% физического сопротивления, +5% оберега, +5 HP, +10% сопротивления дальнему урону." />
+    <string id="tor_chaos_devotion_reward_tzeentch_1_text" text="+15% радиуса заклинаний." />
+    <string id="tor_chaos_devotion_reward_tzeentch_2_text" text="+25% магического сопротивления." />
+    <string id="tor_chaos_devotion_reward_tzeentch_3_text" text="Открывает молитву: Удар Тзинча." />
+    <string id="tor_chaos_devotion_reward_tzeentch_4_text" text="+15% силы заклинаний и -15% перезарядки заклинаний." />
+    <string id="tor_chaos_devotion_reward_tzeentch_5_text" text="Убийства Ударом Тзинча восстанавливают 0.5 Ветров Магии." />
+    <string id="tor_chaos_devotion_reward_tzeentch_6_text" text="+5 Ветров Магии за каждого спутника и +5 к лимиту спутников." />
+    <string id="tor_chaos_devotion_reward_tzeentch_7_text" text="Ваши заклинания больше не наносят урон союзникам." />
+    <string id="tor_chaos_devotion_reward_tzeentch_8_text" text="Удары в ближнем бою имеют 10% шанс вызвать Удар Тзинча." />
+    <string id="tor_chaos_devotion_reward_tzeentch_9_text" text="+5 Ветров Магии за каждый Портал Хаоса." />
+    <string id="tor_chaos_devotion_reward_tzeentch_10_text" text="Легендарный посох Тзинча: сильно повышает силу заклинаний, а первые 3 заклинания в каждой битве бесплатны." />
+    <string id="tor_chaos_devotion_reward_slaanesh_1_text" text="Безумие лорда: в разговоре с вражеским лордом заплатите 50 Даров, чтобы он избегал нападения." />
+    <string id="tor_chaos_devotion_reward_slaanesh_2_text" text="+5 к лимиту спутников." />
+    <string id="tor_chaos_devotion_reward_slaanesh_3_text" text="Открывает Молитву обольщения." />
+    <string id="tor_chaos_devotion_reward_slaanesh_4_text" text="Соблазнение лорда: в разговоре с вражеским лордом заплатите 200 влияния и 500 Даров, чтобы завербовать его." />
+    <string id="tor_chaos_devotion_reward_slaanesh_5_text" text="Крылья Слаанеш: взлет на короткое время, перезарядка 30 с." />
+    <string id="tor_chaos_devotion_reward_slaanesh_6_text" text="Все молитвы получают независимые перезарядки." />
+    <string id="tor_chaos_devotion_reward_slaanesh_7_text" text="Успех восстания Хаоса становится 100%, но стоит 800 Даров." />
+    <string id="tor_chaos_devotion_reward_slaanesh_8_text" text="-30% содержания войск и стоимости улучшений." />
+    <string id="tor_chaos_devotion_reward_slaanesh_9_text" text="Вербовка в портале и городах предлагает только элитных чемпионов Хаоса, включая конных рыцарей и воинов четырёх богов." />
+    <string id="tor_chaos_devotion_reward_slaanesh_10_text" text="Легендарный лук Слаанеш: +25% магического урона и 10% шанс соблазнить ближайших врагов при убийстве." />
+    <string id="tor_chaos_ui_close_text" text="Закрыть" />
+    <string id="tor_chaos_portal_wait_text" text="Молиться 4 богам" />
+    <string id="tor_chaos_portal_wait_back_text" text="Назад" />
+    <string id="tor_chaos_portal_enter_text" text="Войдите в портал хаоса" />
+    <string id="tor_chaos_shrine_defile_option_text" text="Осквернить святилище ради Даров Хаоса. Последователи {GOD_NAME} запомнят это." />
+    <string id="tor_chaos_shrine_defile_result_text" text="Вы получили {DEFILE_AMOUNT} Даров Хаоса {GIFTS_ICON}. Весть об осквернении дойдёт до последователей {GOD_NAME}." />
+    <string id="tor_chaos_shrine_defile_reward_text" text="Осквернённое святилище приносит {GIFTS} Даров Хаоса." />
+    <string id="tor_chaos_claim_hideout_text" text="Захватить убежище" />
+    <string id="tor_chaos_claim_hideout_requires_clear_text" text="Сначала разбейте защитников убежища Хаоса." />
+    <string id="tor_chaos_claim_hideout_inactive_text" text="Это убежище Хаоса уже под вашим контролем." />
+    <string id="tor_chaos_claim_hideout_success_text" text="Убежище Хаоса подчиняется вам. Каждый день оно приносит {GIFTS} Дара Хаоса." />
+    <string id="tor_chaos_claimed_hideout_daily_gifts_text" text="Захваченные убежища Хаоса приносят {GIFTS} Даров Хаоса." />
+    <string id="tor_chaos_portal_force_uprising_text" text="Принудительное восстание хаоса" />
+    <string id="tor_chaos_portal_force_uprising_details_text" text="Принудительное восстание хаоса ({GIFT_COST}{GIFT_ICON}, успех: {UPRISING_CHANCE}%)" />
+    <string id="tor_chaos_portal_force_uprising_tooltip_text" text="Цена: {GIFT_COST}{GIFT_ICON}. Текущий шанс восстания: {UPRISING_CHANCE}%." />
+    <string id="tor_chaos_village_raid_gifts_text" text="Тёмные боги даруют {GIFTS} Дара Хаоса за разграбление этой деревни." />
+    <string id="tor_chaos_portal_unknown_text" text="Портал наполнен мрачными обещаниями." />
+    <string id="tor_chaos_portal_intro_text" text="Портал Хаоса наполнен украденной реальностью." />
+    <string id="tor_chaos_portal_impostor_text" text="Теперь павшее поселение запачкано кровавой брешью." />
+    <string id="tor_chaos_portal_waiting_text" text="Вы отдыхаете в ране между мирами, пока портал питается на горизонте." />
+    <string id="tor_chaos_uprising_failed_text" text="Городская стража утопила культ в крови. Восстание терпит неудачу." />
+    <string id="tor_chaos_uprising_failed_no_scene_text" text="Культ разоблачен, но никакой городской сцены для чистки не было." />
+    <string id="tor_chaos_invasion_stage_risen_text" text="Текущая стадия вторжения: {STAGE} из 10." />
+    <string id="tor_chaos_invasion_stage_none_text" text="Стадии вторжения пока нет (счёт ниже 100)." />
+    <string id="tor_chaos_invasion_stage_label_text" text="Стадия вторжения" />
+    <string id="tor_chaos_gifts_daily_change_portals_text" text="Порталы Хаоса" />
+    <string id="tor_chaos_gifts_daily_change_hideouts_text" text="Захваченные убежища Хаоса" />
+    <string id="tor_chaos_gifts_daily_income_text" text="Ежедневный доход" />
+    <string id="tor_chaos_gifts_daily_income_none_text" text="Нет активного ежедневного дохода Даров Хаоса." />
+    <string id="tor_chaos_gifts_daily_income_total_text" text="+{AMOUNT} Даров Хаоса в день." />
+    <string id="tor_chaos_gifts_daily_income_portals_text" text="Порталы Хаоса: +{AMOUNT} в день ({PER_PORTAL} за каждый)." />
+    <string id="tor_chaos_gifts_daily_income_hideouts_text" text="Захваченные убежища Хаоса: +{AMOUNT} в день ({PER_HIDEOUT} за каждое)." />
+    <string id="tor_chaos_gifts_gain_bonus_text" text="Бонусы к получению" />
+    <string id="tor_chaos_gifts_gain_bonus_none_text" text="Нет активных бонусов к получению Даров Хаоса." />
+    <string id="tor_chaos_gifts_gain_bonus_career_text" text="Выборы карьеры Хаоса: +{AMOUNT}." />
+    <string id="tor_chaos_gifts_gain_bonus_cult_network_text" text="Культовая сеть: +20" />
+    <string id="tor_chaos_gifts_gain_bonus_portal_dominion_text" text="Владычество порталов: +20" />
+    <string id="tor_chaos_gifts_gain_bonus_god_marked_spoils_text" text="Трофеи с меткой богов: +25" />
+    <string id="tor_chaos_invasion_daily_decay_text" text="Ежедневный распад" />
+    <string id="tor_chaos_invasion_daily_decay_value_text" text="-{AMOUNT} в день, если сегодня не было действий, повышающих вторжение (казни, жертвы, порталы, восстания)." />
+    <string id="tor_chaos_demon_hunter_clan_name_text" text="Орден Охотников на Демонов" />
+    <string id="tor_chaos_demon_hunter_clan_short_name_text" text="Охотники на демонов" />
+    <string id="tor_chaos_demon_hunter_party_name_text" text="Отряд охотников на демонов" />
+    <string id="tor_chaos_demon_hunter_spawned_text" text="Охотники на демонов выступили против вас." />
+    <string id="tor_chaos_demon_hunter_lord_slain_text" text="Лорд-охотник на демонов пал. Еще один поднимется через 50 дней, если уровень вторжения останется высоким." />
+    <string id="tor_chaos_demon_hunter_respawn_text" text="Новый лорд-охотник на демонов приносит клятву против Хаоса." />
+    <string id="tor_chaos_eternal_alliance_text" text="Царства клянутся в вечном союзе против Хаоса." />
+    <string id="tor_chaos_tier2_quest_title_text" text="Первый круг разрушения" />
+    <string id="tor_chaos_tier2_quest_log_hideouts_text" text="Захватите {REQUIRED} логова культистов во имя тёмных богов." />
+    <string id="tor_chaos_tier2_quest_task_hideouts_text" text="Логова культистов" />
+    <string id="tor_chaos_tier2_quest_log_villages_text" text="Разграбьте {REQUIRED} деревень во имя тёмных богов." />
+    <string id="tor_chaos_tier2_quest_task_villages_text" text="Рейды на деревни" />
+    <string id="tor_chaos_tier2_quest_log_uprising_text" text="Поднимите {REQUIRED} восстание Хаоса в городе или замке." />
+    <string id="tor_chaos_tier2_quest_task_uprising_text" text="Восстания Хаоса" />
+    <string id="tor_chaos_tier3_quest_title_text" text="Корона Пантеона" />
+    <string id="tor_chaos_tier3_quest_log_cities_text" text="Превратите {REQUIRED} города или замки в порталы Хаоса." />
+    <string id="tor_chaos_tier3_quest_task_cities_text" text="Преобразования городов" />
+    <string id="tor_chaos_tier3_quest_log_executions_text" text="Казните {REQUIRED} вражеских лордов." />
+    <string id="tor_chaos_tier3_quest_task_executions_text" text="Лорд казни" />
+    <string id="tor_chaos_tier3_quest_log_devotion_text" text="Достигните {REQUIRED} суммарных этапов преданности четырем богам." />
+    <string id="tor_chaos_tier3_quest_task_devotion_text" text="Полная преданность" />
+    <string id="tor_chaos_end_of_times_quest_title_text" text="Конец времён" />
+    <string id="tor_chaos_end_of_times_quest_log_text" text="Уничтожьте все королевства Старого Света, кроме королевства Хаоса." />
+    <string id="tor_chaos_end_of_times_quest_task_text" text="Уничтоженные королевства" />
+    <string id="tor_chaos_end_of_times_complete_text" text="Старый Свет сломан. Лишь Хаос остаётся." />
+    <string id="tor_chaos_portal_god_mission_text" text="Получить задания от богов" />
+    <string id="tor_chaos_portal_god_mission_active_text" text="Сначала завершите или провалите текущее задание богов." />
+    <string id="tor_chaos_portal_god_mission_cooldown_text" text="Боги предложат новое задание через {DAYS} дн." />
+    <string id="tor_chaos_portal_god_mission_unavailable_text" text="Сегодня боги не дают задания." />
+    <string id="tor_chaos_god_mission_issued_text" text="Боги требуют: {MISSION}" />
+    <string id="tor_chaos_god_mission_failed_text" text="Тёмные боги недовольны. Вы теряете {PENALTY} даров Хаоса." />
+    <string id="tor_chaos_god_mission_title_executions_text" text="Кровавая десятина" />
+    <string id="tor_chaos_god_mission_title_uprising_text" text="Пламя раздора" />
+    <string id="tor_chaos_god_mission_title_hideout_text" text="Логова культистов" />
+    <string id="tor_chaos_god_mission_title_village_text" text="Пепельная жатва" />
+    <string id="tor_chaos_god_mission_log_executions_text" text="Казните {REQUIRED} вражеских лордов за 30 дней. Награда: {REWARD} даров. Провал: −{PENALTY} даров." />
+    <string id="tor_chaos_god_mission_log_uprising_text" text="Поднимите {REQUIRED} восстание Хаоса за 30 дней. Награда: {REWARD} даров. Провал: −{PENALTY} даров." />
+    <string id="tor_chaos_god_mission_log_hideout_text" text="Захватите {REQUIRED} логово культистов за 30 дней. Награда: {REWARD} даров. Провал: −{PENALTY} даров." />
+    <string id="tor_chaos_god_mission_log_village_text" text="Разграбьте {REQUIRED} деревню за 30 дней. Награда: {REWARD} даров. Провал: −{PENALTY} даров." />
+    <string id="tor_chaos_god_mission_task_executions_text" text="Казни лордов" />
+    <string id="tor_chaos_god_mission_task_uprising_text" text="Восстания Хаоса" />
+    <string id="tor_chaos_god_mission_task_hideout_text" text="Захваченные логова" />
+    <string id="tor_chaos_god_mission_task_village_text" text="Рейды на деревни" />
+    <string id="tor_chaos_god_mission_complete_executions_text" text="Боги пьют кровь лордов. Вы получаете {REWARD} даров Хаоса." />
+    <string id="tor_chaos_god_mission_complete_uprising_text" text="В их городах пылает мятеж. Вы получаете {REWARD} даров Хаоса." />
+    <string id="tor_chaos_god_mission_complete_hideout_text" text="Логова культистов покорены. Вы получаете {REWARD} даров Хаоса." />
+    <string id="tor_chaos_god_mission_complete_village_text" text="Пепел и жертвы радуют пантеон. Вы получаете {REWARD} даров Хаоса." />
+    <string id="chaos_prayer_seduction_name_text" text="Молитва обольщения" />
+    <string id="chaos_prayer_seduction_desc_text" text="На короткое время обращает ближайших слабовольных врагов против их хозяев." />
+    <string id="chaos_prayer_tzeentch_name_text" text="Тзинч Удар" />
+    <string id="chaos_prayer_tzeentch_desc_text" text="Выпускает заряд магии перемен, который взрывается при ударе." />
+    <string id="chaos_prayer_nurgle_name_text" text="Милосердие Нургла" />
+    <string id="chaos_prayer_nurgle_desc_text" text="Создает гниющее благословение, которое исцеляет союзников и вызывает тошноту у врагов." />
+    <string id="chaos_prayer_khorne_name_text" text="Стойкость Кхорна" />
+    <string id="chaos_prayer_khorne_desc_text" text="Дает физическую устойчивость и скорость поворота на сорок секунд." />
+    <string id="chaos_wings_slaanesh_name_text" text="Крылья Слаанеш" />
+    <string id="chaos_wings_slaanesh_desc_text" text="Взлетите на демонических крыльях. Продолжительность зависит от легкой атлетики. Время восстановления 30 секунд." />
+    <string id="tor_chaos_lord_madness_dialog_text" text="Обрушьте безумие на этого лорда. (100 подарков)" />
+    <string id="tor_chaos_lord_madness_npc_text" text="Лорд пошатывается; видения гибели поглощают разум." />
+    <string id="tor_chaos_lord_madness_not_enough_text" text="Требуется 100 Даров Хаоса." />
+    <string id="chaos_lord_madness_success_text" text="{LORD} охвачен безумием и избегает вашего отряда." />
+    <string id="tor_chaos_lord_seduction_dialog_text" text="Соблазните этого лорда в свою свиту. (500 подарков, 200 влияния)" />
+    <string id="tor_chaos_lord_seduction_npc_text" text="Лорд не может противиться твоим обещаниям и клянется служить твоему делу." />
+    <string id="tor_chaos_lord_seduction_not_enough_gifts_text" text="Требуется 500 Даров Хаоса." />
+    <string id="tor_chaos_lord_seduction_not_enough_influence_text" text="Требуется 200 влияния." />
+    <string id="chaos_lord_seduction_success_text" text="{LORD} был соблазнён в вашу свиту." />
+    <string id="chaos_lord_madness_success" text="{LORD} охвачен безумием и избегает вашего отряда." />
+    <string id="chaos_lord_seduction_success" text="{LORD} был соблазнён в вашу свиту." />
+    <string id="chaos_prayer_khorne_desc" text="Дает физическую устойчивость и скорость поворота на сорок секунд." />
+    <string id="chaos_prayer_khorne_name" text="Стойкость Кхорна" />
+    <string id="chaos_prayer_nurgle_desc" text="Создает гниющее благословение, которое исцеляет союзников и вызывает тошноту у врагов." />
+    <string id="chaos_prayer_nurgle_name" text="Милосердие Нургла" />
+    <string id="chaos_prayer_seduction_desc" text="На короткое время обращает ближайших слабовольных врагов против их хозяев." />
+    <string id="chaos_prayer_seduction_name" text="Молитва обольщения" />
+    <string id="chaos_prayer_tzeentch_desc" text="Выпускает заряд магии перемен, который взрывается при ударе." />
+    <string id="chaos_prayer_tzeentch_name" text="Тзинч Удар" />
+    <string id="chaos_rite_of_ascendancy_desc" text="Кратковременное вознесение: страх, скорость, сопротивление, ярость ближнего боя и темная магия окружают чемпиона." />
+    <string id="chaos_rite_of_ascendancy_label" text="Обряд Восхождения" />
+    <string id="chaos_wings_slaanesh_desc" text="Взлетите на демонических крыльях. Продолжительность зависит от легкой атлетики. Время восстановления 30 секунд." />
+    <string id="chaos_wings_slaanesh_name" text="Крылья Слаанеш" />
+    <string id="tor_chaos_cc_culture_desc" text="Чемпион Chaos Undivided начинается как грозный слуга Губительных Сил, набирающий силу посредством жертвоприношений, темной магии, порталов и преданности четырем богам." />
+    <string id="tor_chaos_cc_culture_name" text="Хаос" />
+    <string id="tor_chaos_cc_culture_short" text="Хаос" />
+    <string id="tor_chaos_cc_effect" text="Карьера Хаоса" />
+    <string id="tor_chaos_cc_flavour" text="Вы прошли путь крови, колдовства и разрушения. Боги шепчут вам по пятам, и слабые скоро научатся становиться на колени." />
+    <string id="tor_chaos_cc_growth_effect" text="Кровавый претендент" />
+    <string id="tor_chaos_cc_growth_flavour" text="Ваша юность прошла, доказывая себя в рейдах, засадах и боях на ямах, зарабатывая шрамы, которые отмечали вас как человека, достойного внимания богов." />
+    <string id="tor_chaos_cc_growth_handler_effect" text="Скрытые ячейки" />
+    <string id="tor_chaos_cc_growth_handler_flavour" text="Вы научились двигать культами как ножами во тьме, покупая верность страхом, золотом и обещаниями." />
+    <string id="tor_chaos_cc_growth_handler_option" text="Куратор культа" />
+    <string id="tor_chaos_cc_growth_option" text="Кровавый претендент" />
+    <string id="tor_chaos_cc_growth_raider_effect" text="Окровавленный рейдами" />
+    <string id="tor_chaos_cc_growth_raider_flavour" text="Вашими первыми уроками были огонь, грязь и сталь, полученные в деревнях, которые слишком поздно узнали ваше имя." />
+    <string id="tor_chaos_cc_growth_raider_option" text="Северный рейдер" />
+    <string id="tor_chaos_cc_option" text="Чемпион Хаоса Неделимого" />
+    <string id="tor_chaos_cc_origin_acolyte_effect" text="Запретное учение" />
+    <string id="tor_chaos_cc_origin_acolyte_flavour" text="Ваши первые молитвы были прошептаны над запретными страницами, и нечто во тьме прошептало в ответ." />
+    <string id="tor_chaos_cc_origin_acolyte_option" text="Темный послушник" />
+    <string id="tor_chaos_cc_origin_effect" text="Происхождение отряда" />
+    <string id="tor_chaos_cc_origin_flavour" text="Вас воспитали под железными знаменами и кричащими небесами, вас рано научили, что милосердие — это слабость, и выживание принадлежит тем, кто его принимает." />
+    <string id="tor_chaos_cc_origin_noble_effect" text="Оскверненная родословная" />
+    <string id="tor_chaos_cc_origin_noble_flavour" text="Вы были рождены, чтобы командовать, но боги предложили корону ярче любого смертного наследия." />
+    <string id="tor_chaos_cc_origin_noble_option" text="Падший дворянин" />
+    <string id="tor_chaos_cc_origin_option" text="Отпрыск отряда" />
+    <string id="tor_chaos_culture_name" text="Хаос" />
+    <string id="tor_chaos_demon_hunter_elite" text="Охотник на демонов" />
+    <string id="tor_chaos_demon_hunter_grandmaster_first_name" text="Охотник на демонов" />
+    <string id="tor_chaos_demon_hunter_grandmaster_name" text="Великий магистр охотников на демонов" />
+    <string id="tor_chaos_demon_hunter_guard" text="Страж-охотник на демонов" />
+    <string id="tor_chaos_demon_hunter_headhunter" text="Охотник за головами демонов" />
+    <string id="tor_chaos_demon_hunter_lord" text="Лорд-охотник на демонов" />
+    <string id="tor_chaos_demon_hunter_lord_first_name" text="Охотник на демонов" />
+    <string id="tor_chaos_demon_hunter_lord_name" text="Охотник на демонов {INDEX}" />
+    <string id="tor_chaos_no_prayers_unlocked" text="Молитвы Хаоса еще не открыты. Достигните 3-й стадии преданности одному из богов." />
+    <string id="tor_chaos_portal_prayer_faith_xp_text" text="Ваши молитвы дают {XP} опыта Веры." />
+    <string id="tor_chaos_portal_warband_name" text="Отряд {CAPTAIN}" />
+    <string id="tor_chaos_raid_speed_bonus" text="Налетчик Хаоса" />
+    <string id="0ZXMKL4M" text="Chavil" />
+    <string id="38o99yqa" text="Borcha" />
+    <string id="4Su3mMpd" text="Ivaren" />
+    <string id="6fbD85kZ" text="Kara" />
+    <string id="6FebKbCp" text="Chel" />
+    <string id="7n7V9Va5" text="Irya" />
+    <string id="9pnUaj0g" text="Elyaksha" />
+    <string id="aYiL7eDM" text="Ilmir" />
+    <string id="bBD4tF2y" text="Morochoving" />
+    <string id="BGHBvAK1" text="Kulyat" />
+    <string id="bNj9gI2y" text="Astin" />
+    <string id="BrI1aJdo" text="Rukhanoving" />
+    <string id="bzaLf3EU" text="Magan" />
+    <string id="bzXmtoC6" text="Koleg" />
+    <string id="CoYOwpLP" text="Davan" />
+    <string id="ctJub9Ah" text="Khirinoving" />
+    <string id="DakafAXa" text="Zamantoving" />
+    <string id="daulkQvv" text="Brinya" />
+    <string id="dey9d9DX" text="Kasyoving" />
+    <string id="DxU5mVDg" text="Pyasoving" />
+    <string id="eNSZGTbN" text="Doronoving" />
+    <string id="euyyBbjq" text="Folyoroving" />
+    <string id="eYY8319F" text="Dalibol" />
+    <string id="FkbO2Abd" text="Kras" />
+    <string id="fYN6Aawl" text="Kyraslav" />
+    <string id="gC1paDtD" text="Yerchoving" />
+    <string id="HxKE18yl" text="Lasvak" />
+    <string id="iFJbnbCQ" text="Agdil" />
+    <string id="IVHobRWE" text="Usharoving" />
+    <string id="J5kC0K3W" text="Gutrag" />
+    <string id="jqaH0a35" text="Tymanoving" />
+    <string id="jVPr0ZzB" text="Achyr" />
+    <string id="KbIHavJj" text="Borabos" />
+    <string id="KBq7aQRa" text="Lek" />
+    <string id="Lcbrsqw8" text="Syaveroving" />
+    <string id="lpbIXNdK" text="Suratoving" />
+    <string id="Lv753Nnn" text="Zylata" />
+    <string id="NbprLzeU" text="Dazheroving" />
+    <string id="NLXHafGS" text="Gissinoving" />
+    <string id="ODcWVL1a" text="Gendiroving" />
+    <string id="ODVepnRR" text="Bylorn" />
+    <string id="OLLYkaWd" text="Asraloving" />
+    <string id="ORJZJYt7" text="Churig" />
+    <string id="OrUdifEU" text="Yathanoving" />
+    <string id="oyxam3bN" text="Blag" />
+    <string id="pfAkvdYc" text="Gorgi" />
+    <string id="pqlMxWoM" text="Alek" />
+    <string id="Py1Jj5mB" text="Lorik" />
+    <string id="Q8gCUmQq" text="Gyn" />
+    <string id="qD72Ya4I" text="Zhanoving" />
+    <string id="R1JECC9r" text="Zhira" />
+    <string id="RFapQLfR" text="Vyshoving" />
+    <string id="RpDv3cGI" text="Rimanoving" />
+    <string id="scCmMFeI" text="Ekadrya" />
+    <string id="tGEChxdb" text="Achanoving" />
+    <string id="tKUIAmbV" text="Fyomanoving" />
+    <string id="UaOynysV" text="Agna" />
+    <string id="UYqwbjTP" text="Iskanoving" />
+    <string id="Va35TmQW" text="Igrunoving" />
+    <string id="VaqB0x4K" text="Dranga" />
+    <string id="Vp9n86Wy" text="Lezhanoving" />
+    <string id="WNb0Bw0e" text="Kavyl" />
+    <string id="WP63fA7r" text="Alkirya" />
+    <string id="XJZJIZ9Q" text="Cholokhoving" />
+    <string id="XqcD0WEu" text="Asta" />
+    <string id="XQfYxgti" text="Nimanoving" />
+    <string id="Y9qYt71a" text="Balikoving" />
+    <string id="YahyjyK5" text="Gudra" />
+    <string id="YdMwMdyf" text="Dumat" />
+    <string id="YJ6JKs9O" text="Kyorinoving" />
+    <string id="yNSLGTYc" text="Erta" />
+    <string id="yUuM8a0j" text="Boranoving" />
+    <string id="z2Oqk8aq" text="Maregoving" />
+    <string id="z3rmbOSO" text="Gavyn" />
+    <string id="Z5NIRUPc" text="Idruna" />
+    <string id="ZkaaXxeB" text="Isvan" />
+    <string id="zYAl76GW" text="Borytor" />
+    <string id="tor_chaos_force_uprising_wounded" text="Вы слишком тяжело ранены, чтобы разжечь восстание." />
+    <string id="tor_chaos_lord_seduction_not_enough_resources" text="Недостаточно Даров или влияния." />
+    <string id="tor_chaos_trait_khorne_axe_name" text="Топор Кровавого Бога" />
+    <string id="tor_chaos_trait_khorne_axe_desc" text="+25% физического урона, улучшенное рассечение, отбрасывает врагов при попадании, +3 здоровья за убийство." />
+    <string id="tor_chaos_trait_nurgle_reflect_name" text="Споровая защита" />
+    <string id="tor_chaos_trait_nurgle_reflect_desc" text="+10% сопротивления дальнему урону." />
+    <string id="tor_chaos_trait_nurgle_resilience_name" text="Стойкость Дедушки" />
+    <string id="tor_chaos_trait_nurgle_resilience_desc" text="+5% физического сопротивления." />
+    <string id="tor_chaos_trait_nurgle_gift_name" text="Щедрая гниль" />
+    <string id="tor_chaos_trait_nurgle_gift_desc" text="+5% спасения оберегом и +5 к максимальному здоровью." />
+    <string id="tor_chaos_trait_tzeentch_radius_name" text="Архитектор перемен" />
+    <string id="tor_chaos_trait_tzeentch_radius_desc" text="+15% радиуса заклинаний." />
+    <string id="tor_chaos_trait_tzeentch_power_name" text="Мастерство потока" />
+    <string id="tor_chaos_trait_tzeentch_power_desc" text="+15% силы заклинаний." />
+    <string id="tor_chaos_trait_tzeentch_winds_name" text="Ветра манипуляции" />
+    <string id="tor_chaos_trait_tzeentch_winds_desc" text="Следующие 3 заклинания в бою не требуют Ветров Магии." />
+    <string id="tor_chaos_trait_slaanesh_bow_name" text="Лук излишества" />
+    <string id="tor_chaos_trait_slaanesh_bow_desc" text="+25% магического урона, 10% шанс соблазнить ближайших врагов при убийстве." />
+    <string id="tor_chaos_career_root_desc" text="Обряд Восхождения: длится 23 с. +20% физического сопротивления, +5% оберега, +30% урона ближнего боя, +25% урона заклинаний, +15% скорости движения/атаки. Замедляет врагов; усиливает союзников Хаоса." />
+    <string id="tor_chaos_career_root_mutated_desc" text="Длится 23 с. +20% физического сопротивления, +5% оберега, +30% урона ближнего боя, +25% урона заклинаний, +15% скорости движения/атаки. Замедляет врагов; усиливает союзников Хаоса." />
+    <string id="tor_chaos_career_condition_champion" text="Только истинный чемпион Хаоса может идти этим путём." />
+    <string id="tor_chaos_career_condition_tier1" text="Сначала нужно овладеть первым тиром." />
+    <string id="tor_chaos_career_condition_unlock_tier2" text="Захватите 3 убежища культистов и разожгите одно городское восстание, чтобы открыть этот тир." />
+    <string id="tor_chaos_career_condition_tier2" text="Сначала нужно овладеть вторым тиром." />
+    <string id="tor_chaos_career_condition_unlock_tier3" text="Сломите три города, казните пять лордов и достигните глубокой преданности, чтобы открыть этот тир." />
+    <string id="tor_chaos_choice_ruinous_blade_name" text="Клинок руины" />
+    <string id="tor_chaos_choice_ruinous_blade_keystone" text="Восхождение: +10% урона ближнего боя, +5% скорости атаки." />
+    <string id="tor_chaos_choice_ruinous_blade_passive_1" text="+25 здоровья." />
+    <string id="tor_chaos_choice_ruinous_blade_passive_2" text="+15% урона ближнего боя." />
+    <string id="tor_chaos_choice_ruinous_blade_passive_3" text="+10% скорости взмаха." />
+    <string id="tor_chaos_choice_ruinous_blade_passive_4" text="+10% пробивания брони в ближнем бою." />
+    <string id="tor_chaos_choice_warp_conduit_name" text="Проводник варпа" />
+    <string id="tor_chaos_choice_warp_conduit_keystone" text="Восхождение: -3 с перезарядки, +10% урона заклинаний, +5% связи с Ветрами." />
+    <string id="tor_chaos_choice_warp_conduit_passive_1" text="+20 Ветров Магии." />
+    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+20% восстановления Ветров." />
+    <string id="tor_chaos_choice_warp_conduit_passive_3" text="+10% радиуса заклинаний." />
+    <string id="tor_chaos_choice_warp_conduit_passive_4" text="+15% эффективности заклинаний." />
+    <string id="tor_chaos_choice_cult_network_name" text="Сеть культа" />
+    <string id="tor_chaos_choice_cult_network_keystone" text="Восхождение: +3 с длительности, +5% скорости движения, +5% физического сопротивления." />
+    <string id="tor_chaos_choice_cult_network_passive_1" text="+20 Даров Хаоса из всех источников." />
+    <string id="tor_chaos_choice_cult_network_passive_2" text="+10 к размеру отряда." />
+    <string id="tor_chaos_choice_cult_network_passive_3" text="-10% жалования войск." />
+    <string id="tor_chaos_choice_cult_network_passive_4" text="+10% славы за битвы." />
+    <string id="tor_chaos_choice_portal_dominion_name" text="Владычество порталов" />
+    <string id="tor_chaos_choice_portal_dominion_keystone" text="Восхождение: +6 радиуса, +5% оберега, +5% связи с Ветрами. Убирает потерю Ветров от тяжёлой брони." />
+    <string id="tor_chaos_choice_portal_dominion_passive_1" text="+10% скорости отряда на карте." />
+    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+15% личной скорости движения." />
+    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+20 Даров Хаоса из всех источников." />
+    <string id="tor_chaos_choice_portal_dominion_passive_4" text="-10% стоимости зачарования." />
+    <string id="tor_chaos_choice_god_marked_spoils_name" text="Добыча с меткой богов" />
+    <string id="tor_chaos_choice_god_marked_spoils_keystone" text="Восхождение: +5% урона ближнего боя, +5% физического сопротивления." />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="+15% славы за битвы." />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_2" text="+15% урона войск." />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_3" text="+10% сопротивления войск." />
+    <string id="tor_chaos_choice_god_marked_spoils_passive_4" text="+25 Даров Хаоса из всех источников." />
+    <string id="tor_chaos_choice_undivided_apotheosis_name" text="Апофеоз Неделимого" />
+    <string id="tor_chaos_choice_undivided_apotheosis_keystone" text="Восхождение: -10 с перезарядки, +6 с длительности, +6 радиуса, +8% оберега, +8% урона ближнего боя." />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_1" text="+30 здоровья." />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_2" text="+20% физического сопротивления." />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_3" text="+15% эффективности заклинаний." />
+    <string id="tor_chaos_choice_undivided_apotheosis_passive_4" text="+10% скорости взмаха." />
+    <string id="tor_chaos_choice_everchosen_command_name" text="Командование Вечноизбранного" />
+    <string id="tor_chaos_choice_everchosen_command_keystone" text="Восхождение: +8% скорости атаки. Враги: -5% скорости движения, -5% скорости атаки." />
+    <string id="tor_chaos_choice_everchosen_command_passive_1" text="+20 к размеру отряда." />
+    <string id="tor_chaos_choice_everchosen_command_passive_2" text="+20% урона войск." />
+    <string id="tor_chaos_choice_everchosen_command_passive_3" text="+20% сопротивления войск." />
+    <string id="tor_chaos_choice_everchosen_command_passive_4" text="+20% морали войск." />
+    <string id="tor_chaos_cc_origin_fallen_noble_option" text="Падший дворянин" />
+    <string id="tor_chaos_cc_origin_fallen_noble_effect" text="Опальная родословная" />
+    <string id="tor_chaos_cc_origin_fallen_noble_flavour" text="Вы были рождены, чтобы командовать, но старые законы оказались слишком малы для ваших амбиций. Север ответил там, где придворные клятвы не помогли." />
+    <string id="tor_chaos_cc_origin_dark_acolyte_option" text="Темный послушник" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_effect" text="Запрещенное исследование" />
+    <string id="tor_chaos_cc_origin_dark_acolyte_flavour" text="Вы узнали слова, обжигающие язык, и символы, привлекающие взгляды из-за завесы." />
+    <string id="tor_chaos_cc_growth_cult_handler_option" text="Культовый куратор" />
+    <string id="tor_chaos_cc_growth_cult_handler_effect" text="Скрытые ячейки" />
+    <string id="tor_chaos_cc_growth_cult_handler_flavour" text="Вы разносили шепот между подвалами, храмами и тюремными повозками, пока ваш знак не узнали целые улицы." />
+    <string id="tor_chaos_weapon_bow_slaanesh_legendary" text="Лук Слаанеш" />
+    <string id="tor_chaos_weapon_bow_slaanesh_legendary_text" text="Лук Слаанеш" />
+    <string id="tor_chaos_cc_feat_armor" text="Тяжёлая броня и грубая сила ближнего боя" />
+    <string id="tor_chaos_cc_feat_magic" text="Тёмная магия и экономика Даров Хаоса" />
+    <string id="tor_chaos_cc_feat_enemy" text="Начинает врагом цивилизованных держав" />    <string id="tor_chaos_menu_continue_text" text="Продолжить" />
+    <string id="tor_chaos_menu_leave_text" text="Уйти..." />
+    <string id="tor_chaos_portal_name" text="Портал Хаоса" />
+  </strings>
+</base>

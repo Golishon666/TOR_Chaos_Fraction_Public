@@ -1,0 +1,71 @@
+<Module>
+  <Name value="TOR Chaos Fraction" />
+  <Id value="TOR_Chaos_Fraction" />
+  <Version value="v0.1.8" />
+  <ModuleCategory value="Singleplayer" />
+  <DependedModules>
+    <DependedModule Id="Bannerlord.Harmony" DependentVersion="v2.4.2.0" />
+    <DependedModule Id="Native" DependentVersion="v1.3.15" />
+    <DependedModule Id="SandBoxCore" DependentVersion="v1.3.15" />
+    <DependedModule Id="Sandbox" DependentVersion="v1.3.15" />
+    <DependedModule Id="StoryMode" DependentVersion="v1.3.15" />
+    <DependedModule Id="TOR_Armory" DependentVersion="v1.3.15" />
+    <DependedModule Id="TOR_Environment" DependentVersion="v1.3.15" />
+    <DependedModule Id="TOR_Core" DependentVersion="v1.3.15" />
+  </DependedModules>
+  <SubModules>
+    <SubModule>
+      <Name value="TOR_Chaos_Fraction" />
+      <DLLName value="TOR_Chaos_Fraction.dll" />
+      <SubModuleClassType value="TOR_Chaos_Fraction.SubModule" />
+      <Tags>
+        <Tag key="DedicatedServerType" value="none" />
+        <Tag key="IsNoRenderModeElement" value="false" />
+      </Tags>
+    </SubModule>
+  </SubModules>
+  <Xmls>
+    <XmlNode>
+      <XmlName id="GameText" path="tor_chaos_strings" />
+      <IncludedGameTypes>
+        <GameType value="Campaign" />
+        <GameType value="CampaignStoryMode" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="SPCultures" path="tor_chaos_cultures" />
+      <IncludedGameTypes>
+        <GameType value="Campaign" />
+        <GameType value="CampaignStoryMode" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="NPCCharacters" path="tor_chaos_demon_hunters" />
+      <IncludedGameTypes>
+        <GameType value="Campaign" />
+        <GameType value="CampaignStoryMode" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="PartyTemplates" path="tor_chaos_demon_hunter_party_templates" />
+      <IncludedGameTypes>
+        <GameType value="Campaign" />
+        <GameType value="CampaignStoryMode" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="EquipmentRosters" path="tor_chaos_equipment_sets" />
+      <IncludedGameTypes>
+        <GameType value="Campaign" />
+        <GameType value="CampaignStoryMode" />
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="Items" path="tor_chaos_items" />
+      <IncludedGameTypes>
+        <GameType value="Campaign" />
+        <GameType value="CampaignStoryMode" />
+      </IncludedGameTypes>
+    </XmlNode>
+  </Xmls>
+</Module>

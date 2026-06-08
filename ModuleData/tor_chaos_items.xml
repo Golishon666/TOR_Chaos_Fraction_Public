@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item id="tor_chaos_weapon_bow_slaanesh_legendary"
+        name="{=tor_chaos_weapon_bow_slaanesh_legendary}Bow of Slaanesh"
+        mesh="we_bow_002"
+        weight="0.6"
+        appearance="1"
+        difficulty="225"
+        Type="Bow"
+        is_merchandise="false"
+        culture="Culture.chaos_culture"
+        value="80000"
+        body_name="bo_longbow_g"
+        item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2"
+        AmmoOffset="0,0,0"
+        holster_position_shift="0,0,0">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              position="0,0,0"
+              rotation="0,0,0"
+              missile_speed="200"
+              accuracy="99"
+              thrust_damage="175"
+              thrust_speed="80"
+              speed_rating="90"
+              weapon_length="120"
+              ammo_limit="1"
+              thrust_damage_type="Pierce"
+              item_usage="bow"
+              physics_material="wood_weapon"
+              reload_phase_count="1"
+              center_of_mass="0.15,0,0">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     TwoHandIdleOnMount="true"
+                     NotUsableWithOneHand="true"
+                     StringHeldByHand="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags Stealth="true" />
+  </Item>
+</Items>
