@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version='1.0' encoding='utf-8'?>
 <base type="string">
   <tags>
     <tag language="Français" />
@@ -416,7 +416,7 @@
     <string id="tor_chaos_choice_warp_conduit_name" text="Conduit du Warp" />
     <string id="tor_chaos_choice_warp_conduit_keystone" text="Ascension : -3 s de recharge, +10% dégâts des sorts, +5% lien aux Vents." />
     <string id="tor_chaos_choice_warp_conduit_passive_1" text="+20 Vents de Magie." />
-    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+20% régénération des Vents." />
+    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+1 régénération des Vents de Magie." />
     <string id="tor_chaos_choice_warp_conduit_passive_3" text="+10% rayon des sorts." />
     <string id="tor_chaos_choice_warp_conduit_passive_4" text="+15% efficacité des sorts." />
     <string id="tor_chaos_choice_cult_network_name" text="Réseau de culte" />
@@ -426,11 +426,11 @@
     <string id="tor_chaos_choice_cult_network_passive_3" text="-10% salaires des troupes." />
     <string id="tor_chaos_choice_cult_network_passive_4" text="+10% gain de renommée en bataille." />
     <string id="tor_chaos_choice_portal_dominion_name" text="Domination des portails" />
-    <string id="tor_chaos_choice_portal_dominion_keystone" text="Ascension : +6 rayon, +5% résistance de sauvegarde, +5% lien aux Vents. Supprime la perte de Vents due à l’armure lourde." />
-    <string id="tor_chaos_choice_portal_dominion_passive_1" text="+10% vitesse du groupe sur la carte." />
-    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+15% vitesse de déplacement personnelle." />
-    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+20 Dons du Chaos de toutes les sources." />
-    <string id="tor_chaos_choice_portal_dominion_passive_4" text="-10% coût d’enchantement." />
+    <string id="tor_chaos_choice_portal_dominion_keystone" text="Ascension : +6 rayon, +5% résistance de sauvegarde, +5% lien aux Vents." />
+    <string id="tor_chaos_choice_portal_dominion_passive_1" text="L’armure lourde ne réduit plus la régénération des Vents de Magie." />
+    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+10% vitesse du groupe sur la carte." />
+    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+15% vitesse de déplacement personnelle." />
+    <string id="tor_chaos_choice_portal_dominion_passive_4" text="+20 Dons du Chaos de toutes les sources." />
     <string id="tor_chaos_choice_god_marked_spoils_name" text="Butin marqué par les dieux" />
     <string id="tor_chaos_choice_god_marked_spoils_keystone" text="Ascension : +5% dégâts de mêlée, +5% résistance physique." />
     <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="+15% gain de renommée en bataille." />
@@ -462,7 +462,8 @@
     <string id="tor_chaos_weapon_bow_slaanesh_legendary_text" text="Arc de Slaanesh" />
     <string id="tor_chaos_cc_feat_armor" text="Armure lourde et puissance brutale en mêlée" />
     <string id="tor_chaos_cc_feat_magic" text="Magie noire et économie des Dons du Chaos" />
-    <string id="tor_chaos_cc_feat_enemy" text="Commence comme ennemi des royaumes civilisés" />    <string id="tor_chaos_menu_continue_text" text="Continuer" />
+    <string id="tor_chaos_cc_feat_enemy" text="Commence comme ennemi des royaumes civilisés" />
+    <string id="tor_chaos_menu_continue_text" text="Continuer" />
     <string id="tor_chaos_menu_leave_text" text="Partir..." />
     <string id="tor_chaos_portal_name" text="Portail du Chaos" />
   </strings>

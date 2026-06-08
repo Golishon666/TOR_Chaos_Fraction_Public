@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version='1.0' encoding='utf-8'?>
 <base type="string">
   <tags>
     <tag language="Polski" />
@@ -416,7 +416,7 @@
     <string id="tor_chaos_choice_warp_conduit_name" text="Przewodnik Osnowy" />
     <string id="tor_chaos_choice_warp_conduit_keystone" text="Wniebowstąpienie: -3 s czasu odnowienia, +10% obrażeń zaklęć, +5% więzi z Wiatrami." />
     <string id="tor_chaos_choice_warp_conduit_passive_1" text="+20 Wiatrów Magii." />
-    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+20% regeneracji Wiatrów." />
+    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+1 regeneracji Wiatrów Magii." />
     <string id="tor_chaos_choice_warp_conduit_passive_3" text="+10% promienia zaklęć." />
     <string id="tor_chaos_choice_warp_conduit_passive_4" text="+15% skuteczności zaklęć." />
     <string id="tor_chaos_choice_cult_network_name" text="Sieć Kultu" />
@@ -426,11 +426,11 @@
     <string id="tor_chaos_choice_cult_network_passive_3" text="-10% żołdu wojsk." />
     <string id="tor_chaos_choice_cult_network_passive_4" text="+10% zysku sławy w bitwie." />
     <string id="tor_chaos_choice_portal_dominion_name" text="Dominacja Portali" />
-    <string id="tor_chaos_choice_portal_dominion_keystone" text="Wniebowstąpienie: +6 promienia, +5% ochrony, +5% więzi z Wiatrami. Usuwa utratę Wiatrów od ciężkiej zbroi." />
-    <string id="tor_chaos_choice_portal_dominion_passive_1" text="+10% szybkości drużyny na mapie." />
-    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+15% osobistej szybkości ruchu." />
-    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+20 Darów Chaosu ze wszystkich źródeł." />
-    <string id="tor_chaos_choice_portal_dominion_passive_4" text="-10% kosztu zaklęć." />
+    <string id="tor_chaos_choice_portal_dominion_keystone" text="Wniebowstąpienie: +6 promienia, +5% ochrony, +5% więzi z Wiatrami." />
+    <string id="tor_chaos_choice_portal_dominion_passive_1" text="Ciężka zbroja nie obniża już regeneracji Wiatrów Magii." />
+    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+10% szybkości drużyny na mapie." />
+    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+15% osobistej szybkości ruchu." />
+    <string id="tor_chaos_choice_portal_dominion_passive_4" text="+20 Darów Chaosu ze wszystkich źródeł." />
     <string id="tor_chaos_choice_god_marked_spoils_name" text="Łupy Znaczone przez Bogów" />
     <string id="tor_chaos_choice_god_marked_spoils_keystone" text="Wniebowstąpienie: +5% obrażeń w zwarciu, +5% odporności fizycznej." />
     <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="+15% zysku sławy w bitwie." />
@@ -462,7 +462,8 @@
     <string id="tor_chaos_weapon_bow_slaanesh_legendary_text" text="Łuk Slaanesha" />
     <string id="tor_chaos_cc_feat_armor" text="Ciężka zbroja i brutalna siła w zwarciu" />
     <string id="tor_chaos_cc_feat_magic" text="Mroczna magia i gospodarka Darów Chaosu" />
-    <string id="tor_chaos_cc_feat_enemy" text="Zaczyna jako wróg cywilizowanych krain" />    <string id="tor_chaos_menu_continue_text" text="Kontynuuj" />
+    <string id="tor_chaos_cc_feat_enemy" text="Zaczyna jako wróg cywilizowanych krain" />
+    <string id="tor_chaos_menu_continue_text" text="Kontynuuj" />
     <string id="tor_chaos_menu_leave_text" text="Odejdź..." />
     <string id="tor_chaos_portal_name" text="Portal Chaosu" />
   </strings>

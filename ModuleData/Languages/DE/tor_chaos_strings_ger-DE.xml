@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base type="string">
   <tags>
     <tag language="Deutsch" />
@@ -416,7 +416,7 @@
     <string id="tor_chaos_choice_warp_conduit_name" text="Warp-Leiter" />
     <string id="tor_chaos_choice_warp_conduit_keystone" text="Aufstieg: -3 s Abklingzeit, +10% Zauberschaden, +5% Winde-Verbindung." />
     <string id="tor_chaos_choice_warp_conduit_passive_1" text="+20 Winde der Magie." />
-    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+20% Regeneration der Winde." />
+    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+1 Regeneration der Winde der Magie." />
     <string id="tor_chaos_choice_warp_conduit_passive_3" text="+10% Zauberradius." />
     <string id="tor_chaos_choice_warp_conduit_passive_4" text="+15% Zauberwirksamkeit." />
     <string id="tor_chaos_choice_cult_network_name" text="Kultnetzwerk" />
@@ -426,11 +426,11 @@
     <string id="tor_chaos_choice_cult_network_passive_3" text="-10% Truppenlöhne." />
     <string id="tor_chaos_choice_cult_network_passive_4" text="+10% Ruhmgewinn in Schlachten." />
     <string id="tor_chaos_choice_portal_dominion_name" text="Portalherrschaft" />
-    <string id="tor_chaos_choice_portal_dominion_keystone" text="Aufstieg: +6 Radius, +5% Rettungswiderstand, +5% Winde-Verbindung. Entfernt Winde-Verlust durch schwere Rüstung." />
-    <string id="tor_chaos_choice_portal_dominion_passive_1" text="+10% Gruppenbewegungstempo." />
-    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+15% persönliches Bewegungstempo." />
-    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+20 Gaben des Chaos aus allen Quellen." />
-    <string id="tor_chaos_choice_portal_dominion_passive_4" text="-10% Verzauberungskosten." />
+    <string id="tor_chaos_choice_portal_dominion_keystone" text="Aufstieg: +6 Radius, +5% Rettungswiderstand, +5% Winde-Verbindung." />
+    <string id="tor_chaos_choice_portal_dominion_passive_1" text="Schwere Rüstung verringert die Regeneration der Winde der Magie nicht mehr." />
+    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+10% Gruppenbewegungstempo." />
+    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+15% persönliches Bewegungstempo." />
+    <string id="tor_chaos_choice_portal_dominion_passive_4" text="+20 Gaben des Chaos aus allen Quellen." />
     <string id="tor_chaos_choice_god_marked_spoils_name" text="Gottgezeichnete Beute" />
     <string id="tor_chaos_choice_god_marked_spoils_keystone" text="Aufstieg: +5% Nahkampfschaden, +5% physischer Widerstand." />
     <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="+15% Ruhmgewinn in Schlachten." />
@@ -462,7 +462,8 @@
     <string id="tor_chaos_weapon_bow_slaanesh_legendary_text" text="Bogen des Slaanesh" />
     <string id="tor_chaos_cc_feat_armor" text="Schwere Rüstung und brutale Nahkampfkraft" />
     <string id="tor_chaos_cc_feat_magic" text="Dunkle Magie und Wirtschaft der Chaosgaben" />
-    <string id="tor_chaos_cc_feat_enemy" text="Beginnt als Feind der zivilisierten Reiche" />    <string id="tor_chaos_menu_continue_text" text="Fortfahren" />
+    <string id="tor_chaos_cc_feat_enemy" text="Beginnt als Feind der zivilisierten Reiche" />
+    <string id="tor_chaos_menu_continue_text" text="Fortfahren" />
     <string id="tor_chaos_menu_leave_text" text="Gehen..." />
     <string id="tor_chaos_portal_name" text="Chaosportal" />
   </strings>

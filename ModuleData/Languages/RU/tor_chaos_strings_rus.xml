@@ -117,7 +117,7 @@
     <string id="tor_chaos_devotion_reward_khorne_7_text" text="+15% пробивания брони." />
     <string id="tor_chaos_devotion_reward_khorne_8_text" text="+10% скорости передвижения." />
     <string id="tor_chaos_devotion_reward_khorne_9_text" text="Ваши атаки ближнего боя нельзя блокировать или парировать." />
-    <string id="tor_chaos_devotion_reward_khorne_10_text" text="Легендарная двуручная секира Кхорна: огромный урон и ударная волна при попадании (20 урона, сбивание с ног как у тролля)." />
+    <string id="tor_chaos_devotion_reward_khorne_10_text" text="Легендарная двуручная секира Кхорна: огромный урон, cleave, ударная волна при попадании и отхил 3 HP за убийство." />
     <string id="tor_chaos_devotion_reward_nurgle_1_text" text="+2 к скорости передвижения на кампании." />
     <string id="tor_chaos_devotion_reward_nurgle_2_text" text="+25 здоровья и +10% лечения на кампании." />
     <string id="tor_chaos_devotion_reward_nurgle_3_text" text="Открывает молитву: Милосердие Нургла." />
@@ -416,7 +416,7 @@
     <string id="tor_chaos_choice_warp_conduit_name" text="Проводник варпа" />
     <string id="tor_chaos_choice_warp_conduit_keystone" text="Восхождение: -3 с перезарядки, +10% урона заклинаний, +5% связи с Ветрами." />
     <string id="tor_chaos_choice_warp_conduit_passive_1" text="+20 Ветров Магии." />
-    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+20% восстановления Ветров." />
+    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+1 к регенерации Ветров магии." />
     <string id="tor_chaos_choice_warp_conduit_passive_3" text="+10% радиуса заклинаний." />
     <string id="tor_chaos_choice_warp_conduit_passive_4" text="+15% эффективности заклинаний." />
     <string id="tor_chaos_choice_cult_network_name" text="Сеть культа" />
@@ -426,11 +426,11 @@
     <string id="tor_chaos_choice_cult_network_passive_3" text="-10% жалования войск." />
     <string id="tor_chaos_choice_cult_network_passive_4" text="+10% славы за битвы." />
     <string id="tor_chaos_choice_portal_dominion_name" text="Владычество порталов" />
-    <string id="tor_chaos_choice_portal_dominion_keystone" text="Восхождение: +6 радиуса, +5% оберега, +5% связи с Ветрами. Убирает потерю Ветров от тяжёлой брони." />
-    <string id="tor_chaos_choice_portal_dominion_passive_1" text="+10% скорости отряда на карте." />
-    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+15% личной скорости движения." />
-    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+20 Даров Хаоса из всех источников." />
-    <string id="tor_chaos_choice_portal_dominion_passive_4" text="-10% стоимости зачарования." />
+    <string id="tor_chaos_choice_portal_dominion_keystone" text="Восхождение: +6 радиуса, +5% оберега, +5% связи с Ветрами." />
+    <string id="tor_chaos_choice_portal_dominion_passive_1" text="Тяжёлая броня больше не снижает регенерацию Ветров магии." />
+    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+10% скорости отряда на карте." />
+    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+15% личной скорости движения." />
+    <string id="tor_chaos_choice_portal_dominion_passive_4" text="+20 Даров Хаоса из всех источников." />
     <string id="tor_chaos_choice_god_marked_spoils_name" text="Добыча с меткой богов" />
     <string id="tor_chaos_choice_god_marked_spoils_keystone" text="Восхождение: +5% урона ближнего боя, +5% физического сопротивления." />
     <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="+15% славы за битвы." />
@@ -462,7 +462,8 @@
     <string id="tor_chaos_weapon_bow_slaanesh_legendary_text" text="Лук Слаанеш" />
     <string id="tor_chaos_cc_feat_armor" text="Тяжёлая броня и грубая сила ближнего боя" />
     <string id="tor_chaos_cc_feat_magic" text="Тёмная магия и экономика Даров Хаоса" />
-    <string id="tor_chaos_cc_feat_enemy" text="Начинает врагом цивилизованных держав" />    <string id="tor_chaos_menu_continue_text" text="Продолжить" />
+    <string id="tor_chaos_cc_feat_enemy" text="Начинает врагом цивилизованных держав" />
+    <string id="tor_chaos_menu_continue_text" text="Продолжить" />
     <string id="tor_chaos_menu_leave_text" text="Уйти..." />
     <string id="tor_chaos_portal_name" text="Портал Хаоса" />
   </strings>

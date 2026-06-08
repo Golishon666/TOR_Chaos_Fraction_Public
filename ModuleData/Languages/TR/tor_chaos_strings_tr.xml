@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base type="string">
   <tags>
     <tag language="Türkçe" />
@@ -416,7 +416,7 @@
     <string id="tor_chaos_choice_warp_conduit_name" text="Warp Kanalı" />
     <string id="tor_chaos_choice_warp_conduit_keystone" text="Yükseliş: -3 sn bekleme, +10% büyü hasarı, +5% Rüzgar bağı." />
     <string id="tor_chaos_choice_warp_conduit_passive_1" text="+20 Sihir Rüzgarı." />
-    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+20% Rüzgar yenilenmesi." />
+    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+1 Büyü Rüzgarı yenilenmesi." />
     <string id="tor_chaos_choice_warp_conduit_passive_3" text="+10% büyü yarıçapı." />
     <string id="tor_chaos_choice_warp_conduit_passive_4" text="+15% büyü etkinliği." />
     <string id="tor_chaos_choice_cult_network_name" text="Kült Ağı" />
@@ -426,11 +426,11 @@
     <string id="tor_chaos_choice_cult_network_passive_3" text="-10% asker maaşları." />
     <string id="tor_chaos_choice_cult_network_passive_4" text="+10% savaş şöhreti kazanımı." />
     <string id="tor_chaos_choice_portal_dominion_name" text="Portal Hakimiyeti" />
-    <string id="tor_chaos_choice_portal_dominion_keystone" text="Yükseliş: +6 yarıçap, +5% koğuş direnci, +5% Rüzgar bağı. Ağır zırhın Rüzgar kaybını kaldırır." />
-    <string id="tor_chaos_choice_portal_dominion_passive_1" text="+10% grup harita hızı." />
-    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+15% kişisel hareket hızı." />
-    <string id="tor_chaos_choice_portal_dominion_passive_3" text="Tüm kaynaklardan +20 Kaos Armağanı." />
-    <string id="tor_chaos_choice_portal_dominion_passive_4" text="-10% efsun maliyeti." />
+    <string id="tor_chaos_choice_portal_dominion_keystone" text="Yükseliş: +6 yarıçap, +5% koğuş direnci, +5% Rüzgar bağı." />
+    <string id="tor_chaos_choice_portal_dominion_passive_1" text="Ağır zırh artık Büyü Rüzgarı yenilenmesini düşürmez." />
+    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+10% grup harita hızı." />
+    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+15% kişisel hareket hızı." />
+    <string id="tor_chaos_choice_portal_dominion_passive_4" text="Tüm kaynaklardan +20 Kaos Armağanı." />
     <string id="tor_chaos_choice_god_marked_spoils_name" text="Tanrı Damgalı Ganimet" />
     <string id="tor_chaos_choice_god_marked_spoils_keystone" text="Yükseliş: +5% yakın dövüş hasarı, +5% fiziksel direnç." />
     <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="+15% savaş şöhreti kazanımı." />
@@ -462,7 +462,8 @@
     <string id="tor_chaos_weapon_bow_slaanesh_legendary_text" text="Slaanesh'in Yayı" />
     <string id="tor_chaos_cc_feat_armor" text="Ağır zırh ve acımasız yakın dövüş gücü" />
     <string id="tor_chaos_cc_feat_magic" text="Kara büyü ve Kaos Armağanı ekonomisi" />
-    <string id="tor_chaos_cc_feat_enemy" text="Uygar diyarların düşmanı olarak başlar" />    <string id="tor_chaos_menu_continue_text" text="Devam et" />
+    <string id="tor_chaos_cc_feat_enemy" text="Uygar diyarların düşmanı olarak başlar" />
+    <string id="tor_chaos_menu_continue_text" text="Devam et" />
     <string id="tor_chaos_menu_leave_text" text="Ayrıl..." />
     <string id="tor_chaos_portal_name" text="Kaos Portalı" />
   </strings>

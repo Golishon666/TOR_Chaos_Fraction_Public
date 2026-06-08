@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+﻿<?xml version='1.0' encoding='utf-8'?>
 <base type="string">
   <tags>
     <tag language="Português (BR)" />
@@ -416,7 +416,7 @@
     <string id="tor_chaos_choice_warp_conduit_name" text="Conduto do Warp" />
     <string id="tor_chaos_choice_warp_conduit_keystone" text="Ascensão: -3 s de recarga, +10% dano de feitiço, +5% vínculo com os Ventos." />
     <string id="tor_chaos_choice_warp_conduit_passive_1" text="+20 Ventos da Magia." />
-    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+20% regeneração dos Ventos." />
+    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+1 regeneração dos Ventos de Magia." />
     <string id="tor_chaos_choice_warp_conduit_passive_3" text="+10% raio de feitiço." />
     <string id="tor_chaos_choice_warp_conduit_passive_4" text="+15% eficácia de feitiços." />
     <string id="tor_chaos_choice_cult_network_name" text="Rede de Culto" />
@@ -426,11 +426,11 @@
     <string id="tor_chaos_choice_cult_network_passive_3" text="-10% salários das tropas." />
     <string id="tor_chaos_choice_cult_network_passive_4" text="+10% ganho de renome em batalha." />
     <string id="tor_chaos_choice_portal_dominion_name" text="Domínio dos Portais" />
-    <string id="tor_chaos_choice_portal_dominion_keystone" text="Ascensão: +6 raio, +5% resistência de proteção, +5% vínculo com os Ventos. Remove a perda de Ventos por armadura pesada." />
-    <string id="tor_chaos_choice_portal_dominion_passive_1" text="+10% velocidade do grupo no mapa." />
-    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+15% velocidade de movimento pessoal." />
-    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+20 Dádivas do Caos de todas as fontes." />
-    <string id="tor_chaos_choice_portal_dominion_passive_4" text="-10% custo de encantamento." />
+    <string id="tor_chaos_choice_portal_dominion_keystone" text="Ascensão: +6 raio, +5% resistência de proteção, +5% vínculo com os Ventos." />
+    <string id="tor_chaos_choice_portal_dominion_passive_1" text="Armadura pesada não reduz mais a regeneração dos Ventos de Magia." />
+    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+10% velocidade do grupo no mapa." />
+    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+15% velocidade de movimento pessoal." />
+    <string id="tor_chaos_choice_portal_dominion_passive_4" text="+20 Dádivas do Caos de todas as fontes." />
     <string id="tor_chaos_choice_god_marked_spoils_name" text="Espólios Marcados pelos Deuses" />
     <string id="tor_chaos_choice_god_marked_spoils_keystone" text="Ascensão: +5% dano corpo a corpo, +5% resistência física." />
     <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="+15% ganho de renome em batalha." />
@@ -462,7 +462,8 @@
     <string id="tor_chaos_weapon_bow_slaanesh_legendary_text" text="Arco de Slaanesh" />
     <string id="tor_chaos_cc_feat_armor" text="Armadura pesada e poder brutal corpo a corpo" />
     <string id="tor_chaos_cc_feat_magic" text="Magia sombria e economia de Dádivas do Caos" />
-    <string id="tor_chaos_cc_feat_enemy" text="Começa como inimigo dos reinos civilizados" />    <string id="tor_chaos_menu_continue_text" text="Continuar" />
+    <string id="tor_chaos_cc_feat_enemy" text="Começa como inimigo dos reinos civilizados" />
+    <string id="tor_chaos_menu_continue_text" text="Continuar" />
     <string id="tor_chaos_menu_leave_text" text="Sair..." />
     <string id="tor_chaos_portal_name" text="Portal do Caos" />
   </strings>

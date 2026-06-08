@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base type="string">
   <tags>
     <tag language="日本語" />
@@ -416,7 +416,7 @@
     <string id="tor_chaos_choice_warp_conduit_name" text="ワープ導管" />
     <string id="tor_chaos_choice_warp_conduit_keystone" text="昇天：クールダウン -3秒、呪文ダメージ +10%、魔法の風リンク +5%。" />
     <string id="tor_chaos_choice_warp_conduit_passive_1" text="魔法の風 +20。" />
-    <string id="tor_chaos_choice_warp_conduit_passive_2" text="魔法の風再生 +20%。" />
+    <string id="tor_chaos_choice_warp_conduit_passive_2" text="魔法の風再生 +1。" />
     <string id="tor_chaos_choice_warp_conduit_passive_3" text="呪文半径 +10%。" />
     <string id="tor_chaos_choice_warp_conduit_passive_4" text="呪文効果 +15%。" />
     <string id="tor_chaos_choice_cult_network_name" text="カルト網" />
@@ -426,11 +426,11 @@
     <string id="tor_chaos_choice_cult_network_passive_3" text="兵の賃金 -10%。" />
     <string id="tor_chaos_choice_cult_network_passive_4" text="戦闘名声獲得 +10%。" />
     <string id="tor_chaos_choice_portal_dominion_name" text="ポータル支配" />
-    <string id="tor_chaos_choice_portal_dominion_keystone" text="昇天：半径 +6、護り耐性 +5%、魔法の風リンク +5%。重装甲による魔法の風損失を除去。" />
-    <string id="tor_chaos_choice_portal_dominion_passive_1" text="部隊移動速度 +10%。" />
-    <string id="tor_chaos_choice_portal_dominion_passive_2" text="個人移動速度 +15%。" />
-    <string id="tor_chaos_choice_portal_dominion_passive_3" text="すべての源から混沌の恩寵 +20。" />
-    <string id="tor_chaos_choice_portal_dominion_passive_4" text="エンチャント費用 -10%。" />
+    <string id="tor_chaos_choice_portal_dominion_keystone" text="昇天：半径 +6、護り耐性 +5%、魔法の風リンク +5%。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_1" text="重装甲は魔法の風再生を下げなくなる。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_2" text="部隊移動速度 +10%。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_3" text="個人移動速度 +15%。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_4" text="すべての源から混沌の恩寵 +20。" />
     <string id="tor_chaos_choice_god_marked_spoils_name" text="神印の戦利品" />
     <string id="tor_chaos_choice_god_marked_spoils_keystone" text="昇天：近接ダメージ +5%、物理耐性 +5%。" />
     <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="戦闘名声獲得 +15%。" />
@@ -462,7 +462,8 @@
     <string id="tor_chaos_weapon_bow_slaanesh_legendary_text" text="スラーネッシュの弓" />
     <string id="tor_chaos_cc_feat_armor" text="重装甲と苛烈な近接戦闘力" />
     <string id="tor_chaos_cc_feat_magic" text="闇の魔法と混沌の恩寵経済" />
-    <string id="tor_chaos_cc_feat_enemy" text="文明諸国の敵として開始" />    <string id="tor_chaos_menu_continue_text" text="続ける" />
+    <string id="tor_chaos_cc_feat_enemy" text="文明諸国の敵として開始" />
+    <string id="tor_chaos_menu_continue_text" text="続ける" />
     <string id="tor_chaos_menu_leave_text" text="去る..." />
     <string id="tor_chaos_portal_name" text="混沌のポータル" />
   </strings>

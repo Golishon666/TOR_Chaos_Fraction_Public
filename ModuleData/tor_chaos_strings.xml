@@ -118,7 +118,7 @@
   <string id="tor_chaos_devotion_reward_khorne_7" text="{=tor_chaos_devotion_reward_khorne_7_text}+15% armor penetration." />
   <string id="tor_chaos_devotion_reward_khorne_8" text="{=tor_chaos_devotion_reward_khorne_8_text}+10% movement speed." />
   <string id="tor_chaos_devotion_reward_khorne_9" text="{=tor_chaos_devotion_reward_khorne_9_text}Your melee attacks cannot be blocked or parried." />
-  <string id="tor_chaos_devotion_reward_khorne_10" text="{=tor_chaos_devotion_reward_khorne_10_text}Legendary two-handed axe of Khorne: massive damage and a shockwave on hit (20 damage, troll knockdown)." />
+  <string id="tor_chaos_devotion_reward_khorne_10" text="{=tor_chaos_devotion_reward_khorne_10_text}Legendary two-handed axe of Khorne: massive damage, cleave, shockwave on hit, and heals 3 HP per kill." />
   <string id="tor_chaos_devotion_reward_nurgle_1" text="{=tor_chaos_devotion_reward_nurgle_1_text}+2 campaign movement speed." />
   <string id="tor_chaos_devotion_reward_nurgle_2" text="{=tor_chaos_devotion_reward_nurgle_2_text}+25 health and +10% campaign healing." />
   <string id="tor_chaos_devotion_reward_nurgle_3" text="{=tor_chaos_devotion_reward_nurgle_3_text}Unlocks Prayer: Nurgle's Mercy." />
@@ -305,7 +305,7 @@
   <string id="tor_chaos_choice_warp_conduit_name" text="Warp Conduit" />
   <string id="tor_chaos_choice_warp_conduit_keystone" text="Ascendancy: -3s cooldown, +10% spell damage, +5% Winds link." />
   <string id="tor_chaos_choice_warp_conduit_passive_1" text="+20 Winds of Magic." />
-  <string id="tor_chaos_choice_warp_conduit_passive_2" text="+20% Winds regeneration." />
+  <string id="tor_chaos_choice_warp_conduit_passive_2" text="+1 Winds of Magic regeneration." />
   <string id="tor_chaos_choice_warp_conduit_passive_3" text="+10% spell radius." />
   <string id="tor_chaos_choice_warp_conduit_passive_4" text="+15% spell effectiveness." />
   <string id="tor_chaos_choice_cult_network_name" text="Cult Network" />
@@ -315,11 +315,11 @@
   <string id="tor_chaos_choice_cult_network_passive_3" text="-10% troop wages." />
   <string id="tor_chaos_choice_cult_network_passive_4" text="+10% battle renown gain." />
   <string id="tor_chaos_choice_portal_dominion_name" text="Portal Dominion" />
-  <string id="tor_chaos_choice_portal_dominion_keystone" text="Ascendancy: +6 radius, +5% ward resistance, +5% Winds link. Removes heavy-armor Winds loss." />
-  <string id="tor_chaos_choice_portal_dominion_passive_1" text="+10% party movement speed." />
-  <string id="tor_chaos_choice_portal_dominion_passive_2" text="+15% personal movement speed." />
-  <string id="tor_chaos_choice_portal_dominion_passive_3" text="+20 Chaos Gifts from all sources." />
-  <string id="tor_chaos_choice_portal_dominion_passive_4" text="-10% enchantment cost." />
+  <string id="tor_chaos_choice_portal_dominion_keystone" text="Ascendancy: +6 radius, +5% ward resistance, +5% Winds link." />
+  <string id="tor_chaos_choice_portal_dominion_passive_1" text="Heavy armor no longer reduces Winds of Magic regeneration." />
+  <string id="tor_chaos_choice_portal_dominion_passive_2" text="+10% party movement speed." />
+  <string id="tor_chaos_choice_portal_dominion_passive_3" text="+15% personal movement speed." />
+  <string id="tor_chaos_choice_portal_dominion_passive_4" text="+20 Chaos Gifts from all sources." />
   <string id="tor_chaos_choice_god_marked_spoils_name" text="God-Marked Spoils" />
   <string id="tor_chaos_choice_god_marked_spoils_keystone" text="Ascendancy: +5% melee damage, +5% physical resistance." />
   <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="+15% battle renown gain." />
@@ -340,7 +340,8 @@
   <string id="tor_chaos_choice_everchosen_command_passive_4" text="+20% troop morale." />
   <string id="tor_chaos_cc_feat_armor" text="Heavy armor and brutal melee power" />
   <string id="tor_chaos_cc_feat_magic" text="Dark magic and Chaos Gifts economy" />
-  <string id="tor_chaos_cc_feat_enemy" text="Starts as an enemy of the civilized realms" />  <string id="tor_chaos_menu_continue_text" text="Continue" />
+  <string id="tor_chaos_cc_feat_enemy" text="Starts as an enemy of the civilized realms" />
+  <string id="tor_chaos_menu_continue_text" text="Continue" />
   <string id="tor_chaos_menu_leave_text" text="Leave..." />
   <string id="tor_chaos_portal_name" text="Chaos Portal" />
 </strings>

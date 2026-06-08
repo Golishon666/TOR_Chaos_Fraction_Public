@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base type="string">
   <tags>
     <tag language="简体中文" />
@@ -416,7 +416,7 @@
     <string id="tor_chaos_choice_warp_conduit_name" text="亚空间导体" />
     <string id="tor_chaos_choice_warp_conduit_keystone" text="升魔：-3 秒冷却，+10% 法术伤害，+5% 魔风联结。" />
     <string id="tor_chaos_choice_warp_conduit_passive_1" text="+20 魔法之风。" />
-    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+20% 魔风恢复。" />
+    <string id="tor_chaos_choice_warp_conduit_passive_2" text="+1 魔风恢复。" />
     <string id="tor_chaos_choice_warp_conduit_passive_3" text="+10% 法术范围。" />
     <string id="tor_chaos_choice_warp_conduit_passive_4" text="+15% 法术效果。" />
     <string id="tor_chaos_choice_cult_network_name" text="邪教网络" />
@@ -426,11 +426,11 @@
     <string id="tor_chaos_choice_cult_network_passive_3" text="-10% 部队工资。" />
     <string id="tor_chaos_choice_cult_network_passive_4" text="+10% 战斗声望获取。" />
     <string id="tor_chaos_choice_portal_dominion_name" text="传送门统御" />
-    <string id="tor_chaos_choice_portal_dominion_keystone" text="升魔：+6 范围，+5% 守护抗性，+5% 魔风联结。移除重甲造成的魔风损失。" />
-    <string id="tor_chaos_choice_portal_dominion_passive_1" text="+10% 队伍移动速度。" />
-    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+15% 个人移动速度。" />
-    <string id="tor_chaos_choice_portal_dominion_passive_3" text="所有来源 +20 混沌赠礼。" />
-    <string id="tor_chaos_choice_portal_dominion_passive_4" text="-10% 附魔花费。" />
+    <string id="tor_chaos_choice_portal_dominion_keystone" text="升魔：+6 范围，+5% 守护抗性，+5% 魔风联结。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_1" text="重甲不再降低魔风再生。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_2" text="+10% 队伍移动速度。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_3" text="+15% 个人移动速度。" />
+    <string id="tor_chaos_choice_portal_dominion_passive_4" text="所有来源 +20 混沌赠礼。" />
     <string id="tor_chaos_choice_god_marked_spoils_name" text="神印战利品" />
     <string id="tor_chaos_choice_god_marked_spoils_keystone" text="升魔：+5% 近战伤害，+5% 物理抗性。" />
     <string id="tor_chaos_choice_god_marked_spoils_passive_1" text="+15% 战斗声望获取。" />
@@ -462,7 +462,8 @@
     <string id="tor_chaos_weapon_bow_slaanesh_legendary_text" text="色孽之弓" />
     <string id="tor_chaos_cc_feat_armor" text="重甲与残酷近战力量" />
     <string id="tor_chaos_cc_feat_magic" text="黑暗魔法与混沌赠礼经济" />
-    <string id="tor_chaos_cc_feat_enemy" text="开局即为文明诸国的敌人" />    <string id="tor_chaos_menu_continue_text" text="继续" />
+    <string id="tor_chaos_cc_feat_enemy" text="开局即为文明诸国的敌人" />
+    <string id="tor_chaos_menu_continue_text" text="继续" />
     <string id="tor_chaos_menu_leave_text" text="离开..." />
     <string id="tor_chaos_portal_name" text="混沌传送门" />
   </strings>
